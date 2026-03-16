@@ -43,7 +43,7 @@ Annual reports vary in how emissions and energy are measured including the metho
 
 Only unique year/value combinations are recorded for the earliest annual report in which the year/value is recorded.
 
-# Business Scope
+3. Business Scope
 Where values are reported for more than one ‘organizational scope’ only the scope that is closest to the 'UK Supermarket' is recorded. For example, only values for Waitrose supermarkets are recorded for John Lewis Partnership reports. 
 
 ## Cleaned Data: retailer_emissions_clean.csv
