@@ -15,5 +15,5 @@ Annual reports vary in accounting period, with most covering the previous year t
 The values may relate to different organizational scopes within and between years. When more than one ‘organizational scope’ is reported, the scope that is closest to the UK scope of the retail points is recorded, and the organizational scope is recorded in Business_Scope; for example, values for Waitrose supermarkets are recorded from the JLP reports.
 
 | Field | Type | Description |
-|----------|----------|
-| Data 1 | Data 2 |
+|----------|----------|----------|
+| Data 1 | Data 2 | Data 3 |
