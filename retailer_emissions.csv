@@ -1,0 +1,1135 @@
+﻿Retailer_Id,Year,Method,KPI,KPI_Type,Source_Year,Source_Value,Source_Unit,Value,Unit,Unit_Neum,Unit_Denom_1,Unit_Denom_2,Business_Scope
+ALDI,2019,Location,Scope 1 and 2,Intensity,2020,0.224,tCO2e/m2 Sales Floor,0.224,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2020,Location,Scope 1 and 2,Intensity,2020,0.206,tCO2e/m2 Sales Floor,0.206,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2021,Location,Scope 1 and 2,Intensity,2021,0.188,tCO2e/m2 Sales Floor,0.188,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2022,Location,Scope 1 and 2,Intensity,2022,0.171,tCO2e/m2 Sales Floor,0.171,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2023,Location,Scope 1 and 2,Intensity,2023,0.173,tCO2e/m2 Sales Floor,0.173,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2020,Location,Scope 1 - 3,Intensity,2021,0.23,tCO2e/m2 Sales Floor,0.23,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2021,Location,Scope 1 - 3,Intensity,2021,0.215,tCO2e/m2 Sales Floor,0.215,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2022,Location,Scope 1 - 3,Intensity,2022,0.196,tCO2e/m2 Sales Floor,0.196,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2022,Location,Scope 1 - 3,Intensity,2023,0.21,tCO2e/m2 Sales Floor,0.21,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2023,Location,Scope 1 - 3,Intensity,2023,0.203,tCO2e/m2 Sales Floor,0.203,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2020,Market,Scope 1 - 3,Intensity,2021,0.13,tCO2e/m2 Sales Floor,0.13,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2021,Market,Scope 1 - 3,Intensity,2021,0.125,tCO2e/m2 Sales Floor,0.125,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2022,Market,Scope 1 - 3,Intensity,2022,0.117,tCO2e/m2 Sales Floor,0.117,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2022,Market,Scope 1 - 3,Intensity,2023,0.126,tCO2e/m2 Sales Floor,0.126,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2023,Market,Scope 1 - 3,Intensity,2023,0.115,tCO2e/m2 Sales Floor,0.115,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Ireland
+ALDI,2019,Location,Scope 1 and 2,Intensity,2020,18.99,tCO2e/£m Sales,18.99,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2020,Location,Scope 1 and 2,Intensity,2020,16.97,tCO2e/£m Sales,16.97,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2020,Location,Scope 1 and 2,Intensity,2021,0.017,tCO2e/£m Sales,0.017,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2021,Location,Scope 1 and 2,Intensity,2021,0.0164,tCO2e/£m Sales,0.0164,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2022,Location,Scope 1 and 2,Intensity,2022,0.0134,tCO2e/£m Sales,0.0134,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2022,Location,Scope 1 and 2,Intensity,2023,0.126,tCO2e/£m Sales,0.126,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2022,Location,Scope 1 and 2,Intensity,2023,13.3857,tCO2e/£m Sales,13.3857,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2023,Location,Scope 1 and 2,Intensity,2023,11.1809,tCO2e/£m Sales,11.1809,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2019,Location,Scope 1 - 3,Intensity,2020,21.2,tCO2e/£m Sales,21.2,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2020,Location,Scope 1 - 3,Intensity,2020,18.96,tCO2e/£m Sales,18.96,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2020,Location,Scope 1 - 3,Intensity,2021,0.019,tCO2e/£m Sales,0.019,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2021,Location,Scope 1 - 3,Intensity,2021,0.0187,tCO2e/£m Sales,0.0187,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2022,Location,Scope 1 - 3,Intensity,2022,0.0153,tCO2e/£m Sales,0.0153,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2022,Location,Scope 1 - 3,Intensity,2023,15.3425,tCO2e/£m Sales,15.3425,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2023,Location,Scope 1 - 3,Intensity,2023,13.1117,tCO2e/£m Sales,13.1117,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2019,Market,Scope 1 - 3,Intensity,2020,12.27,tCO2e/£m Sales,12.27,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2020,Market,Scope 1 - 3,Intensity,2020,10.68,tCO2e/£m Sales,10.68,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2020,Market,Scope 1 - 3,Intensity,2021,0.0107,tCO2e/£m Sales,0.0107,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2021,Market,Scope 1 - 3,Intensity,2021,0.0109,tCO2e/£m Sales,0.0109,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2022,Market,Scope 1 - 3,Intensity,2022,0.0092,tCO2e/£m Sales,0.0092,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2022,Market,Scope 1 - 3,Intensity,2023,9.1932,tCO2e/£m Sales,9.1932,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2023,Market,Scope 1 - 3,Intensity,2023,7.4253,tCO2e/£m Sales,7.4253,tCO2e/£m Sales,tCO2e,£m,Sales,UK and Ireland
+ALDI,2019,,Energy,Measure,2020,750247,MWh,750.247,GWh,,,,UK and Ireland
+ALDI,2020,,Energy,Measure,2020,795826,MWh,795.826,GWh,,,,UK and Ireland
+ALDI,2021,,Energy,Measure,2021,798298,MWh,798.298,GWh,,,,UK and Ireland
+ALDI,2022,,Energy,Measure,2022,790180,MWh,790.18,GWh,,,,UK and Ireland
+ALDI,2022,,Energy,Measure,2023,813398,MWh,813.398,GWh,,,,UK and Ireland
+ALDI,2023,,Energy,Measure,2023,806664,MWh,806.664,GWh,,,,UK and Ireland
+ALDI,2019,Location,Scope 1,Measure,2020,113533,tCO2e,113533,tCO2e,,,,UK and Ireland
+ALDI,2020,Location,Scope 1,Measure,2020,106812,tCO2e,106812,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 1,Measure,2021,105622,tCO2e,105622,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 1,Measure,2022,105463,tCO2e,105463,tCO2e,,,,UK and Ireland
+ALDI,2022,Location,Scope 1,Measure,2022,103564,tCO2e,103564,tCO2e,,,,UK and Ireland
+ALDI,2022,Location,Scope 1,Measure,2023,103822,tCO2e,103822,tCO2e,,,,UK and Ireland
+ALDI,2023,Location,Scope 1,Measure,2023,92734,tCO2e,92734,tCO2e,,,,UK and Ireland
+ALDI,2019,Location,Scope 1 and 2,Measure,2020,214364,tCO2e,214364,tCO2e,,,,UK and Ireland
+ALDI,2020,Location,Scope 1 and 2,Measure,2020,208547,tCO2e,208547,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 1 and 2,Measure,2021,201980,tCO2e,201980,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 1 and 2,Measure,2022,201820,tCO2e,201820,tCO2e,,,,UK and Ireland
+ALDI,2022,Location,Scope 1 and 2,Measure,2022,191790,tCO2e,191790,tCO2e,,,,UK and Ireland
+ALDI,2023,Location,Scope 1 and 2,Measure,2023,188704,tCO2e,188704,tCO2e,,,,UK and Ireland
+ALDI,2019,Market,Scope 1 and 2,Measure,2020,113533,tCO2e,113533,tCO2e,,,,UK and Ireland
+ALDI,2020,Market,Scope 1 and 2,Measure,2020,106812,tCO2e,106812,tCO2e,,,,UK and Ireland
+ALDI,2021,Market,Scope 1 and 2,Measure,2021,105622,tCO2e,105622,tCO2e,,,,UK and Ireland
+ALDI,2021,Market,Scope 1 and 2,Measure,2022,105463,tCO2e,105463,tCO2e,,,,UK and Ireland
+ALDI,2022,Market,Scope 1 and 2,Measure,2022,103564,tCO2e,103564,tCO2e,,,,UK and Ireland
+ALDI,2023,Market,Scope 1 and 2,Measure,2023,92734,tCO2e,92734,tCO2e,,,,UK and Ireland
+ALDI,2019,Location,Scope 2,Measure,2020,100831,tCO2e,100831,tCO2e,,,,UK and Ireland
+ALDI,2020,Location,Scope 2,Measure,2020,101734,tCO2e,101734,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 2,Measure,2021,96358,tCO2e,96358,tCO2e,,,,UK and Ireland
+ALDI,2022,Location,Scope 2,Measure,2022,88226,tCO2e,88226,tCO2e,,,,UK and Ireland
+ALDI,2023,Location,Scope 2,Measure,2023,95970,tCO2e,95970,tCO2e,,,,UK and Ireland
+ALDI,2019,Market,Scope 2,Measure,2020,0,tCO2e,0,tCO2e,,,,UK and Ireland
+ALDI,2020,Market,Scope 2,Measure,2020,0,tCO2e,0,tCO2e,,,,UK and Ireland
+ALDI,2021,Market,Scope 2,Measure,2021,0,tCO2e,0,tCO2e,,,,UK and Ireland
+ALDI,2022,Market,Scope 2,Measure,2022,0,tCO2e,0,tCO2e,,,,UK and Ireland
+ALDI,2023,Market,Scope 2,Measure,2023,0,tCO2e,0,tCO2e,,,,UK and Ireland
+ALDI,2019,,Scope 3,Measure,2020,24953,tCO2e,24953,tCO2e,,,,UK and Ireland
+ALDI,2020,,Scope 3,Measure,2020,24410,tCO2e,24410,tCO2e,,,,UK and Ireland
+ALDI,2020,,Scope 3,Measure,2021,24410,tCO2e,24410,tCO2e,,,,UK and Ireland
+ALDI,2021,,Scope 3,Measure,2021,29044,tCO2e,29044,tCO2e,,,,UK and Ireland
+ALDI,2021,,Scope 3,Measure,2022,29203,tCO2e,29203,tCO2e,,,,UK and Ireland
+ALDI,2022,,Scope 3,Measure,2022,28075,tCO2e,28075,tCO2e,,,,UK and Ireland
+ALDI,2023,,Scope 3,Measure,2023,32586,tCO2e,32586,tCO2e,,,,UK and Ireland
+ALDI,2019,Location,Scope 1 - 3,Measure,2020,239317,tCO2e,239317,tCO2e,,,,UK and Ireland
+ALDI,2020,Location,Scope 1 - 3,Measure,2020,232957,tCO2e,232957,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 1 - 3,Measure,2021,231024,tCO2e,231024,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 1 - 3,Measure,2022,220123,tCO2e,220123,tCO2e,,,,UK and Ireland
+ALDI,2021,Location,Scope 1 - 3,Measure,2022,219856,tCO2e,219856,tCO2e,,,,UK and Ireland
+ALDI,2022,Location,Scope 1 - 3,Measure,2022,221289,tCO2e,221289,tCO2e,,,,UK and Ireland
+ALDI,2019,Market,Scope 1 - 3,Measure,2020,138486,tCO2e,138486,tCO2e,,,,UK and Ireland
+ALDI,2020,Market,Scope 1 - 3,Measure,2020,131223,tCO2e,131223,tCO2e,,,,UK and Ireland
+ALDI,2021,Market,Scope 1 - 3,Measure,2021,134666,tCO2e,134666,tCO2e,,,,UK and Ireland
+ALDI,2022,Market,Scope 1 - 3,Measure,2022,131640,tCO2e,131640,tCO2e,,,,UK and Ireland
+ALDI,2022,Market,Scope 1 - 3,Measure,2023,131897,tCO2e,131897,tCO2e,,,,UK and Ireland
+ALDI,2023,Market,Scope 1 - 3,Measure,2023,125319,tCO2e,125319,tCO2e,,,,UK and Ireland
+ASDA,2021,,Energy,Measure,2022,2339827054,KWh,233.9827,GWh,,,,UK
+ASDA,2022,,Energy,Measure,2022,2230990785,KWh,223.0991,GWh,,,,UK
+ASDA,2023,,Energy,Measure,2023,2264562056,KWh,226.4562,GWh,,,,UK
+ASDA,2021,,Scope 1,Measure,2022,309131,tCO2e,309131,tCO2e,,,,UK
+ASDA,2022,,Scope 1,Measure,2022,368060,tCO2e,368060,tCO2e,,,,UK
+ASDA,2022,,Scope 1,Measure,2023,245315,tCO2e,245315,tCO2e,,,,UK
+ASDA,2021,Location,Scope 2,Measure,2022,234548,tCO2e,234548,tCO2e,,,,UK
+ASDA,2022,Location,Scope 2,Measure,2022,206839,tCO2e,206839,tCO2e,,,,UK
+ASDA,2023,Location,Scope 2,Measure,2023,216994,tCO2e,216994,tCO2e,,,,UK
+ASDA,2021,Location,Scope 3,Measure,2022,233,tCO2e,233,tCO2e,,,,UK
+ASDA,2022,Location,Scope 3,Measure,2022,606,tCO2e,606,tCO2e,,,,UK
+ASDA,2023,Location,Scope 3,Measure,2023,821,tCO2e,821,tCO2e,,,,UK
+ASDA,2021,Location,Scope 1 - 3,Intensity,2022,26.61,tCO2e/£m Sales,26.61,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+ASDA,2022,Location,Scope 1 - 3,Intensity,2022,23.51,tCO2e/£m Sales,23.51,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+ASDA,2023,Location,Scope 1 - 3,Intensity,2023,20.16,tCO2e/£m Sales,20.16,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+ASDA,2021,Location,Scope 1 - 3,Measure,2022,624912,tCO2e,624912,tCO2e,,,,UK
+ASDA,2022,Location,Scope 1 - 3,Measure,2022,575505,tCO2e,575505,tCO2e,,,,UK
+ASDA,2023,Location,Scope 1 - 3,Measure,2023,563130,tCO2e,563130,tCO2e,,,,UK
+COOP,2012,,Scope 1,Measure,2012,288395,tCO2e,288395,tCO2e,,,,UK
+COOP,2013,,Scope 1,Measure,2013,308518,tCO2e,308518,tCO2e,,,,UK
+COOP,2014,,Scope 1,Measure,2014,333877,tCO2e,333877,tCO2e,,,,UK
+COOP,2015,,Scope 1,Measure,2015,330698,tCO2e,330698,tCO2e,,,,UK
+COOP,2016,,Scope 1,Measure,2016,342249,tCO2e,342249,tCO2e,,,,UK
+COOP,2017,,Scope 1,Measure,2017,296717,tCO2e,296717,tCO2e,,,,UK
+COOP,2018,,Scope 1,Measure,2018,247417,tCO2e,247417,tCO2e,,,,UK
+COOP,2019,,Scope 1,Measure,2019,231931,tCO2e,231931,tCO2e,,,,UK
+COOP,2019,,Scope 1,Measure,2020,205000,tCO2e,205000,tCO2e,,,,UK
+COOP,2020,,Scope 1,Measure,2020,182000,tCO2e,182000,tCO2e,,,,UK
+COOP,2021,,Scope 1,Measure,2021,225000,tCO2e,225000,tCO2e,,,,UK
+COOP,2022,,Scope 1,Measure,2022,18000,tCO2e,180000,tCO2e,,,,UK
+COOP,2006,Location,Scope 1 and 2,Measure,2012,1408419,tCO2e,1408419,tCO2e,,,,UK
+COOP,2006,Location,Scope 1 and 2,Measure,2013,1307975,tCO2e,1307975,tCO2e,,,,UK
+COOP,2006,Location,Scope 1 and 2,Measure,2016,1204760,tCO2e,1204760,tCO2e,,,,UK
+COOP,2006,Location,Scope 1 and 2,Measure,2017,1189738,tCO2e,1189738,tCO2e,,,,UK
+COOP,2009,Location,Scope 1 and 2,Measure,2014,1204760,tCO2e,1204760,tCO2e,,,,UK
+COOP,2009,Location,Scope 1 and 2,Measure,2012,1088730,tCO2e,1088730,tCO2e,,,,UK
+COOP,2010,Location,Scope 1 and 2,Measure,2012,932254,tCO2e,932254,tCO2e,,,,UK
+COOP,2010,Location,Scope 1 and 2,Measure,2013,889931,tCO2e,889931,tCO2e,,,,UK
+COOP,2011,Location,Scope 1 and 2,Measure,2012,852575,tCO2e,852575,tCO2e,,,,UK
+COOP,2011,Location,Scope 1 and 2,Measure,2013,780548,tCO2e,780548,tCO2e,,,,UK
+COOP,2011,Location,Scope 1 and 2,Measure,2014,755504,tCO2e,755504,tCO2e,,,,UK
+COOP,2012,Location,Scope 1 and 2,Measure,2012,803581,tCO2e,803581,tCO2e,,,,UK
+COOP,2012,Location,Scope 1 and 2,Measure,2014,715278,tCO2e,715278,tCO2e,,,,UK
+COOP,2012,Location,Scope 1 and 2,Measure,2013,738738,tCO2e,738738,tCO2e,,,,UK
+COOP,2013,Location,Scope 1 and 2,Measure,2013,715722,tCO2e,715722,tCO2e,,,,UK
+COOP,2013,Location,Scope 1 and 2,Measure,2014,694725,tCO2e,694725,tCO2e,,,,UK
+COOP,2014,Location,Scope 1 and 2,Measure,2014,737263,tCO2e,737263,tCO2e,,,,UK
+COOP,2014,Location,Scope 1 and 2,Measure,2017,732061,tCO2e,732061,tCO2e,,,,UK
+COOP,2015,Location,Scope 1 and 2,Measure,2015,688218,tCO2e,688218,tCO2e,,,,UK
+COOP,2015,Location,Scope 1 and 2,Measure,2016,714035,tCO2e,714035,tCO2e,,,,UK
+COOP,2016,Location,Scope 1 and 2,Measure,2016,652689,tCO2e,652689,tCO2e,,,,UK
+COOP,2016,Location,Scope 1 and 2,Measure,2017,646538,tCO2e,646538,tCO2e,,,,UK
+COOP,2017,Location,Scope 1 and 2,Measure,2017,542480,tCO2e,542480,tCO2e,,,,UK
+COOP,2018,Location,Scope 1 and 2,Measure,2018,435980,tCO2e,435980,tCO2e,,,,UK
+COOP,2019,Location,Scope 1 and 2,Measure,2019,396842,tCO2e,396842,tCO2e,,,,UK
+COOP,2020,Location,Scope 1 and 2,Measure,2020,349000,tCO2e,349000,tCO2e,,,,UK
+COOP,2021,Location,Scope 1 and 2,Measure,2021,320000,tCO2e,320000,tCO2e,,,,UK
+COOP,2022,Location,Scope 1 and 2,Measure,2022,288000,tCO2e,288000,tCO2e,,,,UK
+COOP,2023,Location,Scope 1 and 2,Measure,2023,263000,tCO2e,263000,tCO2e,,,,UK
+COOP,2024,Location,Scope 1 and 2,Measure,2024,252000,tCO2e,252000,tCO2e,,,,UK
+COOP,2006,Market,Scope 1 and 2,Measure,2012,987587,tCO2e,987587,tCO2e,,,,UK
+COOP,2006,Market,Scope 1 and 2,Measure,2018,1204760,tCO2e,1204760,tCO2e,,,,UK
+COOP,2009,Market,Scope 1 and 2,Measure,2012,583097,tCO2e,583097,tCO2e,,,,UK
+COOP,2010,Market,Scope 1 and 2,Measure,2012,329133,tCO2e,329133,tCO2e,,,,UK
+COOP,2011,Market,Scope 1 and 2,Measure,2012,301481,tCO2e,301481,tCO2e,,,,UK
+COOP,2012,Market,Scope 1 and 2,Measure,2012,272559,tCO2e,272559,tCO2e,,,,UK
+COOP,2016,Market,Scope 1 and 2,Measure,2018,338207,tCO2e,338207,tCO2e,,,,UK
+COOP,2017,Market,Scope 1 and 2,Measure,2017,296714,tCO2e,296714,tCO2e,,,,UK
+COOP,2017,Market,Scope 1 and 2,Measure,2018,247417,tCO2e,247417,tCO2e,,,,UK
+COOP,2019,Market,Scope 1 and 2,Measure,2019,321931,tCO2e,321931,tCO2e,,,,UK
+COOP,2020,Market,Scope 1 and 2,Measure,2020,206000,tCO2e,206000,tCO2e,,,,UK
+COOP,2021,Market,Scope 1 and 2,Measure,2021,198000,tCO2e,198000,tCO2e,,,,UK
+COOP,2022,Market,Scope 1 and 2,Measure,2022,181000,tCO2e,181000,tCO2e,,,,UK
+COOP,2012,Location,Scope 2,Measure,2012,560507,tCO2e,560507,tCO2e,,,,UK
+COOP,2012,Location,Scope 2,Measure,2013,444101,tCO2e,444101,tCO2e,,,,UK
+COOP,2013,Location,Scope 2,Measure,2014,392528,tCO2e,392528,tCO2e,,,,UK
+COOP,2014,Location,Scope 2,Measure,2014,403386,tCO2e,403386,tCO2e,,,,UK
+COOP,2015,Location,Scope 2,Measure,2015,357520,tCO2e,357520,tCO2e,,,,UK
+COOP,2016,Location,Scope 2,Measure,2016,310439,tCO2e,310439,tCO2e,,,,UK
+COOP,2017,Location,Scope 2,Measure,2017,245766,tCO2e,245766,tCO2e,,,,UK
+COOP,2018,Location,Scope 2,Measure,2018,188563,tCO2e,188563,tCO2e,,,,UK
+COOP,2019,Location,Scope 2,Measure,2019,164911,tCO2e,164911,tCO2e,,,,UK
+COOP,2019,Location,Scope 2,Measure,2020,192000,tCO2e,192000,tCO2e,,,,UK
+COOP,2020,Location,Scope 2,Measure,2020,167000,tCO2e,167000,tCO2e,,,,UK
+COOP,2021,Location,Scope 2,Measure,2021,121000,tCO2e,121000,tCO2e,,,,UK
+COOP,2022,Location,Scope 2,Measure,2022,107000,tCO2e,107000,tCO2e,,,,UK
+COOP,2012,Market,Scope 2,Measure,2012,515185,tCO2e,515185,tCO2e,,,,UK
+COOP,2013,Market,Scope 2,Measure,2013,7393,tCO2e,7393,tCO2e,,,,UK
+COOP,2014,Market,Scope 2,Measure,2014,7799,tCO2e,7799,tCO2e,,,,UK
+COOP,2015,Market,Scope 2,Measure,2015,3575,tCO2e,3575,tCO2e,,,,UK
+COOP,2017,Market,Scope 2,Measure,2017,0,tCO2e,0,tCO2e,,,,UK
+COOP,2018,Market,Scope 2,Measure,2018,0,tCO2e,0,tCO2e,,,,UK
+COOP,2019,Market,Scope 2,Measure,2019,0,tCO2e,0,tCO2e,,,,UK
+COOP,2019,Market,Scope 2,Measure,2020,27000,tCO2e,27000,tCO2e,,,,UK
+COOP,2020,Market,Scope 2,Measure,2020,24000,tCO2e,24000,tCO2e,,,,UK
+COOP,2021,Market,Scope 2,Measure,2021,0,tCO2e,0,tCO2e,,,,UK
+COOP,2022,Market,Scope 2,Measure,2022,1,tCO2e,1,tCO2e,,,,UK
+COOP,2016,Location,Scope 3,Measure,2023,4886,tCO2e,4886,tCO2e,,,,UK
+COOP,2023,Location,Scope 3,Measure,2023,3849,tCO2e,3849,tCO2e,,,,UK
+COOP,2024,Location,Scope 3,Measure,2024,4333,tCO2e,4333,tCO2e,,,,UK
+COOP,2010,Location,Scope 1 and 2,Intensity,2013,76.84,tCO2e/£m Sales,76.84,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2011,Location,Scope 1 and 2,Intensity,2013,66.93,tCO2e/£m Sales,66.93,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2012,Location,Scope 1 and 2,Intensity,2013,62.21,tCO2e/£m Sales,62.21,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2013,Location,Scope 1 and 2,Intensity,2013,62.85,tCO2e/£m Sales,62.85,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2014,Location,Scope 1 and 2,Intensity,2014,72.18,tCO2e/£m Sales,72.18,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2015,Location,Scope 1 and 2,Intensity,2015,68.16,tCO2e/£m Sales,68.16,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2016,Location,Scope 1 and 2,Intensity,2016,63.5,tCO2e/£m Sales,63.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2017,Location,Scope 1 and 2,Intensity,2017,52.8,tCO2e/£m Sales,52.8,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2018,Location,Scope 1 and 2,Intensity,2018,42.7,tCO2e/£m Sales,42.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2019,Location,Scope 1 and 2,Intensity,2019,36.4,tCO2e/£m Sales,36.4,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2020,Location,Scope 1 and 2,Intensity,2020,30.5,tCO2e/£m Sales,30.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2021,Location,Scope 1 and 2,Intensity,2021,28.6,tCO2e/£m Sales,28.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2022,Location,Scope 1 and 2,Intensity,2022,25.3,tCO2e/£m Sales,25.3,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2018,,Energy,Measure,2024,1280410028,kWh,128.041,GWh,,,,UK
+JLP,2022,,Energy,Measure,2024,1128248164,kWh,112.8248,GWh,,,,UK
+JLP,2023,,Energy,Measure,2024,1128248164,kWh,112.8248,GWh,,,,UK
+JLP,2024,,Energy,Measure,2025,1092060534,kWh,109.2061,GWh,,,,UK
+JLP,2014,Location,Scope 1,Measure,2015,205278,tCO2e,205278,tCO2e,,,,UK
+JLP,2014,Location,Scope 1,Measure,2016,218030,tCO2e,218030,tCO2e,,,,UK
+JLP,2015,Location,Scope 1,Measure,2016,204492,tCO2e,204492,tCO2e,,,,UK
+JLP,2015,Location,Scope 1,Measure,2017,202094,tCO2e,202094,tCO2e,,,,UK
+JLP,2016,Location,Scope 1,Measure,2017,193796,tCO2e,193796,tCO2e,,,,UK
+JLP,2017,Location,Scope 1,Measure,2018,176611,tCO2e,176611,tCO2e,,,,UK
+JLP,2018,Location,Scope 1,Measure,2019,168029,tCO2e,168029,tCO2e,,,,UK
+JLP,2019,Location,Scope 1,Measure,2020,156755,tCO2e,156755,tCO2e,,,,UK
+JLP,2020,Location,Scope 1,Measure,2021,141417,tCO2e,141417,tCO2e,,,,UK
+JLP,2021,Location,Scope 1,Measure,2022,138080,tCO2e,138080,tCO2e,,,,UK
+JLP,2021,Location,Scope 1,Measure,2023,135704,tCO2e,135704,tCO2e,,,,UK
+JLP,2022,Location,Scope 1,Measure,2023,123309,tCO2e,123309,tCO2e,,,,UK
+JLP,2022,Location,Scope 1,Measure,2024,118898,tCO2e,118898,tCO2e,,,,UK
+JLP,2023,Location,Scope 1,Measure,2024,103299,tCO2e,103299,tCO2e,,,,UK
+JLP,2021,Market,Scope 1,Measure,2022,135704,tCO2e,135704,tCO2e,,,,UK
+JLP,2009,Location,Scope 1 and 2,Measure,2012,517018,tCO2e,517018,tCO2e,,,,UK
+JLP,2010,Location,Scope 1 and 2,Measure,2012,530147,tCO2e,530147,tCO2e,,,,UK
+JLP,2011,Location,Scope 1 and 2,Measure,2013,528535,tCO2e,528535,tCO2e,,,,UK
+JLP,2012,Location,Scope 1 and 2,Measure,2013,557017,tCO2e,557017,tCO2e,,,,UK
+JLP,2013,Location,Scope 1 and 2,Measure,2014,546358,tCO2e,546358,tCO2e,,,,UK
+JLP,2014,Location,Scope 1 and 2,Measure,2015,583915,tCO2e,583915,tCO2e,,,,UK
+JLP,2014,Location,Scope 1 and 2,Measure,2016,534373,tCO2e,534373,tCO2e,,,,UK
+JLP,2015,Location,Scope 1 and 2,Measure,2016,499419,tCO2e,499419,tCO2e,,,,UK
+JLP,2016,Location,Scope 1 and 2,Measure,2017,463782,tCO2e,463782,tCO2e,,,,UK
+JLP,2017,Location,Scope 1 and 2,Measure,2018,403945,tCO2e,403945,tCO2e,,,,UK
+JLP,2018,Location,Scope 1 and 2,Measure,2019,351007,tCO2e,351007,tCO2e,,,,UK
+JLP,2019,Location,Scope 1 and 2,Measure,2020,316773,tCO2e,316773,tCO2e,,,,UK
+JLP,2020,Location,Scope 1 and 2,Measure,2021,271430,tCO2e,271430,tCO2e,,,,UK
+JLP,2021,Location,Scope 1 and 2,Measure,2022,255774,tCO2e,255774,tCO2e,,,,UK
+JLP,2021,Location,Scope 1 and 2,Measure,2023,253398,tCO2e,253398,tCO2e,,,,UK
+JLP,2022,Location,Scope 1 and 2,Measure,2023,229295,tCO2e,229295,tCO2e,,,,UK
+JLP,2022,Location,Scope 1 and 2,Measure,2024,224125,tCO2e,224125,tCO2e,,,,UK
+JLP,2023,Location,Scope 1 and 2,Measure,2024,210006,tCO2e,210006,tCO2e,,,,UK
+JLP,2024,Location,Scope 1 and 2,Measure,2025,199147,tCO2e,199147,tCO2e,,,,UK
+JLP,2014,Market,Scope 1 and 2,Measure,2016,561607,tCO2e,561607,tCO2e,,,,UK
+JLP,2015,Market,Scope 1 and 2,Measure,2016,248091,tCO2e,248091,tCO2e,,,,UK
+JLP,2016,Market,Scope 1 and 2,Measure,2017,201197,tCO2e,201197,tCO2e,,,,UK
+JLP,2017,Market,Scope 1 and 2,Measure,2018,183036,tCO2e,183036,tCO2e,,,,UK
+JLP,2018,Market,Scope 1 and 2,Measure,2019,175381,tCO2e,175381,tCO2e,,,,UK
+JLP,2019,Market,Scope 1 and 2,Measure,2020,164876,tCO2e,164876,tCO2e,,,,UK
+JLP,2020,Market,Scope 1 and 2,Measure,2021,146895,tCO2e,146895,tCO2e,,,,UK
+JLP,2021,Market,Scope 1 and 2,Measure,2022,138852,tCO2e,138852,tCO2e,,,,UK
+JLP,2021,Market,Scope 1 and 2,Measure,2023,136476,tCO2e,136476,tCO2e,,,,UK
+JLP,2022,Market,Scope 1 and 2,Measure,2023,124784,tCO2e,124784,tCO2e,,,,UK
+JLP,2022,Market,Scope 1 and 2,Measure,2024,120288,tCO2e,120288,tCO2e,,,,UK
+JLP,2023,Market,Scope 1 and 2,Measure,2024,146701,tCO2e,146701,tCO2e,,,,UK
+JLP,2024,Market,Scope 1 and 2,Measure,2025,111039,tCO2e,111039,tCO2e,,,,UK
+JLP,2023,Market,Scope 1 and 2,Measure,2025,119286,tCO2e,119286,tCO2e,,,,UK
+JLP,2024,Market,Scope 1 and 2,Measure,2025,110600,tCO2e,110600,tCO2e,,,,UK
+JLP,2013,Location,Scope 2,Measure,2014,271112,tCO2e,271112,tCO2e,,,,UK
+JLP,2014,Location,Scope 2,Measure,2015,316343,tCO2e,316343,tCO2e,,,,UK
+JLP,2015,Location,Scope 2,Measure,2016,294927,tCO2e,294927,tCO2e,,,,UK
+JLP,2016,Location,Scope 2,Measure,2017,269986,tCO2e,269986,tCO2e,,,,UK
+JLP,2017,Location,Scope 2,Measure,2018,227334,tCO2e,227334,tCO2e,,,,UK
+JLP,2018,Location,Scope 2,Measure,2019,182978,tCO2e,182978,tCO2e,,,,UK
+JLP,2019,Location,Scope 2,Measure,2020,160018,tCO2e,160018,tCO2e,,,,UK
+JLP,2020,Location,Scope 2,Measure,2021,130352,tCO2e,130352,tCO2e,,,,UK
+JLP,2021,Location,Scope 2,Measure,2022,117694,tCO2e,117694,tCO2e,,,,UK
+JLP,2021,Location,Scope 2,Measure,2023,105905,tCO2e,105905,tCO2e,,,,UK
+JLP,2022,Location,Scope 2,Measure,2024,105227,tCO2e,105227,tCO2e,,,,UK
+JLP,2023,Location,Scope 2,Measure,2024,106707,tCO2e,106707,tCO2e,,,,UK
+JLP,2024,Location,Scope 2,Measure,2024,106555,tCO2e,106555,tCO2e,,,,UK
+JLP,2013,Location,Scope 2,Intensity,2014,53.7,tCO2e/£m Sales,53.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2014,Location,Scope 2,Intensity,2015,53.4,tCO2e/£m Sales,53.4,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2014,Location,Scope 2,Intensity,2016,54.5,tCO2e/£m Sales,54.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2015,Location,Scope 2,Intensity,2016,50.9,tCO2e/£m Sales,50.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2015,Location,Scope 2,Intensity,2017,49.6,tCO2e/£m Sales,49.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2016,Location,Scope 2,Intensity,2017,45.7,tCO2e/£m Sales,45.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2017,Location,Scope 2,Intensity,2018,39.3,tCO2e/£m Sales,39.3,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2018,Location,Scope 2,Intensity,2019,34.2,tCO2e/£m Sales,34.2,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2019,Location,Scope 2,Intensity,2020,30.9,tCO2e/£m Sales,30.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2020,Location,Scope 2,Intensity,2021,25.5,tCO2e/£m Sales,25.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2021,Location,Scope 2,Intensity,2022,22,tCO2e/£m Sales,22,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2022,Location,Scope 2,Intensity,2023,20,tCO2e/£m Sales,20,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2022,Location,Scope 2,Intensity,2024,19.5,tCO2e/£m Sales,19.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2023,Location,Scope 2,Intensity,2024,18.1,tCO2e/£m Sales,18.1,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2024,Location,Scope 2,Intensity,2025,16.7,tCO2e/£m Sales,16.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2014,Market,Scope 2,Intensity,2016,57,tCO2e/£m Sales,57,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2015,Market,Scope 2,Intensity,2016,28.1,tCO2e/£m Sales,28.1,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2015,Market,Scope 2,Intensity,2017,27.3,tCO2e/£m Sales,27.3,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2016,Market,Scope 2,Intensity,2017,22.6,tCO2e/£m Sales,22.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2017,Market,Scope 2,Intensity,2018,19.9,tCO2e/£m Sales,19.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2018,Market,Scope 2,Intensity,2019,19,tCO2e/£m Sales,19,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2019,Market,Scope 2,Intensity,2020,17.7,tCO2e/£m Sales,17.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2020,Market,Scope 2,Intensity,2021,15,tCO2e/£m Sales,15,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2021,Market,Scope 2,Intensity,2022,12.6,tCO2e/£m Sales,12.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2022,Market,Scope 2,Intensity,2023,11.4,tCO2e/£m Sales,11.4,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2022,Market,Scope 2,Intensity,2024,11.1,tCO2e/£m Sales,11.1,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2023,Market,Scope 2,Intensity,2024,10.8,tCO2e/£m Sales,10.8,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2024,Market,Scope 2,Intensity,2025,9.8,tCO2e/£m Sales,9.8,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2023,Market,Scope 2,Intensity,2024,10.9,tCO2e/£m Sales,10.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2024,Market,Scope 2,Intensity,2025,9.9,tCO2e/£m Sales,9.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2015,Market,Scope 2,Measure,2017,43594,tCO2e,43594,tCO2e,,,,UK
+JLP,2016,Market,Scope 2,Measure,2017,7401,tCO2e,7401,tCO2e,,,,UK
+JLP,2017,Market,Scope 2,Measure,2018,6425,tCO2e,6425,tCO2e,,,,UK
+JLP,2018,Market,Scope 2,Measure,2019,7352,tCO2e,7352,tCO2e,,,,UK
+JLP,2019,Market,Scope 2,Measure,2020,8121,tCO2e,8121,tCO2e,,,,UK
+JLP,2020,Market,Scope 2,Measure,2021,5817,tCO2e,5817,tCO2e,,,,UK
+JLP,2021,Market,Scope 2,Measure,2022,772,tCO2e,772,tCO2e,,,,UK
+JLP,2022,Market,Scope 2,Measure,2023,1394,tCO2e,1394,tCO2e,,,,UK
+JLP,2023,Market,Scope 2,Measure,2024,16402,tCO2e,16402,tCO2e,,,,UK
+JLP,2024,Market,Scope 2,Measure,2025,18447,tCO2e,18447,tCO2e,,,,UK
+JLP,2014,Location,Scope 3,Measure,2015,62294,tCO2e,62294,tCO2e,,,,UK
+JLP,2014,Location,Scope 3,Measure,2016,61438,tCO2e,61438,tCO2e,,,,UK
+JLP,2015,Location,Scope 3,Measure,2016,60778,tCO2e,60778,tCO2e,,,,UK
+JLP,2016,Location,Scope 3,Measure,2017,55901,tCO2e,55901,tCO2e,,,,UK
+JLP,2017,Location,Scope 3,Measure,2018,50510,tCO2e,50510,tCO2e,,,,UK
+JLP,2018,Location,Scope 3,Measure,2019,44373,tCO2e,44373,tCO2e,,,,UK
+JLP,2019,Location,Scope 3,Measure,2020,40478,tCO2e,40478,tCO2e,,,,UK
+JLP,2020,Location,Scope 3,Measure,2021,33534,tCO2e,33534,tCO2e,,,,UK
+JLP,2021,Location,Scope 3,Measure,2022,24436,tCO2e,24436,tCO2e,,,,UK
+JLP,2022,Location,Scope 3,Measure,2023,15211,tCO2e,15211,tCO2e,,,,UK
+JLP,2023,Location,Scope 3,Measure,2024,14876,tCO2e,14876,tCO2e,,,,UK
+JLP,2024,Location,Scope 3,Measure,2025,14428,tCO2e,14428,tCO2e,,,,UK
+LIDL,2020,,Energy,Measure,2021,428398,MWh,428.398,GWh,,,,UK
+LIDL,2020,,Energy,Measure,2022,453538,MWh,453.538,GWh,,,,UK
+LIDL,2021,,Energy,Measure,2022,489574,MWh,489.574,GWh,,,,UK
+LIDL,2021,,Energy,Measure,2023,505225,MWh,505.225,GWh,,,,UK
+LIDL,2022,,Energy,Measure,2023,530321,MWh,530.321,GWh,,,,UK
+LIDL,2022,,Energy,Measure,2024,551515,MWh,551.515,GWh,,,,UK
+LIDL,2023,,Energy,Measure,2024,551846,MWh,551.846,GWh,,,,UK
+LIDL,2020,,Scope,Intensity,2021,0.0963,tCO2e/m2 Sales Floor,0.0963,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2021,,Scope,Intensity,2022,0.0741,tCO2e/m2 Sales Floor,0.0741,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2021,,Scope,Intensity,2023,0.0645,tCO2e/m2 Sales Floor,0.0645,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2021,,Scope,Intensity,2024,0.0694,tCO2e/m2 Sales Floor,0.0694,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2022,,Scope,Intensity,2024,0.0679,tCO2e/m2 Sales Floor,0.0679,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2020,,Scope 1,Measure,2021,21757.971,tCO2e,21757.971,tCO2e,,,,UK
+LIDL,2020,,Scope 1,Measure,2022,21757.972,tCO2e,21757.972,tCO2e,,,,UK
+LIDL,2021,,Scope 1,Measure,2022,19548.551,tCO2e,19548.551,tCO2e,,,,UK
+LIDL,2022,,Scope 1,Measure,2023,14855.981,tCO2e,14855.981,tCO2e,,,,UK
+LIDL,2022,,Scope 1,Measure,2024,14856,tCO2e,14856,tCO2e,,,,UK
+LIDL,2023,,Scope 1,Measure,2024,14343,tCO2e,14343,tCO2e,,,,UK
+LIDL,2020,Location,Scope 1 and 2,Measure,2021,119455.11,tCO2e,119455.11,tCO2e,,,,UK
+LIDL,2020,Location,Scope 1 and 2,Measure,2022,119455.111,tCO2e,119455.111,tCO2e,,,,UK
+LIDL,2021,Location,Scope 1 and 2,Measure,2022,116427.511,tCO2e,116427.511,tCO2e,,,,UK
+LIDL,2021,Location,Scope 1 and 2,Measure,2023,108956.217,tCO2e,108956.217,tCO2e,,,,UK
+LIDL,2022,Location,Scope 1 and 2,Measure,2024,113054,tCO2e,113054,tCO2e,,,,UK
+LIDL,2023,Location,Scope 1 and 2,Measure,2024,119813,tCO2e,119813,tCO2e,,,,UK
+LIDL,2020,Market,Scope 1 and 2,Measure,2021,21757.971,tCO2e,21757.971,tCO2e,,,,UK
+LIDL,2021,Market,Scope 1 and 2,Measure,2022,19548.551,tCO2e,19548.551,tCO2e,,,,UK
+LIDL,2022,Market,Scope 1 and 2,Measure,2023,14855.981,tCO2e,14855.981,tCO2e,,,,UK
+LIDL,2022,Market,Scope 1 and 2,Measure,2024,14856,tCO2e,14856,tCO2e,,,,UK
+LIDL,2023,Market,Scope 1 and 2,Measure,2024,14343,tCO2e,14343,tCO2e,,,,UK
+LIDL,2020,Location,Scope 2,Measure,2021,97697.139,tCO2e,97697.139,tCO2e,,,,UK
+LIDL,2021,Location,Scope 2,Measure,2022,96878.96,tCO2e,96878.96,tCO2e,,,,UK
+LIDL,2022,Location,Scope 2,Measure,2023,94100.236,tCO2e,94100.236,tCO2e,,,,UK
+LIDL,2022,Location,Scope 2,Measure,2024,98198,tCO2e,98198,tCO2e,,,,UK
+LIDL,2023,Location,Scope 2,Measure,2024,105470,tCO2e,105470,tCO2e,,,,UK
+LIDL,2020,Market,Scope 2,Measure,2021,0,tCO2e,0,tCO2e,,,,UK
+LIDL,2021,Market,Scope 2,Measure,2022,0,tCO2e,0,tCO2e,,,,UK
+LIDL,2022,Market,Scope 2,Measure,2023,0,tCO2e,0,tCO2e,,,,UK
+LIDL,2023,Market,Scope 2,Measure,2024,0,tCO2e,0,tCO2e,,,,UK
+M&S,2019,,Energy,Measure,2021,827,GWh,827,GWh,,,,UK and Europe
+M&S,2020,,Energy,Measure,2021,787,GWh,787,GWh,,,,UK and Europe
+M&S,2020,,Energy,Measure,2022,1072,GWh,1072,GWh,,,,UK and Europe
+M&S,2021,,Energy,Measure,2022,1132,GWh,1132,GWh,,,,UK and Europe
+M&S,2022,,Energy,Measure,2023,1402,GWh,1402,GWh,,,,UK and Europe
+M&S,2023,,Energy,Measure,2024,1382,GWh,1382,GWh,,,,UK and Europe
+M&S,2006,,Scope 1,Measure,2019,246000,tCO2e,246000,tCO2e,,,,UK and Europe
+M&S,2013,,Scope 1,Measure,2014,169000,tCO2e,169000,tCO2e,,,,UK and Europe
+M&S,2013,,Scope 1,Measure,2015,168000,tCO2e,168000,tCO2e,,,,UK and Europe
+M&S,2014,,Scope 1,Measure,2015,167000,tCO2e,167000,tCO2e,,,,UK and Europe
+M&S,2015,,Scope 1,Measure,2016,182000,tCO2e,182000,tCO2e,,,,UK and Europe
+M&S,2016,,Scope 1,Measure,2017,185000,tCO2e,185000,tCO2e,,,,UK and Europe
+M&S,2017,,Scope 1,Measure,2018,182000,tCO2e,182000,tCO2e,,,,UK and Europe
+M&S,2018,,Scope 1,Measure,2019,167000,tCO2e,167000,tCO2e,,,,UK and Europe
+M&S,2019,,Scope 1,Measure,2020,173000,tCO2e,173000,tCO2e,,,,UK and Europe
+M&S,2019,,Scope 1,Measure,2021,172000,tCO2e,172000,tCO2e,,,,UK
+M&S,2020,,Scope 1,Measure,2021,157000,tCO2e,157000,tCO2e,,,,UK and Europe
+M&S,2020,,Scope 1,Measure,2021,156000,tCO2e,156000,tCO2e,,,,UK
+M&S,2021,,Scope 1,Measure,2022,174000,tCO2e,174000,tCO2e,,,,UK and Europe
+M&S,2021,,Scope 1,Measure,2022,172000,tCO2e,172000,tCO2e,,,,UK
+M&S,2021,,Scope 1,Measure,2023,234000,tCO2e,234000,tCO2e,,,,UK and Europe
+M&S,2021,,Scope 1,Measure,2023,228000,tCO2e,228000,tCO2e,,,,UK
+M&S,2022,,Scope 1,Measure,2023,226000,tCO2e,226000,tCO2e,,,,UK and Europe
+M&S,2022,,Scope 1,Measure,2023,218000,tCO2e,218000,tCO2e,,,,UK
+M&S,2022,,Scope 1,Measure,2024,225000,tCO2e,225000,tCO2e,,,,UK and Europe
+M&S,2023,,Scope 1,Measure,2024,207000,tCO2e,207000,tCO2e,,,,UK and Europe
+M&S,2023,,Scope 1,Measure,2024,203000,tCO2e,203000,tCO2e,,,,UK
+M&S,2005,,Scope 1 - 3,Measure,2007,404000,tCO2e,404000,tCO2e,,,,UK and Europe
+M&S,2006,,Scope 1 - 3,Measure,2007,296000,tCO2e,296000,tCO2e,,,,UK and Europe
+M&S,2006,,Scope 1 - 3,Measure,2008,517000,tCO2e,517000,tCO2e,,,,UK and Europe
+M&S,2006,,Scope 1 - 3,Measure,2012,735000,tCO2e,735000,tCO2e,,,,UK and Europe
+M&S,2007,,Scope 1 - 3,Measure,2008,469000,tCO2e,469000,tCO2e,,,,UK and Europe
+M&S,2007,,Scope 1 - 3,Measure,2009,537000,tCO2e,537000,tCO2e,,,,UK and Europe
+M&S,2008,,Scope 1 - 3,Measure,2009,441000,tCO2e,441000,tCO2e,,,,UK and Europe
+M&S,2008,,Scope 1 - 3,Measure,2013,590000,tCO2e,590000,tCO2e,,,,UK and Europe
+M&S,2008,,Scope 1 - 3,Measure,2014,566000,tCO2e,566000,tCO2e,,,,UK and Europe
+M&S,2014,,Scope 1 - 3,Measure,2015,592000,tCO2e,592000,tCO2e,,,,UK and Europe
+M&S,2015,,Scope 1 - 3,Measure,2016,566000,tCO2e,566000,tCO2e,,,,UK and Europe
+M&S,2015,,Scope 1 - 3,Measure,2017,567000,tCO2e,567000,tCO2e,,,,UK and Europe
+M&S,2016,,Scope 1 - 3,Measure,2017,526000,tCO2e,526000,tCO2e,,,,UK and Europe
+M&S,2013,Location,Scope 1 and 2,Measure,2014,508000,tCO2e,508000,tCO2e,,,,UK and Europe
+M&S,2014,Location,Scope 1 and 2,Measure,2015,534000,tCO2e,534000,tCO2e,,,,UK and Europe
+M&S,2015,Location,Scope 1 and 2,Measure,2016,510000,tCO2e,510000,tCO2e,,,,UK and Europe
+M&S,2016,Location,Scope 1 and 2,Measure,2017,478000,tCO2e,478000,tCO2e,,,,UK and Europe
+M&S,2016,Location,Scope 1 and 2,Measure,2018,640000,tCO2e,640000,tCO2e,,,,UK and Europe
+M&S,2017,Location,Scope 1 and 2,Measure,2018,430000,tCO2e,430000,tCO2e,,,,UK and Europe
+M&S,2018,Location,Scope 1 and 2,Measure,2019,360000,tCO2e,360000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 1 and 2,Measure,2020,338000,tCO2e,338000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 1 and 2,Measure,2021,341000,tCO2e,341000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 1 and 2,Measure,2021,325000,tCO2e,325000,tCO2e,,,,UK
+M&S,2020,Location,Scope 1 and 2,Measure,2021,298000,tCO2e,298000,tCO2e,,,,UK and Europe
+M&S,2020,Location,Scope 1 and 2,Measure,2021,285000,tCO2e,285000,tCO2e,,,,UK
+M&S,2021,Location,Scope 1 and 2,Measure,2022,314000,tCO2e,314000,tCO2e,,,,UK and Europe
+M&S,2021,Location,Scope 1 and 2,Measure,2022,296000,tCO2e,296000,tCO2e,,,,UK
+M&S,2021,Location,Scope 1 and 2,Measure,2023,376000,tCO2e,376000,tCO2e,,,,UK and Europe
+M&S,2021,Location,Scope 1 and 2,Measure,2023,348000,tCO2e,348000,tCO2e,,,,UK
+M&S,2022,Location,Scope 1 and 2,Measure,2023,363000,tCO2e,363000,tCO2e,,,,UK and Europe
+M&S,2022,Location,Scope 1 and 2,Measure,2023,332000,tCO2e,332000,tCO2e,,,,UK
+M&S,2022,Location,Scope 1 and 2,Measure,2024,362000,tCO2e,362000,tCO2e,,,,UK and Europe
+M&S,2023,Location,Scope 1 and 2,Measure,2024,361000,tCO2e,361000,tCO2e,,,,UK and Europe
+M&S,2023,Location,Scope 1 and 2,Measure,2024,323000,tCO2e,323000,tCO2e,,,,UK
+M&S,2006,Location,Scope 1 - 3,Intensity,2010,51,tCO2e/1000ft2 Sales Floor,4.738,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2006,Location,Scope 1 - 3,Intensity,2011,53,tCO2e/1000ft2 Sales Floor,4.9238,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2009,Location,Scope 1 - 3,Intensity,2010,41,tCO2e/1000ft2 Sales Floor,3.809,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2010,Location,Scope 1 - 3,Intensity,2011,38,tCO2e/1000ft2 Sales Floor,3.5303,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2011,Location,Scope 1 - 3,Intensity,2012,27,tCO2e/1000ft2 Sales Floor,2.5084,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2013,Location,Scope 1 - 3,Intensity,2014,30,tCO2e/1000ft2 Sales Floor,2.7871,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2014,Location,Scope 1 - 3,Intensity,2015,29,tCO2e/1000ft2 Sales Floor,2.6942,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2015,Location,Scope 1 - 3,Intensity,2016,29,tCO2e/1000ft2 Sales Floor,2.6942,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2016,Location,Scope 1 - 3,Intensity,2016,26,tCO2e/1000ft2 Sales Floor,2.4155,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2016,Location,Scope 1 and 2,Intensity,2018,40,tCO2e/1000ft2 Sales Floor,3.7161,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2017,Location,Scope 1 and 2,Intensity,2018,23,tCO2e/1000ft2 Sales Floor,2.1368,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2018,Location,Scope 1 and 2,Intensity,2019,19,tCO2e/1000ft2 Sales Floor,1.7651,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2019,Location,Scope 1 and 2,Intensity,2020,18,tCO2e/1000ft2 Sales Floor,1.6722,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2020,Location,Scope 1 and 2,Intensity,2021,17,tCO2e/1000ft2 Sales Floor,1.5793,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2020,Location,Scope 1 and 2,Intensity,2021,15,tCO2e/1000ft2 Sales Floor,1.3935,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2021,Location,Scope 1 and 2,Intensity,2022,16,tCO2e/1000ft2 Sales Floor,1.4864,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2021,Location,Scope 1 and 2,Intensity,2023,18.2,tCO2e/1000ft2 Sales Floor,1.6908,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2022,Location,Scope 1 and 2,Intensity,2023,17.3,tCO2e/1000ft2 Sales Floor,1.6072,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2022,Location,Scope 1 and 2,Intensity,2024,18.5,tCO2e/1000ft2 Sales Floor,1.7187,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2023,Location,Scope 1 and 2,Intensity,2024,18.1,tCO2e/1000ft2 Sales Floor,1.6815,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK and Europe
+M&S,2006,,Energy,Intensity,2010,67.9,KWh/ft2 Sales Floor,6.3081,KWh/m2 Sales Floor,KWh,m2,Sales Floor,UK and Europe
+M&S,2009,,Energy,Intensity,2010,45.8,KWh/ft2 Sales Floor,4.2549,KWh/m2 Sales Floor,KWh,m2,Sales Floor,UK and Europe
+M&S,2010,,Energy,Intensity,2011,52,KWh/ft2 Sales Floor,4.8309,KWh/m2 Sales Floor,KWh,m2,Sales Floor,UK and Europe
+M&S,2011,,Energy,Intensity,2012,49.1,KWh/ft2 Sales Floor,4.5615,KWh/m2 Sales Floor,KWh,m2,Sales Floor,UK and Europe
+M&S,2012,,Energy,Intensity,2012,34,KWh/ft2 Sales Floor,3.1587,KWh/m2 Sales Floor,KWh,m2,Sales Floor,UK and Europe
+M&S,2006,Location,Scope 1 and 2,Measure,2019,640000,tCO2e,640000,tCO2e,,,,UK and Europe
+M&S,2013,Location,Scope 1 and 2,Measure,2014,508000,tCO2e,508000,tCO2e,,,,UK and Europe
+M&S,2014,Location,Scope 1 and 2,Measure,2015,534000,tCO2e,534000,tCO2e,,,,UK and Europe
+M&S,2015,Location,Scope 1 and 2,Measure,2016,510000,tCO2e,510000,tCO2e,,,,UK and Europe
+M&S,2016,Location,Scope 1 and 2,Measure,2017,478000,tCO2e,478000,tCO2e,,,,UK and Europe
+M&S,2017,Location,Scope 1 and 2,Measure,2018,430000,tCO2e,430000,tCO2e,,,,UK and Europe
+M&S,2018,Location,Scope 1 and 2,Measure,2019,360000,tCO2e,360000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 1 and 2,Measure,2020,338000,tCO2e,338000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 1 and 2,Measure,2021,341000,tCO2e,341000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 1 and 2,Measure,2021,325000,tCO2e,325000,tCO2e,,,,UK
+M&S,2020,Location,Scope 1 and 2,Measure,2021,298000,tCO2e,298000,tCO2e,,,,UK and Europe
+M&S,2020,Location,Scope 1 and 2,Measure,2021,285000,tCO2e,285000,tCO2e,,,,UK
+M&S,2020,Location,Scope 1 and 2,Measure,2022,298000,tCO2e,298000,tCO2e,,,,UK and Europe
+M&S,2021,Location,Scope 1 and 2,Measure,2022,314000,tCO2e,314000,tCO2e,,,,UK and Europe
+M&S,2021,Location,Scope 1 and 2,Measure,2022,296000,tCO2e,296000,tCO2e,,,,UK
+M&S,2021,Location,Scope 1 and 2,Measure,2023,376000,tCO2e,376000,tCO2e,,,,UK and Europe
+M&S,2021,Location,Scope 1 and 2,Measure,2023,348000,tCO2e,348000,tCO2e,,,,UK
+M&S,2022,Location,Scope 1 and 2,Measure,2023,376000,tCO2e,376000,tCO2e,,,,UK and Europe
+M&S,2022,Location,Scope 1 and 2,Measure,2023,348000,tCO2e,348000,tCO2e,,,,UK
+M&S,2022,Location,Scope 1 and 2,Measure,2024,362000,tCO2e,362000,tCO2e,,,,UK and Europe
+M&S,2022,Location,Scope 1 and 2,Measure,2024,332000,tCO2e,332000,tCO2e,,,,UK
+M&S,2023,Location,Scope 1 and 2,Measure,2024,361000,tCO2e,361000,tCO2e,,,,UK and Europe
+M&S,2023,Location,Scope 1 and 2,Measure,2024,323000,tCO2e,323000,tCO2e,,,,UK
+M&S,2006,Market,Scope 1 and 2,Measure,2019,640000,tCO2e,640000,tCO2e,,,,UK and Europe
+M&S,2013,Market,Scope 1 and 2,Measure,2016,433000,tCO2e,433000,tCO2e,,,,UK and Europe
+M&S,2015,Market,Scope 1 and 2,Measure,2016,448000,tCO2e,448000,tCO2e,,,,UK and Europe
+M&S,2016,Market,Scope 1 and 2,Measure,2017,514000,tCO2e,514000,tCO2e,,,,UK and Europe
+M&S,2017,Market,Scope 1 and 2,Measure,2018,157000,tCO2e,157000,tCO2e,,,,UK and Europe
+M&S,2018,Market,Scope 1 and 2,Measure,2019,158000,tCO2e,158000,tCO2e,,,,UK and Europe
+M&S,2019,Market,Scope 1 and 2,Measure,2020,195000,tCO2e,195000,tCO2e,,,,UK and Europe
+M&S,2019,Market,Scope 1 and 2,Measure,2021,198000,tCO2e,198000,tCO2e,,,,UK and Europe
+M&S,2019,Market,Scope 1 and 2,Measure,2021,183000,tCO2e,183000,tCO2e,,,,UK
+M&S,2020,Market,Scope 1 and 2,Measure,2021,177000,tCO2e,177000,tCO2e,,,,UK and Europe
+M&S,2020,Market,Scope 1 and 2,Measure,2021,164000,tCO2e,164000,tCO2e,,,,UK
+M&S,2020,Market,Scope 1 and 2,Measure,2022,165000,tCO2e,165000,tCO2e,,,,UK and Europe
+M&S,2021,Market,Scope 1 and 2,Measure,2022,190000,tCO2e,190000,tCO2e,,,,UK and Europe
+M&S,2021,Market,Scope 1 and 2,Measure,2022,172000,tCO2e,172000,tCO2e,,,,UK
+M&S,2021,Market,Scope 1 and 2,Measure,2023,250000,tCO2e,250000,tCO2e,,,,UK and Europe
+M&S,2021,Market,Scope 1 and 2,Measure,2023,229000,tCO2e,229000,tCO2e,,,,UK
+M&S,2022,Market,Scope 1 and 2,Measure,2023,246000,tCO2e,246000,tCO2e,,,,UK and Europe
+M&S,2022,Market,Scope 1 and 2,Measure,2023,219000,tCO2e,219000,tCO2e,,,,UK
+M&S,2022,Market,Scope 1 and 2,Measure,2024,245000,tCO2e,245000,tCO2e,,,,UK and Europe
+M&S,2023,Market,Scope 1 and 2,Measure,2024,439000,tCO2e,439000,tCO2e,,,,UK and Europe
+M&S,2023,Market,Scope 1 and 2,Measure,2024,407000,tCO2e,407000,tCO2e,,,,UK
+M&S,2006,Location,Scope 2,Measure,2019,394000,tCO2e,394000,tCO2e,,,,UK and Europe
+M&S,2013,Location,Scope 2,Measure,2014,339000,tCO2e,339000,tCO2e,,,,UK and Europe
+M&S,2013,Location,Scope 2,Measure,2015,340000,tCO2e,340000,tCO2e,,,,UK and Europe
+M&S,2014,Location,Scope 2,Measure,2015,367000,tCO2e,367000,tCO2e,,,,UK and Europe
+M&S,2015,Location,Scope 2,Measure,2016,328000,tCO2e,328000,tCO2e,,,,UK and Europe
+M&S,2016,Location,Scope 2,Measure,2017,239000,tCO2e,239000,tCO2e,,,,UK and Europe
+M&S,2017,Location,Scope 2,Measure,2018,248000,tCO2e,248000,tCO2e,,,,UK and Europe
+M&S,2018,Location,Scope 2,Measure,2019,193000,tCO2e,193000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 2,Measure,2020,165000,tCO2e,165000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 2,Measure,2021,168000,tCO2e,168000,tCO2e,,,,UK and Europe
+M&S,2019,Location,Scope 2,Measure,2021,154000,tCO2e,154000,tCO2e,,,,UK
+M&S,2020,Location,Scope 2,Measure,2021,141000,tCO2e,141000,tCO2e,,,,UK and Europe
+M&S,2020,Location,Scope 2,Measure,2021,129000,tCO2e,129000,tCO2e,,,,UK
+M&S,2021,Location,Scope 2,Measure,2022,140000,tCO2e,140000,tCO2e,,,,UK and Europe
+M&S,2021,Location,Scope 2,Measure,2022,124000,tCO2e,124000,tCO2e,,,,UK
+M&S,2021,Location,Scope 2,Measure,2023,142000,tCO2e,142000,tCO2e,,,,UK and Europe
+M&S,2021,Location,Scope 2,Measure,2023,120000,tCO2e,120000,tCO2e,,,,UK
+M&S,2022,Location,Scope 2,Measure,2023,137000,tCO2e,137000,tCO2e,,,,UK and Europe
+M&S,2022,Location,Scope 2,Measure,2023,113000,tCO2e,113000,tCO2e,,,,UK
+M&S,2023,Location,Scope 2,Measure,2024,154000,tCO2e,154000,tCO2e,,,,UK and Europe
+M&S,2023,Location,Scope 2,Measure,2024,120000,tCO2e,120000,tCO2e,,,,UK
+M&S,2006,Market,Scope 2,Measure,2019,640000,tCO2e,640000,tCO2e,,,,UK and Europe
+M&S,2013,Market,Scope 2,Measure,2016,265000,tCO2e,265000,tCO2e,,,,UK and Europe
+M&S,2015,Market,Scope 2,Measure,2016,266000,tCO2e,266000,tCO2e,,,,UK and Europe
+M&S,2016,Market,Scope 2,Measure,2017,221000,tCO2e,221000,tCO2e,,,,UK and Europe
+M&S,2017,Market,Scope 2,Measure,2018,157000,tCO2e,157000,tCO2e,,,,UK and Europe
+M&S,2018,Market,Scope 2,Measure,2019,158000,tCO2e,158000,tCO2e,,,,UK and Europe
+M&S,2019,Market,Scope 2,Measure,2020,195000,tCO2e,195000,tCO2e,,,,UK and Europe
+M&S,2019,Market,Scope 2,Measure,2021,198000,tCO2e,198000,tCO2e,,,,UK and Europe
+M&S,2019,Market,Scope 2,Measure,2021,183000,tCO2e,183000,tCO2e,,,,UK
+M&S,2020,Market,Scope 2,Measure,2021,177000,tCO2e,177000,tCO2e,,,,UK and Europe
+M&S,2020,Market,Scope 2,Measure,2021,164000,tCO2e,164000,tCO2e,,,,UK
+M&S,2020,Market,Scope 2,Measure,2022,165000,tCO2e,165000,tCO2e,,,,UK
+M&S,2021,Market,Scope 2,Measure,2022,140000,tCO2e,140000,tCO2e,,,,UK and Europe
+M&S,2021,Market,Scope 2,Measure,2022,124000,tCO2e,124000,tCO2e,,,,UK
+M&S,2021,Market,Scope 2,Measure,2023,125000,tCO2e,125000,tCO2e,,,,UK and Europe
+M&S,2022,Market,Scope 2,Measure,2023,117000,tCO2e,117000,tCO2e,,,,UK and Europe
+M&S,2022,Market,Scope 2,Measure,2024,20000,tCO2e,20000,tCO2e,,,,UK and Europe
+M&S,2023,Market,Scope 2,Measure,2024,233000,tCO2e,233000,tCO2e,,,,UK and Europe
+M&S,2013,Location,Scope 3,Measure,2014,58000,tCO2e,58000,tCO2e,,,,UK and Europe
+M&S,2013,Location,Scope 3,Measure,2015,59000,tCO2e,59000,tCO2e,,,,UK and Europe
+M&S,2014,Location,Scope 3,Measure,2015,58000,tCO2e,58000,tCO2e,,,,UK and Europe
+M&S,2015,Location,Scope 3,Measure,2016,56000,tCO2e,56000,tCO2e,,,,UK and Europe
+M&S,2016,Location,Scope 3,Measure,2017,48000,tCO2e,48000,tCO2e,,,,UK and Europe
+MORR,2017,,Energy,Measure,2019,2717487,MWh,2717.487,GWh,,,,UK
+MORR,2018,,Energy,Measure,2019,2592286,MWh,2592.286,GWh,,,,UK
+MORR,2018,,Energy,Measure,2020,2592286,MWh,2592.286,GWh,,,,UK
+MORR,2019,,Energy,Measure,2020,2449301,MWh,2449.301,GWh,,,,UK
+MORR,2019,,Energy,Measure,2021,245219,MWh,245.219,GWh,,,,UK
+MORR,2019,,Energy,Measure,2022,2409297,MWh,2409.297,GWh,,,,UK
+MORR,2019,,Energy,Measure,2023,2114050531,KWh,2114.0505,GWh,,,,UK
+MORR,2020,,Energy,Measure,2021,2459064,MWh,2459.064,GWh,,,,UK
+MORR,2020,,Energy,Measure,2022,2487689,MWh,2487.689,GWh,,,,UK
+MORR,2021,,Energy,Measure,2021,2043248,MWh,2043.248,GWh,,,,UK
+MORR,2021,,Energy,Measure,2022,2737528,MWh,2737.528,GWh,,,,UK
+MORR,2022,,Energy,Measure,2022,2323759,MWh,2323.759,GWh,,,,UK
+MORR,2022,,Energy,Measure,2023,1921732436,KWh,1921.7324,GWh,,,,UK
+MORR,2023,,Energy,Measure,2023,1849374070,KWh,1849.3741,GWh,,,,UK
+MORR,2005,,Scope 1,Measure,2018,757550,tCO2e,757550,tCO2e,,,,UK
+MORR,2005,,Scope 1,Measure,2018,787550,tCO2e,787550,tCO2e,,,,UK
+MORR,2017,,Scope 1,Measure,2018,488823,tCO2e,488823,tCO2e,,,,UK
+MORR,2017,,Scope 1,Measure,2019,486181,tCO2e,486181,tCO2e,,,,UK
+MORR,2017,,Scope 1,Measure,2018,439792,tCO2e,439792,tCO2e,,,,UK
+MORR,2018,,Scope 1,Measure,2019,429459,tCO2e,429459,tCO2e,,,,UK
+MORR,2019,,Scope 1,Measure,2021,343966,tCO2e,343966,tCO2e,,,,UK
+MORR,2019,,Scope 1,Measure,2019,367915,tCO2e,367915,tCO2e,,,,UK
+MORR,2019,,Scope 1,Measure,2022,342410,tCO2e,342410,tCO2e,,,,UK
+MORR,2019,,Scope 1,Measure,2023,238223,tCO2e,238223,tCO2e,,,,UK
+MORR,2020,,Scope 1,Measure,2020,370218,tCO2e,370218,tCO2e,,,,UK
+MORR,2020,,Scope 1,Measure,2021,272399,tCO2e,272399,tCO2e,,,,UK
+MORR,2020,,Scope 1,Measure,2022,347836,tCO2e,347836,tCO2e,,,,UK
+MORR,2021,,Scope 1,Measure,2021,297480,tCO2e,297480,tCO2e,,,,UK
+MORR,2021,,Scope 1,Measure,2022,357939,tCO2e,357939,tCO2e,,,,UK
+MORR,2021,,Scope 1,Measure,2021,111284,tCO2e,111284,tCO2e,,,,UK
+MORR,2022,,Scope 1,Measure,2022,336806,tCO2e,336806,tCO2e,,,,UK
+MORR,2022,,Scope 1,Measure,2023,218496,tCO2e,218496,tCO2e,,,,UK
+MORR,2023,,Scope 1,Measure,2023,195846,tCO2e,195846,tCO2e,,,,UK
+MORR,2005,Location,Scope 1 and 2,Measure,2018,1259908,tCO2e,1259908,tCO2e,,,,UK
+MORR,2017,Location,Scope 1 and 2,Measure,2018,992060,tCO2e,992060,tCO2e,,,,UK
+MORR,2017,Location,Scope 1 and 2,Measure,2019,942863,tCO2e,942863,tCO2e,,,,UK
+MORR,2018,Location,Scope 1 and 2,Measure,2018,832597,tCO2e,832597,tCO2e,,,,UK
+MORR,2018,Location,Scope 1 and 2,Measure,2019,792165,tCO2e,792165,tCO2e,,,,UK
+MORR,2019,Location,Scope 1 and 2,Measure,2019,679869,tCO2e,679869,tCO2e,,,,UK
+MORR,2019,Location,Scope 1 and 2,Measure,2021,656840,tCO2e,656840,tCO2e,,,,UK
+MORR,2019,Location,Scope 1 and 2,Measure,2022,666081,tCO2e,666081,tCO2e,,,,UK
+MORR,2019,Location,Scope 1 and 2,Measure,2023,583543,tCO2e,583543,tCO2e,,,,UK
+MORR,2020,Location,Scope 1 and 2,Measure,2020,644016,tCO2e,644016,tCO2e,,,,UK
+MORR,2020,Location,Scope 1 and 2,Measure,2021,586861,tCO2e,586861,tCO2e,,,,UK
+MORR,2020,Location,Scope 1 and 2,Measure,2022,628932,tCO2e,628932,tCO2e,,,,UK
+MORR,2021,Location,Scope 1 and 2,Measure,2021,502791,tCO2e,502791,tCO2e,,,,UK
+MORR,2021,Location,Scope 1 and 2,Measure,2022,603321,tCO2e,603321,tCO2e,,,,UK
+MORR,2021,Location,Scope 1 and 2,Measure,2022,548855,tCO2e,548855,tCO2e,,,,UK
+MORR,2022,Location,Scope 1 and 2,Measure,2023,448865,tCO2e,448865,tCO2e,,,,UK
+MORR,2023,Location,Scope 1 and 2,Measure,2023,418962,tCO2e,418962,tCO2e,,,,UK
+MORR,2019,Market,Scope 1 and 2,Measure,2022,746805,tCO2e,746805,tCO2e,,,,UK
+MORR,2020,Market,Scope 1 and 2,Measure,2022,795427,tCO2e,795427,tCO2e,,,,UK
+MORR,2021,Market,Scope 1 and 2,Measure,2022,792902,tCO2e,792902,tCO2e,,,,UK
+MORR,2022,Market,Scope 1 and 2,Measure,2022,792311,tCO2e,792311,tCO2e,,,,UK
+MORR,2005,Location,Scope 2,Measure,2018,767748,tCO2e,767748,tCO2e,,,,UK
+MORR,2017,Location,Scope 2,Measure,2018,503237,tCO2e,503237,tCO2e,,,,UK
+MORR,2018,Location,Scope 2,Measure,2018,"392,805",tCO2e,392805,tCO2e,,,,UK
+MORR,2017,Location,Scope 2,Measure,2019,456682,tCO2e,456682,tCO2e,,,,UK
+MORR,2018,Location,Scope 2,Measure,2019,362706,tCO2e,362706,tCO2e,,,,UK
+MORR,2019,Location,Scope 2,Measure,2019,311954,tCO2e,311954,tCO2e,,,,UK
+MORR,2019,Location,Scope 2,Measure,2021,312874,tCO2e,312874,tCO2e,,,,UK
+MORR,2019,Location,Scope 2,Measure,2022,323671,tCO2e,323671,tCO2e,,,,UK
+MORR,2019,Location,Scope 2,Measure,2023,345312,tCO2e,345312,tCO2e,,,,UK
+MORR,2020,Location,Scope 2,Measure,2020,273799,tCO2e,273799,tCO2e,,,,UK
+MORR,2020,Location,Scope 2,Measure,2021,272399,tCO2e,272399,tCO2e,,,,UK
+MORR,2021,Location,Scope 2,Measure,2022,245382,tCO2e,245382,tCO2e,,,,UK
+MORR,2021,Location,Scope 2,Measure,2021,205311,tCO2e,205311,tCO2e,,,,UK
+MORR,2022,Location,Scope 2,Measure,2022,212049,tCO2e,212049,tCO2e,,,,UK
+MORR,2022,Location,Scope 2,Measure,2023,230369,tCO2e,230369,tCO2e,,,,UK
+MORR,2023,Location,Scope 2,Measure,2023,223116,tCO2e,223116,tCO2e,,,,UK
+MORR,2019,Market,Scope 2,Measure,2022,404395,tCO2e,404395,tCO2e,,,,UK
+MORR,2020,Market,Scope 2,Measure,2022,447591,tCO2e,447591,tCO2e,,,,UK
+MORR,2021,Market,Scope 2,Measure,2022,434963,tCO2e,434963,tCO2e,,,,UK
+MORR,2022,Market,Scope 2,Measure,2022,455505,tCO2e,455505,tCO2e,,,,UK
+MORR,2019,Location,Scope 3,Measure,2021,447,tCO2e,447,tCO2e,,,,UK
+MORR,2019,Location,Scope 3,Measure,2022,928,tCO2e,928,tCO2e,,,,UK
+MORR,2019,Location,Scope 3,Measure,2023,1361,tCO2e,1361,tCO2e,,,,UK
+MORR,2020,Location,Scope 3,Measure,2021,827,tCO2e,827,tCO2e,,,,UK
+MORR,2021,Location,Scope 3,Measure,2021,700,tCO2e,700,tCO2e,,,,UK
+MORR,2021,Location,Scope 3,Measure,2022,782,tCO2e,782,tCO2e,,,,UK
+MORR,2022,Location,Scope 3,Measure,2022,2331,tCO2e,2331,tCO2e,,,,UK
+MORR,2022,Location,Scope 3,Measure,2023,2656,tCO2e,2656,tCO2e,,,,UK
+MORR,2023,Location,Scope 3,Measure,2023,829,tCO2e,829,tCO2e,,,,UK
+MORR,2019,Location,Scope 1 - 3,Measure,2021,657317,tCO2e,657317,tCO2e,,,,UK
+MORR,2020,Location,Scope 1 - 3,Measure,2021,614688,tCO2e,614688,tCO2e,,,,UK
+MORR,2021,Location,Scope 1 - 3,Measure,2021,903491,tCO2e,903491,tCO2e,,,,UK
+MORR,2019,Location,Scope 1 - 3,Measure,2022,667009,tCO2e,667009,tCO2e,,,,UK
+MORR,2019,Location,Scope 1 - 3,Measure,2023,584904,tCO2e,584904,tCO2e,,,,UK
+MORR,2020,Location,Scope 1 - 3,Measure,2022,629759,tCO2e,629759,tCO2e,,,,UK
+MORR,2021,Location,Scope 1 - 3,Measure,2022,61049,tCO2e,61049,tCO2e,,,,UK
+MORR,2022,Location,Scope 1 - 3,Measure,2022,57186,tCO2e,57186,tCO2e,,,,UK
+MORR,2022,Location,Scope 1 - 3,Measure,2023,491521,tCO2e,491521,tCO2e,,,,UK
+MORR,2023,Location,Scope 1 - 3,Measure,2023,419791,tCO2e,419791,tCO2e,,,,UK
+MORR,2019,Market,Scope 1 - 3,Measure,2022,747733,tCO2e,747733,tCO2e,,,,UK
+MORR,2020,Market,Scope 1 - 3,Measure,2022,796254,tCO2e,796254,tCO2e,,,,UK
+MORR,2021,Market,Scope 1 - 3,Measure,2022,793630,tCO2e,793630,tCO2e,,,,UK
+MORR,2022,Market,Scope 1 - 3,Measure,2022,794642,tCO2e,794642,tCO2e,,,,UK
+MORR,2005,Location,Scope,Intensity,2018,53.9,kgCO2e/ft2 GIA,0.005,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2017,Location,Scope,Intensity,2018,28.7,kgCO2e/ft2 GIA,0.0027,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2017,Location,Scope,Intensity,2019,0.356,tCO2e/m2 GIA,0.356,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2018,Location,Scope,Intensity,2018,23.5,kgCO2e/ft2 GIA,0.0022,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2018,Location,Scope,Intensity,2019,0.296,tCO2e/m2 GIA,0.296,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2019,Location,Scope,Intensity,2019,0.252,tCO2e/m2 GIA,0.252,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2019,Location,Scope,Intensity,2021,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2020,Location,Scope,Intensity,2020,0.236,tCO2e/m2 GIA,0.236,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2020,Location,Scope,Intensity,2021,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2021,Location,Scope,Intensity,2021,0.12,tCO2e/m2 GIA,0.12,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2019,Market,Scope,Intensity,2022,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2020,Market,Scope,Intensity,2022,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2021,Market,Scope,Intensity,2022,0.16,tCO2e/m2 GIA,0.16,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2022,Market,Scope,Intensity,2022,0.15,tCO2e/m2 GIA,0.15,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2019,Market,Scope,Intensity,2022,36.98,tCO2e/£m Turnover,36.98,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2019,Location,Scope,Intensity,2023,33,tCO2e/£m Turnover,33,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2020,Market,Scope,Intensity,2022,34.74,tCO2e/£m Turnover,34.74,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2021,Market,Scope,Intensity,2022,32.55,tCO2e/£m Turnover,32.55,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2022,Market,Scope,Intensity,2022,28.5,tCO2e/£m Turnover,28.5,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2022,,Scope,Intensity,2023,24,tCO2e/£m Turnover,24,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2023,,Scope,Intensity,2023,23,tCO2e/£m Turnover,23,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+SAINS,2019,,Energy,Measure,2021,"2,777,605,330",KWh,2777.6053,GWh,,,,UK+
+SAINS,2020,,Energy,Measure,2021,"2,876,589,480",KWh,2876.5895,GWh,,,,UK+
+SAINS,2020,,Energy,Measure,2022,"2,881,449,330.90",KWh,2881.4493,GWh,,,,UK+
+SAINS,2021,,Energy,Measure,2022,"2,706,249,436.71",KWh,2706.2494,GWh,,,,UK+
+SAINS,2021,,Energy,Measure,2023,"2,689,613,295.50",KWh,2689.6133,GWh,,,,UK+
+SAINS,2022,,Energy,Measure,2023,"2,514,249,849.02",KWh,2514.2498,GWh,,,,UK+
+SAINS,2022,,Energy,Measure,2024,"2,587,540,850.53",KWh,2587.5409,GWh,,,,UK+
+SAINS,2023,,Energy,Measure,2024,"2,533,813,657.71",KWh,2533.8137,GWh,,,,UK+
+SAINS,2005,,Scope 1,Measure,2016,536694,tCO2e,536694,tCO2e,,,,UK
+SAINS,2012,,Scope 1,Measure,2015,722835,tCO2e,722835,tCO2e,,,,UK
+SAINS,2013,,Scope 1,Measure,2014,618427,tCO2e,618427,tCO2e,,,,UK
+SAINS,2013,,Scope 1,Measure,2015,635191,tCO2e,635191,tCO2e,,,,UK
+SAINS,2014,,Scope 1,Measure,2015,571673,tCO2e,571673,tCO2e,,,,UK
+SAINS,2015,,Scope 1,Measure,2016,601091,tCO2e,601091,tCO2e,,,,UK
+SAINS,2016,,Scope 1,Measure,2017,579864,tCO2e,579864,tCO2e,,,,UK
+SAINS,2016,,Scope 1,Measure,2018,"580,537",tCO2e,580537,tCO2e,,,,UK
+SAINS,2017,,Scope 1,Measure,2018,"515,642",tCO2e,515642,tCO2e,,,,UK
+SAINS,2017,,Scope 1,Measure,2019,"517,024",tCO2e,517024,tCO2e,,,,UK
+SAINS,2018,,Scope 1,Measure,2019,480190,tCO2e,480190,tCO2e,,,,UK
+SAINS,2018,,Scope 1,Measure,2020,481230,tCO2e,481230,tCO2e,,,,UK
+SAINS,2019,,Scope 1,Measure,2020,488189,tCO2e,488189,tCO2e,,,,UK
+SAINS,2019,,Scope 1,Measure,2021,447422,tCO2e,447422,tCO2e,,,,UK+
+SAINS,2020,,Scope 1,Measure,2021,448307,tCO2e,448307,tCO2e,,,,UK+
+SAINS,2020,,Scope 1,Measure,2022,448374.01,tCO2e,448374.01,tCO2e,,,,UK+
+SAINS,2021,,Scope 1,Measure,2022,447947.23,tCO2e,447947.23,tCO2e,,,,UK+
+SAINS,2021,,Scope 1,Measure,2023,449756.76,tCO2e,449756.76,tCO2e,,,,UK+
+SAINS,2022,,Scope 1,Measure,2023,399009.45,tCO2e,399009.45,tCO2e,,,,UK+
+SAINS,2023,,Scope 1,Measure,2024,"403,057.23",tCO2e,403057.23,tCO2e,,,,UK+
+SAINS,2005,Location,Scope 1 and 2,Measure,2016,1370449,tCO2e,1370449,tCO2e,,,,UK
+SAINS,2005,Location,Scope 1 and 2,Measure,2018,1370481,tCO2e,1370481,tCO2e,,,,UK
+SAINS,2012,Location,Scope 1 and 2,Measure,2015,1494215,tCO2e,1494215,tCO2e,,,,UK
+SAINS,2013,Location,Scope 1 and 2,Measure,2014,1354388,tCO2e,1354388,tCO2e,,,,UK
+SAINS,2013,Location,Scope 1 and 2,Measure,2015,1372266,tCO2e,1372266,tCO2e,,,,UK
+SAINS,2014,Location,Scope 1 and 2,Measure,2015,1366102,tCO2e,1366102,tCO2e,,,,UK
+SAINS,2015,Location,Scope 1 and 2,Measure,2016,1323603,tCO2e,1323603,tCO2e,,,,UK
+SAINS,2016,Location,Scope 1 and 2,Measure,2017,1214824,tCO2e,1214824,tCO2e,,,,UK
+SAINS,2016,Location,Scope 1 and 2,Measure,2018,"1,215,497",tCO2e,1215497,tCO2e,,,,UK
+SAINS,2017,Location,Scope 1 and 2,Measure,2018,"1,042,540",tCO2e,1042540,tCO2e,,,,UK
+SAINS,2017,Location,Scope 1 and 2,Measure,2019,"1,043,922",tCO2e,1043922,tCO2e,,,,UK
+SAINS,2018,Location,Scope 1 and 2,Measure,2020,893619,tCO2e,893619,tCO2e,,,,UK
+SAINS,2019,Location,Scope 1 and 2,Measure,2020,800833,tCO2e,800833,tCO2e,,,,UK
+SAINS,2019,Location,Scope 1 and 2,Measure,2021,810471,tCO2e,810471,tCO2e,,,,UK+
+SAINS,2020,Location,Scope 1 and 2,Measure,2021,752839,tCO2e,752839,tCO2e,,,,UK+
+SAINS,2020,Location,Scope 1 and 2,Measure,2022,751358.13,tCO2e,751358.13,tCO2e,,,,UK+
+SAINS,2021,Location,Scope 1 and 2,Measure,2022,"701,548.39",tCO2e,701548.39,tCO2e,,,,UK+
+SAINS,2021,Location,Scope 1 and 2,Measure,2023,"686,798.17",tCO2e,686798.17,tCO2e,,,,UK+
+SAINS,2022,Location,Scope 1 and 2,Measure,2023,"605,937.61",tCO2e,605937.61,tCO2e,,,,UK+
+SAINS,2022,Location,Scope 1 and 2,Measure,2024,"620,110.62",tCO2e,620110.62,tCO2e,,,,UK+
+SAINS,2023,Location,Scope 1 and 2,Measure,2024,636926.65,tCO2e,636926.65,tCO2e,,,,UK+
+SAINS,2005,Market,Scope 1 and 2,Measure,2017,1370481,tCO2e,1370481,tCO2e,,,,UK
+SAINS,2015,Market,Scope 1 and 2,Measure,2016,1130804,tCO2e,1130804,tCO2e,,,,UK
+SAINS,2015,Market,Scope 1 and 2,Measure,2017,1130830,tCO2e,1130830,tCO2e,,,,UK
+SAINS,2016,Market,Scope 1 and 2,Measure,2017,1065818,tCO2e,1065818,tCO2e,,,,UK
+SAINS,2016,Market,Scope 1 and 2,Measure,2018,1099091,tCO2e,1099091,tCO2e,,,,UK
+SAINS,2017,Market,Scope 1 and 2,Measure,2018,921912,tCO2e,921912,tCO2e,,,,UK
+SAINS,2017,Market,Scope 1 and 2,Measure,2019,923294,tCO2e,923294,tCO2e,,,,UK
+SAINS,2018,Market,Scope 1 and 2,Measure,2019,829368,tCO2e,829368,tCO2e,,,,UK
+SAINS,2018,Market,Scope 1 and 2,Measure,2020,831322,tCO2e,831322,tCO2e,,,,UK
+SAINS,2018,Market,Scope 1 and 2,Measure,2024,"949,744",tCO2e,949744,tCO2e,,,,UK+
+SAINS,2019,Market,Scope 1 and 2,Measure,2020,739032,tCO2e,739032,tCO2e,,,,UK
+SAINS,2019,Market,Scope 1 and 2,Measure,2024,"840,680",tCO2e,840680,tCO2e,,,,UK+
+SAINS,2019,Market,Scope 1 and 2,Measure,2021,736694,tCO2e,736694,tCO2e,,,,UK+
+SAINS,2020,Market,Scope 1 and 2,Measure,2021,715030,tCO2e,715030,tCO2e,,,,UK+
+SAINS,2020,Market,Scope 1 and 2,Measure,2024,"817,420",tCO2e,817420,tCO2e,,,,UK+
+SAINS,2021,Market,Scope 1 and 2,Measure,2022,"714,217.66",tCO2e,714217.66,tCO2e,,,,UK+
+SAINS,2021,Market,Scope 1 and 2,Measure,2023,"659,446.16",tCO2e,659446.16,tCO2e,,,,UK+
+SAINS,2021,Market,Scope 1 and 2,Measure,2024,"746,681",tCO2e,746681,tCO2e,,,,UK+
+SAINS,2022,Market,Scope 1 and 2,Measure,2023,"399,009.45",tCO2e,399009.45,tCO2e,,,,UK+
+SAINS,2023,Market,Scope 1 and 2,Measure,2024,"403,057.23",tCO2e,403057.23,tCO2e,,,,UK+
+SAINS,2005,Location,Scope 2,Measure,2016,833805,tCO2e,833805,tCO2e,,,,UK
+SAINS,2005,Location,Scope 2,Measure,2018,833787,tCO2e,833787,tCO2e,,,,UK
+SAINS,2012,Location,Scope 2,Measure,2015,771380,tCO2e,771380,tCO2e,,,,UK
+SAINS,2013,Location,Scope 2,Measure,2014,735961,tCO2e,735961,tCO2e,,,,UK
+SAINS,2013,Location,Scope 2,Measure,2015,737075,tCO2e,737075,tCO2e,,,,UK
+SAINS,2014,Location,Scope 2,Measure,2015,794429,tCO2e,794429,tCO2e,,,,UK
+SAINS,2015,Location,Scope 2,Measure,2016,722512,tCO2e,722512,tCO2e,,,,UK
+SAINS,2016,Location,Scope 2,Measure,2017,634960,tCO2e,634960,tCO2e,,,,UK
+SAINS,2017,Location,Scope 2,Measure,2018,529897,tCO2e,529897,tCO2e,,,,UK
+SAINS,2018,Location,Scope 2,Measure,2019,412418,tCO2e,412418,tCO2e,,,,UK
+SAINS,2018,Location,Scope 2,Measure,2020,412389,tCO2e,412389,tCO2e,,,,UK
+SAINS,2019,Location,Scope 2,Measure,2020,352644,tCO2e,352644,tCO2e,,,,UK
+SAINS,2019,Location,Scope 2,Measure,2021,362995,tCO2e,362995,tCO2e,,,,UK+
+SAINS,2020,Location,Scope 2,Measure,2021,304533,tCO2e,304533,tCO2e,,,,UK+
+SAINS,2020,Location,Scope 2,Measure,2022,"302,984.12",tCO2e,302984.12,tCO2e,,,,UK+
+SAINS,2021,Location,Scope 2,Measure,2022,"237,041.41",tCO2e,237041.41,tCO2e,,,,UK+
+SAINS,2022,Location,Scope 2,Measure,2023,"206,928.16",tCO2e,206928.16,tCO2e,,,,UK+
+SAINS,2022,Location,Scope 2,Measure,2024,"221,101.17",tCO2e,221101.17,tCO2e,,,,UK+
+SAINS,2023,Location,Scope 2,Measure,2024,"233,869.42",tCO2e,233869.42,tCO2e,,,,UK+
+SAINS,2005,Market,Scope 2,Measure,2018,833787,tCO2e,833787,tCO2e,,,,UK
+SAINS,2015,Market,Scope 2,Measure,2016,541102,tCO2e,541102,tCO2e,,,,UK
+SAINS,2016,Market,Scope 2,Measure,2017,502298,tCO2e,502298,tCO2e,,,,UK
+SAINS,2016,Market,Scope 2,Measure,2018,534898,tCO2e,534898,tCO2e,,,,UK
+SAINS,2017,Market,Scope 2,Measure,2018,418084,tCO2e,418084,tCO2e,,,,UK
+SAINS,2018,Market,Scope 2,Measure,2019,355972,tCO2e,355972,tCO2e,,,,UK
+SAINS,2018,Market,Scope 2,Measure,2020,356897,tCO2e,356897,tCO2e,,,,UK
+SAINS,2019,Market,Scope 2,Measure,2020,290843,tCO2e,290843,tCO2e,,,,UK
+SAINS,2019,Market,Scope 2,Measure,2021,289272,tCO2e,289272,tCO2e,,,,UK+
+SAINS,2020,Market,Scope 2,Measure,2021,266723,tCO2e,266723,tCO2e,,,,UK+
+SAINS,2020,Market,Scope 2,Measure,2022,"265,843.65",tCO2e,265843.65,tCO2e,,,,UK+
+SAINS,2021,Market,Scope 2,Measure,2022,"226,601.12",tCO2e,226601.12,tCO2e,,,,UK+
+SAINS,2021,Market,Scope 2,Measure,2023,"209,689.40",tCO2e,209689.4,tCO2e,,,,UK+
+SAINS,2022,Market,Scope 2,Measure,2023,0,tCO2e,0,tCO2e,,,,UK+
+SAINS,2023,Market,Scope 2,Measure,2024,0,tCO2e,0,tCO2e,,,,UK+
+SAINS,2005,Location,Energy,Intensity,2017,90.37,tCO2e/1000 sq ft,0.0084,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2005,Location,Energy,Intensity,2020,85.55,tCO2e/1000 sq ft,0.008,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2012,Location,Energy,Intensity,2015,70.27,tCO2e/1000 sq ft,0.0065,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2013,Location,Energy,Intensity,2014,61.12,tCO2e/1000 sq ft,0.0057,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2013,Location,Energy,Intensity,2015,61.93,tCO2e/1000 sq ft,0.0058,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2014,Location,Energy,Intensity,2015,57.87,tCO2e/1000 sq ft,0.0054,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2015,Location,Energy,Intensity,2016,57.05,tCO2e/1000 sq ft,0.0053,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2016,Location,Energy,Intensity,2018,51.98,tCO2e/1000 sq ft,0.0048,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2017,Location,Energy,Intensity,2018,44.91,tCO2e/1000 sq ft,0.0042,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2022,Location,Energy,Intensity,2024,25.23,tCO2e/1000 sq ft,0.0023,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2023,Location,Energy,Intensity,2024,25.09,tCO2e/1000 sq ft,0.0023,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2015,Market,Energy,Intensity,2016,48.74,tCO2e/1000 sq ft,0.0045,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2016,Market,Energy,Intensity,2017,45.74,tCO2e/1000 sq ft,0.0043,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2016,Market,Energy,Intensity,2018,47.01,tCO2e/1000 sq ft,0.0044,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2017,Market,Energy,Intensity,2018,39.71,tCO2e/1000 sq ft,0.0037,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2017,Market,Energy,Intensity,2019,39.77,tCO2e/1000 sq ft,0.0037,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2018,Market,Energy,Intensity,2019,35.84,tCO2e/1000 sq ft,0.0033,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2018,Market,Energy,Intensity,2020,35.92,tCO2e/1000 sq ft,0.0033,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2019,Market,Energy,Intensity,2021,33.36,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2020,Market,Energy,Intensity,2021,33.54,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2020,Market,Energy,Intensity,2022,33.51,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2021,Market,Energy,Intensity,2022,31.27,tCO2e/1000 sq ft,0.0029,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2021,Market,Energy,Intensity,2023,30.63,tCO2e/1000 sq ft,0.0029,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2022,Market,Energy,Intensity,2023,17.08,tCO2e/1000 sq ft,0.0016,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2023,Market,Energy,Intensity,2024,16.3,tCO2e/1000 sq ft,0.0015,tCO2e/m2,tCO2e,m2,,UK+
+TESC,2006,,Scope 1,Measure,2013,1390756,tCO2e,1390756,tCO2e,,,,Global
+TESC,2006,,Scope 1,Measure,2014,"1,346,077",tCO2e,1346077,tCO2e,,,,Global
+TESC,2006,,Scope 1,Measure,2015,"1,311,109",tCO2e,1311109,tCO2e,,,,Global
+TESC,2006,,Scope 1,Measure,2016,"1,372,394",tCO2e,1372394,tCO2e,,,,Global
+TESC,2006,,Scope 1,Measure,2017,"1,345,507",tCO2e,1345507,tCO2e,,,,Global
+TESC,2011,,Scope 1,Measure,2013,1465494,tCO2e,1465494,tCO2e,,,,Global
+TESC,2012,,Scope 1,Measure,2013,1418798,tCO2e,1418798,tCO2e,,,,Global
+TESC,2012,,Scope 1,Measure,2014,"1,434,788",tCO2e,1434788,tCO2e,,,,Global
+TESC,2013,,Scope 1,Measure,2014,"1,370,726",tCO2e,1370726,tCO2e,,,,Global
+TESC,2013,,Scope 1,Measure,2015,"1,320,122",tCO2e,1320122,tCO2e,,,,Global
+TESC,2014,,Scope 1,Measure,2015,"1,313,291",tCO2e,1313291,tCO2e,,,,Global
+TESC,2014,,Scope 1,Measure,2016,"1,317,812",tCO2e,1317812,tCO2e,,,,Global
+TESC,2015,,Scope 1,Measure,2016,"1,347,150",tCO2e,1347150,tCO2e,,,,Global
+TESC,2015,,Scope 1,Measure,2017,"1,301,746",tCO2e,1301746,tCO2e,,,,Global
+TESC,2015,,Scope 1,Measure,2019,"1,388,168",tCO2e,1388168,tCO2e,,,,Global
+TESC,2015,,Scope 1,Measure,2021,"1,240,871",tCO2e,1240871,tCO2e,,,,Global
+TESC,2016,,Scope 1,Measure,2017,"1,236,980",tCO2e,1236980,tCO2e,,,,Global
+TESC,2017,,Scope 1,Measure,2018,"1,306,985",tCO2e,1306985,tCO2e,,,,Global
+TESC,2017,,Scope 1,Measure,2019,"1,411,758",tCO2e,1411758,tCO2e,,,,Global
+TESC,2018,,Scope 1,Measure,2019,"1,328,543",tCO2e,1328543,tCO2e,,,,Global
+TESC,2018,,Scope 1,Measure,2021,"1,117,480",tCO2e,1117480,tCO2e,,,,Global
+TESC,2019,,Scope 1,Measure,2020,"1,252,038",tCO2e,1252038,tCO2e,,,,Global
+TESC,2019,,Scope 1,Measure,2021,"1,105,183",tCO2e,1105183,tCO2e,,,,Global
+TESC,2020,,Scope 1,Measure,2021,"1,053,151",tCO2e,1053151,tCO2e,,,,Global
+TESC,2021,,Scope 1,Measure,2022,"1,110,098",tCO2e,1110098,tCO2e,,,,Global
+TESC,2022,,Scope 1,Measure,2023,"1,039,346",tCO2e,1039346,tCO2e,,,,Global
+TESC,2023,,Scope 1,Measure,2024,"902,830",tCO2e,902830,tCO2e,,,,Global
+TESC,2006,Location,Scope 2,Measure,2013,2790259,tCO2e,2790259,tCO2e,,,,Global
+TESC,2006,Location,Scope 2,Measure,2014,"2,692,216",tCO2e,2692216,tCO2e,,,,Global
+TESC,2006,Location,Scope 2,Measure,2015,"2,503,597",tCO2e,2503597,tCO2e,,,,Global
+TESC,2006,Location,Scope 2,Measure,2016,"2,281,727",tCO2e,2281727,tCO2e,,,,Global
+TESC,2006,Location,Scope 2,Measure,2017,"2,259,984",tCO2e,2259984,tCO2e,,,,Global
+TESC,2011,Location,Scope 2,Measure,2013,3587747,tCO2e,3587747,tCO2e,,,,Global
+TESC,2012,Location,Scope 2,Measure,2013,3764068,tCO2e,3764068,tCO2e,,,,Global
+TESC,2012,Location,Scope 2,Measure,2014,"3,489,248",tCO2e,3489248,tCO2e,,,,Global
+TESC,2013,Location,Scope 2,Measure,2014,"3,409,319",tCO2e,3409319,tCO2e,,,,Global
+TESC,2013,Location,Scope 2,Measure,2015,"3,036,282",tCO2e,3036282,tCO2e,,,,Global
+TESC,2014,Location,Scope 2,Measure,2015,"3,145,907",tCO2e,3145907,tCO2e,,,,Global
+TESC,2014,Location,Scope 2,Measure,2016,"2,730,228",tCO2e,2730228,tCO2e,,,,Global
+TESC,2015,Location,Scope 2,Measure,2016,"2,624,322",tCO2e,2624322,tCO2e,,,,Global
+TESC,2015,Location,Scope 2,Measure,2017,"2,528,323",tCO2e,2528323,tCO2e,,,,Global
+TESC,2015,Location,Scope 2,Measure,2019,"2,609,983",tCO2e,2609983,tCO2e,,,,Global
+TESC,2015,Location,Scope 2,Measure,2021,"1,657,316",tCO2e,1657316,tCO2e,,,,Global
+TESC,2016,Location,Scope 2,Measure,2017,"2,357,245",tCO2e,2357245,tCO2e,,,,Global
+TESC,2017,Location,Scope 2,Measure,2018,"2,077,528",tCO2e,2077528,tCO2e,,,,Global
+TESC,2017,Location,Scope 2,Measure,2019,"2,137,206",tCO2e,2137206,tCO2e,,,,Global
+TESC,2018,Location,Scope 2,Measure,2019,"1,831,835",tCO2e,1831835,tCO2e,,,,Global
+TESC,2018,Location,Scope 2,Measure,2021,"995,543",tCO2e,995543,tCO2e,,,,Global
+TESC,2019,Location,Scope 2,Measure,2020,"1,597,144",tCO2e,1597144,tCO2e,,,,Global
+TESC,2019,Location,Scope 2,Measure,2021,"859,583",tCO2e,859583,tCO2e,,,,Global
+TESC,2020,Location,Scope 2,Measure,2021,"718,222",tCO2e,718222,tCO2e,,,,Global
+TESC,2021,Location,Scope 2,Measure,2022,"642,337",tCO2e,642337,tCO2e,,,,Global
+TESC,2022,Location,Scope 2,Measure,2023,"575,462",tCO2e,575462,tCO2e,,,,Global
+TESC,2023,Location,Scope 2,Measure,2024,"587,899",tCO2e,587899,tCO2e,,,,Global
+TESC,2014,Market,Scope 2,Measure,2016,2125885,tCO2e,2125885,tCO2e,,,,Global
+TESC,2015,Market,Scope 2,Measure,2016,"2,033,658",tCO2e,2033658,tCO2e,,,,Global
+TESC,2015,Market,Scope 2,Measure,2017,"2,004,992",tCO2e,2004992,tCO2e,,,,Global
+TESC,2015,Market,Scope 2,Measure,2019,"2,053,703",tCO2e,2053703,tCO2e,,,,Global
+TESC,2015,Market,Scope 2,Measure,2021,"1,095,671",tCO2e,1095671,tCO2e,,,,Global
+TESC,2016,Market,Scope 2,Measure,2017,"1,582,275",tCO2e,1582275,tCO2e,,,,Global
+TESC,2017,Market,Scope 2,Measure,2018,"1,136,325",tCO2e,1136325,tCO2e,,,,Global
+TESC,2017,Market,Scope 2,Measure,2019,"1,202,618",tCO2e,1202618,tCO2e,,,,Global
+TESC,2018,Market,Scope 2,Measure,2019,"1,045,760",tCO2e,1045760,tCO2e,,,,Global
+TESC,2018,Market,Scope 2,Measure,2021,"256,446",tCO2e,256446,tCO2e,,,,Global
+TESC,2019,Market,Scope 2,Measure,2020,"916,616",tCO2e,916616,tCO2e,,,,Global
+TESC,2019,Market,Scope 2,Measure,2021,"81,531",tCO2e,81531,tCO2e,,,,Global
+TESC,2020,Market,Scope 2,Measure,2021,"13,631",tCO2e,13631,tCO2e,,,,Global
+TESC,2021,Market,Scope 2,Measure,2022,"16,107",tCO2e,16107,tCO2e,,,,Global
+TESC,2022,Market,Scope 2,Measure,2023,"7,796",tCO2e,7796,tCO2e,,,,Global
+TESC,2023,Market,Scope 2,Measure,2024,"6,259",tCO2e,6259,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 and 2,Measure,2013,4181015,tCO2e,4181015,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 and 2,Measure,2014,4038293,tCO2e,4038293,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 and 2,Measure,2015,3814616,tCO2e,3814616,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 and 2,Measure,2016,3654121,tCO2e,3654121,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 and 2,Measure,2017,3605491,tCO2e,3605491,tCO2e,,,,Global
+TESC,2011,Location,Scope 1 and 2,Measure,2013,5053241,tCO2e,5053241,tCO2e,,,,Global
+TESC,2012,Location,Scope 1 and 2,Measure,2013,5182866,tCO2e,5182866,tCO2e,,,,Global
+TESC,2012,Location,Scope 1 and 2,Measure,2014,4924036,tCO2e,4924036,tCO2e,,,,Global
+TESC,2013,Location,Scope 1 and 2,Measure,2014,4780045,tCO2e,4780045,tCO2e,,,,Global
+TESC,2013,Location,Scope 1 and 2,Measure,2015,4356404,tCO2e,4356404,tCO2e,,,,Global
+TESC,2014,Location,Scope 1 and 2,Measure,2015,4459198,tCO2e,4459198,tCO2e,,,,Global
+TESC,2014,Location,Scope 1 and 2,Measure,2016,4048040,tCO2e,4048040,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 and 2,Measure,2016,3971472,tCO2e,3971472,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 and 2,Measure,2017,3830069,tCO2e,3830069,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 and 2,Measure,2019,3998151,tCO2e,3998151,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 and 2,Measure,2021,2898187,tCO2e,2898187,tCO2e,,,,Global
+TESC,2016,Location,Scope 1 and 2,Measure,2017,3594225,tCO2e,3594225,tCO2e,,,,Global
+TESC,2017,Location,Scope 1 and 2,Measure,2018,3384513,tCO2e,3384513,tCO2e,,,,Global
+TESC,2017,Location,Scope 1 and 2,Measure,2019,3548964,tCO2e,3548964,tCO2e,,,,Global
+TESC,2018,Location,Scope 1 and 2,Measure,2019,3160378,tCO2e,3160378,tCO2e,,,,Global
+TESC,2018,Location,Scope 1 and 2,Measure,2021,2113023,tCO2e,2113023,tCO2e,,,,Global
+TESC,2019,Location,Scope 1 and 2,Measure,2020,2849182,tCO2e,2849182,tCO2e,,,,Global
+TESC,2019,Location,Scope 1 and 2,Measure,2021,1964766,tCO2e,1964766,tCO2e,,,,Global
+TESC,2020,Location,Scope 1 and 2,Measure,2021,1771373,tCO2e,1771373,tCO2e,,,,Global
+TESC,2021,Location,Scope 1 and 2,Measure,2022,1752435,tCO2e,1752435,tCO2e,,,,Global
+TESC,2022,Location,Scope 1 and 2,Measure,2023,1614808,tCO2e,1614808,tCO2e,,,,Global
+TESC,2023,Location,Scope 1 and 2,Measure,2024,1490729,tCO2e,1490729,tCO2e,,,,Global
+TESC,2014,Market,Scope 1 and 2,Measure,2016,3443697,tCO2e,3443697,tCO2e,,,,Global
+TESC,2015,Market,Scope 1 and 2,Measure,2016,3380808,tCO2e,3380808,tCO2e,,,,Global
+TESC,2015,Market,Scope 1 and 2,Measure,2017,3306668,tCO2e,3306668,tCO2e,,,,Global
+TESC,2015,Market,Scope 1 and 2,Measure,2019,3441871,tCO2e,3441871,tCO2e,,,,Global
+TESC,2015,Market,Scope 1 and 2,Measure,2021,2336542,tCO2e,2336542,tCO2e,,,,Global
+TESC,2016,Market,Scope 1 and 2,Measure,2017,2819255,tCO2e,2819255,tCO2e,,,,Global
+TESC,2016,Market,Scope 1 and 2,Measure,2017,2509603,tCO2e,2509603,tCO2e,,,,Global
+TESC,2017,Market,Scope 1 and 2,Measure,2018,2443310,tCO2e,2443310,tCO2e,,,,Global
+TESC,2017,Market,Scope 1 and 2,Measure,2019,2614376,tCO2e,2614376,tCO2e,,,,Global
+TESC,2018,Market,Scope 1 and 2,Measure,2019,2374303,tCO2e,2374303,tCO2e,,,,Global
+TESC,2018,Market,Scope 1 and 2,Measure,2021,1373926,tCO2e,1373926,tCO2e,,,,Global
+TESC,2019,Market,Scope 1 and 2,Measure,2020,2168654,tCO2e,2168654,tCO2e,,,,Global
+TESC,2019,Market,Scope 1 and 2,Measure,2021,1186714,tCO2e,1186714,tCO2e,,,,Global
+TESC,2020,Market,Scope 1 and 2,Measure,2021,1066782,tCO2e,1066782,tCO2e,,,,Global
+TESC,2021,Market,Scope 1 and 2,Measure,2022,1126205,tCO2e,1126205,tCO2e,,,,Global
+TESC,2022,Market,Scope 1 and 2,Measure,2023,1047142,tCO2e,1047142,tCO2e,,,,Global
+TESC,2023,Market,Scope 1 and 2,Measure,2024,909089,tCO2e,909089,tCO2e,,,,Global
+TESC,2006,Market,Scope 1 and 2,Measure,2022,1751572,tCO2e,1751572,tCO2e,,,,UK
+TESC,2019,Market,Scope 1 and 2,Measure,2022,905053,tCO2e,905053,tCO2e,,,,UK
+TESC,2020,Market,Scope 1 and 2,Measure,2022,880039,tCO2e,880039,tCO2e,,,,UK
+TESC,2021,Market,Scope 1 and 2,Measure,2022,936257,tCO2e,936257,tCO2e,,,,UK
+TESC,2022,Market,Scope 1 and 2,Measure,2023,"888,676",tCO2e,888676,tCO2e,,,,UK
+TESC,2023,Market,Scope 1 and 2,Measure,2024,"772,944",tCO2e,772944,tCO2e,,,,UK
+TESC,2006,Location,Scope 1 and 2,Intensity,2013,51.66,kgCO2/ft2 Stores and DC,0.5561,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2006,Location,Scope 1 and 2,Intensity,2014,49.89,kgCO2/ft2 Stores and DC,0.537,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2006,Location,Scope 1 and 2,Intensity,2015,49.63,kgCO2/ft2 Stores and DC,0.5342,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2006,Location,Scope 1 and 2,Intensity,2016,67.2,kgCO2/ft2 Stores and DC,0.7233,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2006,Location,Scope 1 and 2,Intensity,2017,51.14,kgCO2/ft2 Stores and DC,0.5505,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2011,Location,Scope 1 and 2,Intensity,2013,36.47,kgCO2/ft2 Stores and DC,0.3926,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2012,Location,Scope 1 and 2,Intensity,2013,35.12,kgCO2/ft2 Stores and DC,0.378,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2012,Location,Scope 1 and 2,Intensity,2014,32.38,kgCO2/ft2 Stores and DC,0.3485,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2013,Location,Scope 1 and 2,Intensity,2014,30.89,kgCO2/ft2 Stores and DC,0.3325,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2013,Location,Scope 1 and 2,Intensity,2015,30.65,kgCO2/ft2 Stores and DC,0.3299,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2014,Location,Scope 1 and 2,Intensity,2015,30.11,kgCO2/ft2 Stores and DC,0.3241,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2014,Location,Scope 1 and 2,Intensity,2016,39.91,kgCO2/ft2 Stores and DC,0.4296,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2015,Location,Scope 1 and 2,Intensity,2016,39.21,kgCO2/ft2 Stores and DC,0.4221,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2015,Location,Scope 1 and 2,Intensity,2017,35.06,kgCO2/ft2 Stores and DC,0.3774,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2015,Location,Scope 1 and 2,Intensity,2018,26.33,kgCO2/ft2 Stores and DC,0.2834,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2015,Location,Scope 1 and 2,Intensity,2019,29.57,kgCO2/ft2 Stores and DC,0.3183,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2015,Location,Scope 1 and 2,Intensity,2021,30.16,kgCO2/ft2 Stores and DC,0.3246,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2016,Location,Scope 1 and 2,Intensity,2017,31.69,kgCO2/ft2 Stores and DC,0.3411,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2016,Location,Scope 1 and 2,Intensity,2018,22.95,kgCO2/ft2 Stores and DC,0.247,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2017,Location,Scope 1 and 2,Intensity,2019,22.72,kgCO2/ft2 Stores and DC,0.2446,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2017,Location,Scope 1 and 2,Intensity,2018,21.23,kgCO2/ft2 Stores and DC,0.2285,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2018,Location,Scope 1 and 2,Intensity,2019,20.83,kgCO2/ft2 Stores and DC,0.2242,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2018,Location,Scope 1 and 2,Intensity,2021,18.24,kgCO2/ft2 Stores and DC,0.1963,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2019,Location,Scope 1 and 2,Intensity,2020,19.15,kgCO2/ft2 Stores and DC,0.2061,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2019,Location,Scope 1 and 2,Intensity,2021,15.58,kgCO2/ft2 Stores and DC,0.1677,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2020,Location,Scope 1 and 2,Intensity,2021,11.63,kgCO2/ft2 Stores and DC,0.1252,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2021,Location,Scope 1 and 2,Intensity,2022,12.16,kgCO2/ft2 Stores and DC,0.1309,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2022,Location,Scope 1 and 2,Intensity,2023,11.91,kgCO2/ft2 Stores and DC,0.1282,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2023,Location,Scope 1 and 2,Intensity,2024,10.33,kgCO2/ft2 Stores and DC,0.1112,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,Global
+TESC,2015,Location,Scope 1 and 2,Intensity,2022,26.98,kgCO2/ft2 Stores and DC,0.2904,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,UK
+TESC,2019,Location,Scope 1 and 2,Intensity,2022,13.82,kgCO2/ft2 Stores and DC,0.1488,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,UK
+TESC,2020,Location,Scope 1 and 2,Intensity,2022,12.99,kgCO2/ft2 Stores and DC,0.1398,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,UK
+TESC,2021,Location,Scope 1 and 2,Intensity,2022,13.67,kgCO2/ft2 Stores and DC,0.1471,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,UK
+TESC,2022,Location,Scope 1 and 2,Intensity,2023,13.88,kgCO2/ft2 Stores and DC,0.1494,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,UK
+TESC,2023,Location,Scope 1 and 2,Intensity,2024,11.47,kgCO2/ft2 Stores and DC,0.1235,tCO2e/m2 Stores and DC,tCO2e,m2,Stores and DC,UK
+TESC,2006,Location,Scope 3,Measure,2013,"320,510",tCO2e,320510,tCO2e,,,,Global
+TESC,2006,Location,Scope 3,Measure,2014,"370,406",tCO2e,370406,tCO2e,,,,Global
+TESC,2006,Location,Scope 3,Measure,2015,"1,129,699",tCO2e,1129699,tCO2e,,,,Global
+TESC,2006,Location,Scope 3,Measure,2016,"1,129,072",tCO2e,1129072,tCO2e,,,,Global
+TESC,2006,Location,Scope 3,Measure,2017,"1,064,460",tCO2e,1064460,tCO2e,,,,Global
+TESC,2011,Location,Scope 3,Measure,2013,524639,tCO2e,524639,tCO2e,,,,Global
+TESC,2012,Location,Scope 3,Measure,2013,566941,tCO2e,566941,tCO2e,,,,Global
+TESC,2012,Location,Scope 3,Measure,2014,"581,701",tCO2e,581701,tCO2e,,,,Global
+TESC,2013,Location,Scope 3,Measure,2014,"497,422",tCO2e,497422,tCO2e,,,,Global
+TESC,2013,Location,Scope 3,Measure,2015,"1,287,661",tCO2e,1287661,tCO2e,,,,Global
+TESC,2014,Location,Scope 3,Measure,2015,"1,166,743",tCO2e,1166743,tCO2e,,,,Global
+TESC,2014,Location,Scope 3,Measure,2016,"1,216,740",tCO2e,1216740,tCO2e,,,,Global
+TESC,2015,Location,Scope 3,Measure,2016,"1,129,072",tCO2e,1129072,tCO2e,,,,Global
+TESC,2015,Location,Scope 3,Measure,2017,"1,097,491",tCO2e,1097491,tCO2e,,,,Global
+TESC,2015,Location,Scope 3,Measure,2019,"1,129,342",tCO2e,1129342,tCO2e,,,,Global
+TESC,2015,Location,Scope 3,Measure,2021,"684,079",tCO2e,684079,tCO2e,,,,Global
+TESC,2016,Location,Scope 3,Measure,2017,"1,073,721",tCO2e,1073721,tCO2e,,,,Global
+TESC,2017,Location,Scope 3,Measure,2018,"975,312",tCO2e,975312,tCO2e,,,,Global
+TESC,2017,Location,Scope 3,Measure,2019,"1,008,992",tCO2e,1008992,tCO2e,,,,Global
+TESC,2018,Location,Scope 3,Measure,2019,"913,802",tCO2e,913802,tCO2e,,,,Global
+TESC,2018,Location,Scope 3,Measure,2021,"624,752",tCO2e,624752,tCO2e,,,,Global
+TESC,2019,Location,Scope 3,Measure,2020,"819,984",tCO2e,819984,tCO2e,,,,Global
+TESC,2019,Location,Scope 3,Measure,2021,"557,111",tCO2e,557111,tCO2e,,,,Global
+TESC,2020,Location,Scope 3,Measure,2021,"471,195",tCO2e,471195,tCO2e,,,,Global
+TESC,2021,Location,Scope 3,Measure,2022,"593,405",tCO2e,593405,tCO2e,,,,Global
+TESC,2022,Location,Scope 3,Measure,2023,"567,191",tCO2e,567191,tCO2e,,,,Global
+TESC,2023,Location,Scope 3,Measure,2024,"529,470",tCO2e,529470,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 - 3,Measure,2013,"4,501,525",tCO2e,4501525,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 - 3,Measure,2015,"4,944,405",tCO2e,4944405,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 - 3,Measure,2014,"5,169,912",tCO2e,5169912,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 - 3,Measure,2016,"4,796,134",tCO2e,4796134,tCO2e,,,,Global
+TESC,2006,Location,Scope 1 - 3,Measure,2017,"4,669,951",tCO2e,4669951,tCO2e,,,,Global
+TESC,2011,Location,Scope 1 - 3,Measure,2013,"5,577,880",tCO2e,5577880,tCO2e,,,,Global
+TESC,2012,Location,Scope 1 - 3,Measure,2013,"5,749,807",tCO2e,5749807,tCO2e,,,,Global
+TESC,2012,Location,Scope 1 - 3,Measure,2014,"6,323,394",tCO2e,6323394,tCO2e,,,,Global
+TESC,2013,Location,Scope 1 - 3,Measure,2014,"6,372,319",tCO2e,6372319,tCO2e,,,,Global
+TESC,2013,Location,Scope 1 - 3,Measure,2015,"5,644,066",tCO2e,5644066,tCO2e,,,,Global
+TESC,2014,Location,Scope 1 - 3,Measure,2015,"5,625,941",tCO2e,5625941,tCO2e,,,,Global
+TESC,2014,Location,Scope 1 - 3,Measure,2016,"5,264,780",tCO2e,5264780,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 - 3,Measure,2016,"5,100,544",tCO2e,5100544,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 - 3,Measure,2017,"4,404,230",tCO2e,4404230,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 - 3,Measure,2019,"4,572,832",tCO2e,4572832,tCO2e,,,,Global
+TESC,2015,Location,Scope 1 - 3,Measure,2021,"3,020,621",tCO2e,3020621,tCO2e,,,,Global
+TESC,2016,Location,Scope 1 - 3,Measure,2017,"3,892,977",tCO2e,3892977,tCO2e,,,,Global
+TESC,2017,Location,Scope 1 - 3,Measure,2018,"3,418,677",tCO2e,3418677,tCO2e,,,,Global
+TESC,2017,Location,Scope 1 - 3,Measure,2019,"3,623,369",tCO2e,3623369,tCO2e,,,,Global
+TESC,2018,Location,Scope 1 - 3,Measure,2019,"3,288,104",tCO2e,3288104,tCO2e,,,,Global
+TESC,2018,Location,Scope 1 - 3,Measure,2021,"1,998,678",tCO2e,1998678,tCO2e,,,,Global
+TESC,2019,Location,Scope 1 - 3,Measure,2020,"2,988,638",tCO2e,2988638,tCO2e,,,,Global
+TESC,2019,Location,Scope 1 - 3,Measure,2021,"1,743,825",tCO2e,1743825,tCO2e,,,,Global
+TESC,2020,Location,Scope 1 - 3,Measure,2021,"1,537,957",tCO2e,1537957,tCO2e,,,,Global
+TESC,2021,Location,Scope 1 - 3,Measure,2022,"1,719,610",tCO2e,1719610,tCO2e,,,,Global
+TESC,2022,Location,Scope 1 - 3,Measure,2023,"1,614,333",tCO2e,1614333,tCO2e,,,,Global
+TESC,2023,Location,Scope 1 - 3,Measure,2024,"1,438,559",tCO2e,1438559,tCO2e,,,,Global
+TESC,2015,,Energy,Measure,2022,"6,823",GWh,6823,GWh,,,,Global
+TESC,2019,,Energy,Measure,2022,"6,443",GWh,6443,GWh,,,,Global
+TESC,2020,,Energy,Measure,2022,"6,089",GWh,6089,GWh,,,,Global
+TESC,2021,,Energy,Measure,2022,"6,263",GWh,6263,GWh,,,,Global
+TESC,2022,,Energy,Measure,2023,"6,000",GWh,6000,GWh,,,,Global
+TESC,2023,,Energy,Measure,2024,"5,511",GWh,5511,GWh,,,,Global
+TESC,2015,,Energy,Measure,2022,"5,502",GWh,5502,GWh,,,,UK
+TESC,2020,,Energy,Measure,2022,"5,306",GWh,5306,GWh,,,,UK
+TESC,2020,,Energy,Measure,2022,"5,037",GWh,5037,GWh,,,,UK
+TESC,2021,,Energy,Measure,2022,"5,203",GWh,5203,GWh,,,,UK
+TESC,2022,,Energy,Measure,2023,"5,037",GWh,5037,GWh,,,,UK
+TESC,2023,,Energy,Measure,2024,"4,638",GWh,4638,GWh,,,,UK
+ICE,2019,,Energy,Measure,2020,749450721,KWh,749.450721,GWh,,,,UK
+ICE,2020,,Energy,Measure,2021,813202632,KWh,813.202632,GWh,,,,UK
+ICE,2021,,Energy,Measure,2022,777878608,KWh,777.878608,GWh,,,,UK
+ICE,2022,,Energy,Measure,2023,198737142,KWh,198.737142,GWh,,,,UK
+ICE,2023,,Energy,Measure,2024,743007191,KWh,743.007191,GWh,,,,UK
+ICE,2019,,Scope 1,Measure,2020,68663,tCO2e,68663,tCO2e,,,,UK
+ICE,2020,,Scope 1,Measure,2021,79477,tCO2e,79477,tCO2e,,,,UK
+ICE,2021,,Scope 1,Measure,2022,73124,tCO2e,73124,tCO2e,,,,UK
+ICE,2022,,Scope 1,Measure,2023,69572,tCO2e,69572,tCO2e,,,,UK
+ICE,2023,,Scope 1,Measure,2024,67117,tCO2e,67117,tCO2e,,,,UK
+ICE,2019,Location,Scope 2,Measure,2020,121065,tCO2e,121065,tCO2e,,,,UK
+ICE,2020,Location,Scope 2,Measure,2021,112777,tCO2e,112777,tCO2e,,,,UK
+ICE,2021,Location,Scope 2,Measure,2022,99871,tCO2e,99871,tCO2e,,,,UK
+ICE,2022,Location,Scope 2,Measure,2023,98200,tCO2e,98200,tCO2e,,,,UK
+ICE,2023,Location,Scope 2,Measure,2024,95403,tCO2e,95403,tCO2e,,,,UK
+ICE,2019,Location,Scope 1 and 2,Measure,2020,189724,tCO2e,189724,tCO2e,,,,UK
+ICE,2020,Location,Scope 1 and 2,Measure,2021,192245,tCO2e,192245,tCO2e,,,,UK
+ICE,2021,Location,Scope 1 and 2,Measure,2022,172995,tCO2e,172995,tCO2e,,,,UK
+ICE,2022,Location,Scope 1 and 2,Measure,2023,167772,tCO2e,167772,tCO2e,,,,UK
+ICE,2023,Location,Scope 1 and 2,Measure,2024,162520,tCO2e,162520,tCO2e,,,,UK
+ICE,2019,Market,Scope 1 and 2,Measure,2021,68663,tCO2e,68663,tCO2e,,,,UK
+ICE,2020,Market,Scope 1 and 2,Measure,2021,79477,tCO2e,79477,tCO2e,,,,UK
+ICE,2021,Market,Scope 1 and 2,Measure,2022,73124,tCO2e,73124,tCO2e,,,,UK
+ICE,2022,Market,Scope 1 and 2,Measure,2023,69572,tCO2e,69572,tCO2e,,,,UK
+ICE,2023,Market,Scope 1 and 2,Measure,2024,67118,tCO2e,67118,tCO2e,,,,UK
+ICE,2019,Location,Scope,Intensity,2020,0.0583,tCO2e/£m Sales Revenue,0.0583,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2020,Location,Scope,Intensity,2021,0.0509,tCO2e/£m Sales Revenue,0.0509,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2021,Location,Scope,Intensity,2022,0.0487,tCO2e/£m Sales Revenue,0.0487,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2022,Location,Scope,Intensity,2023,0.0442,tCO2e/£m Sales Revenue,0.0442,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2023,Location,Scope,Intensity,2024,0.0395,tCO2e/£m Sales Revenue,0.0395,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2019,Market,Scope,Intensity,2021,0.0211,tCO2e/£m Sales Revenue,0.0211,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2020,Market,Scope,Intensity,2021,0.021,tCO2e/£m Sales Revenue,0.021,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2021,Market,Scope,Intensity,2022,0.0205,tCO2e/£m Sales Revenue,0.0205,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2022,Market,Scope,Intensity,2023,0.0183,tCO2e/£m Sales Revenue,0.0183,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2023,Market,Scope,Intensity,2024,0.0163,tCO2e/£m Sales Revenue,0.0163,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+OCADO,2012,,Scope 1,Measure,2015,39530,tCO2e,39530,tCO2e,,,,UK
+OCADO,2013,,Scope 1,Measure,2015,50198,tCO2e,50198,tCO2e,,,,UK
+OCADO,2014,,Scope 1,Measure,2015,63151,tCO2e,63151,tCO2e,,,,UK
+OCADO,2015,,Scope 1,Measure,2016,75891,tCO2e,75891,tCO2e,,,,UK
+OCADO,2015,,Scope 1,Measure,2018,72377,tCO2e,72377,tCO2e,,,,UK
+OCADO,2016,,Scope 1,Measure,2018,82305,tCO2e,82305,tCO2e,,,,UK
+OCADO,2017,,Scope 1,Measure,2019,87614,tCO2e,87614,tCO2e,,,,UK
+OCADO,2018,,Scope 1,Measure,2019,86502,tCO2e,86502,tCO2e,,,,UK
+OCADO,2019,,Scope 1,Measure,2020,87038,tCO2e,87038,tCO2e,,,,UK
+OCADO,2019,,Scope 1,Measure,2021,91.39,tCO2e,91.39,tCO2e,,,,UK
+OCADO,2020,,Scope 1,Measure,2021,116.73,tCO2e,116.73,tCO2e,,,,UK
+OCADO,2020,,Scope 1,Measure,2022,94912,tCO2e,94912,tCO2e,,,,UK
+OCADO,2021,,Scope 1,Measure,2022,96386,tCO2e,96386,tCO2e,,,,UK
+OCADO,2022,,Scope 1,Measure,2023,93293,tCO2e,93293,tCO2e,,,,UK
+OCADO,2023,,Scope 1,Measure,2024,103957,tCO2e,103957,tCO2e,,,,UK
+OCADO,2012,Location,Scope 2,Measure,2015,21613,tCO2e,21613,tCO2e,,,,UK
+OCADO,2013,Location,Scope 2,Measure,2015,26493,tCO2e,26493,tCO2e,,,,UK
+OCADO,2014,Location,Scope 2,Measure,2015,28602,tCO2e,28602,tCO2e,,,,UK
+OCADO,2015,Location,Scope 2,Measure,2016,28675,tCO2e,28675,tCO2e,,,,UK
+OCADO,2016,Location,Scope 2,Measure,2018,28270,tCO2e,28270,tCO2e,,,,UK
+OCADO,2017,Location,Scope 2,Measure,2019,25115,tCO2e,25115,tCO2e,,,,UK
+OCADO,2018,Location,Scope 2,Measure,2019,22811,tCO2e,22811,tCO2e,,,,UK
+OCADO,2019,Location,Scope 2,Measure,2020,21644,tCO2e,21644,tCO2e,,,,UK
+OCADO,2019,Location,Scope 2,Measure,2021,198.27,tCO2e,198.27,tCO2e,,,,UK
+OCADO,2020,Location,Scope 2,Measure,2021,215.17,tCO2e,215.17,tCO2e,,,,UK
+OCADO,2020,Location,Scope 2,Measure,2022,22549,tCO2e,22549,tCO2e,,,,UK
+OCADO,2021,Location,Scope 2,Measure,2022,21098,tCO2e,21098,tCO2e,,,,UK
+OCADO,2016,Market,Scope 2,Measure,2018,14510,tCO2e,14510,tCO2e,,,,UK
+OCADO,2017,Market,Scope 2,Measure,2019,8872,tCO2e,8872,tCO2e,,,,UK
+OCADO,2018,Market,Scope 2,Measure,2019,814,tCO2e,814,tCO2e,,,,UK
+OCADO,2019,Market,Scope 2,Measure,2020,729,tCO2e,729,tCO2e,,,,UK
+OCADO,2020,Market,Scope 2,Measure,2022,1385,tCO2e,1385,tCO2e,,,,UK
+OCADO,2021,Market,Scope 2,Measure,2022,815,tCO2e,815,tCO2e,,,,UK
+OCADO,2022,Market,Scope 2,Measure,2023,887,tCO2e,887,tCO2e,,,,UK
+OCADO,2023,Market,Scope 2,Measure,2024,895,tCO2e,895,tCO2e,,,,UK
+OCADO,2012,Location,Scope 1 and 2,Measure,2015,61143,tCO2e,61143,tCO2e,,,,UK
+OCADO,2013,Location,Scope 1 and 2,Measure,2015,76691,tCO2e,76691,tCO2e,,,,UK
+OCADO,2014,Location,Scope 1 and 2,Measure,2015,91753,tCO2e,91753,tCO2e,,,,UK
+OCADO,2015,Location,Scope 1 and 2,Measure,2016,104566,tCO2e,104566,tCO2e,,,,UK
+OCADO,2015,Location,Scope 1 and 2,Measure,2018,101052,tCO2e,101052,tCO2e,,,,UK
+OCADO,2016,Location,Scope 1 and 2,Measure,2018,110575,tCO2e,110575,tCO2e,,,,UK
+OCADO,2017,Location,Scope 1 and 2,Measure,2019,112729,tCO2e,112729,tCO2e,,,,UK
+OCADO,2018,Location,Scope 1 and 2,Measure,2019,109313,tCO2e,109313,tCO2e,,,,UK
+OCADO,2019,Location,Scope 1 and 2,Measure,2020,108682,tCO2e,108682,tCO2e,,,,UK
+OCADO,2019,Location,Scope 1 and 2,Measure,2021,289.66,tCO2e,289.66,tCO2e,,,,UK
+OCADO,2020,Location,Scope 1 and 2,Measure,2021,331.9,tCO2e,331.9,tCO2e,,,,UK
+OCADO,2020,Location,Scope 1 and 2,Measure,2022,117461,tCO2e,117461,tCO2e,,,,UK
+OCADO,2021,Location,Scope 1 and 2,Measure,2022,117484,tCO2e,117484,tCO2e,,,,UK
+OCADO,2017,Market,Scope 1 and 2,Measure,2019,96486,tCO2e,96486,tCO2e,,,,UK
+OCADO,2018,Market,Scope 1 and 2,Measure,2019,87316,tCO2e,87316,tCO2e,,,,UK
+OCADO,2019,Market,Scope 1 and 2,Measure,2020,87767,tCO2e,87767,tCO2e,,,,UK
+OCADO,2021,Market,Scope 1 and 2,Measure,2023,97201,tCO2e,97201,tCO2e,,,,UK
+OCADO,2022,Market,Scope 1 and 2,Measure,2023,94180,tCO2e,94180,tCO2e,,,,UK
+OCADO,2023,Market,Scope 1 and 2,Measure,2024,104852,tCO2e,104852,tCO2e,,,,UK
+OCADO,2019,,Scope 3,Measure,2021,7.7,tCO2e,7.7,tCO2e,,,,UK
+OCADO,2020,,Scope 3,Measure,2021,11.51,tCO2e,11.51,tCO2e,,,,UK
+OCADO,2021,,Scope 3,Measure,2022,457324,tCO2e,457324,tCO2e,,,,UK
+OCADO,2022,,Scope 3,Measure,2023,154962,tCO2e,154962,tCO2e,,,,UK
+OCADO,2022,,Scope 3,Measure,2024,209855,tCO2e,209855,tCO2e,,,,UK
+OCADO,2023,,Scope 3,Measure,2024,162057,tCO2e,162057,tCO2e,,,,UK
+OCADO,2012,Location,Scope 1 and 2,Intensity,2015,823.4,tCO2e/100000 Orders,823.4,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2013,Location,Scope 1 and 2,Intensity,2015,815.1,tCO2e/100000 Orders,815.1,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2014,Location,Scope 1 and 2,Intensity,2015,725.4,tCO2e/100000 Orders,725.4,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2015,Location,Scope 1 and 2,Intensity,2016,762.5,tCO2e/100000 Orders,762.5,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2015,Location,Scope 1 and 2,Intensity,2018,582.8,tCO2e/100000 Orders,582.8,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2016,Location,Scope 1 and 2,Intensity,2018,596.4,tCO2e/100000 Orders,596.4,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2017,Location,Scope 1 and 2,Intensity,2019,550.1,tCO2e/100000 Orders,550.1,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2018,Location,Scope 1 and 2,Intensity,2019,514,tCO2e/100000 Orders,514,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2019,Location,Scope 1 and 2,Intensity,2020,501,tCO2e/100000 Orders,501,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2016,Market,Scope 1 and 2,Intensity,2018,522.2,tCO2e/100000 Orders,522.2,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2017,Market,Scope 1 and 2,Intensity,2019,470.8,tCO2e/100000 Orders,470.8,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2018,Market,Scope 1 and 2,Intensity,2019,411,tCO2e/100000 Orders,411,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2019,Market,Scope 1 and 2,Intensity,2020,404,tCO2e/100000 Orders,404,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2021,Market,Scope 1 and 2,Intensity,2023,379,tCO2e/100000 Orders,379,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2022,Market,Scope 1 and 2,Intensity,2023,348,tCO2e/100000 Orders,348,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2023,Market,Scope 1 and 2,Intensity,2024,358,tCO2e/100000 Orders,358,tCO2e/100000 Orders,tCO2e,100000,Orders,UK
+OCADO,2012,Location,Scope 1 and 2,Intensity,2020,730,tCO2e/Normalised 100000,730,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2018,Location,Scope 1 and 2,Intensity,2020,491,tCO2e/Normalised 100000,491,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2019,Location,Scope 1 and 2,Intensity,2020,398,tCO2e/Normalised 100000,398,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2020,Location,Scope 1 and 2,Intensity,2022,489,tCO2e/Normalised 100000,489,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2021,Location,Scope 1 and 2,Intensity,2022,485,tCO2e/Normalised 100000,485,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2018,Market,Scope 1 and 2,Intensity,2020,392,tCO2e/Normalised 100000,392,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2019,Market,Scope 1 and 2,Intensity,2020,321,tCO2e/Normalised 100000,321,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2020,Market,Scope 1 and 2,Intensity,2022,401,tCO2e/Normalised 100000,401,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2021,Market,Scope 1 and 2,Intensity,2022,379,tCO2e/Normalised 100000,379,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2019,,Scope,Intensity,2021,1.77,tCO2e/Normalised 100000,1.77,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2020,,Scope,Intensity,2021,1.82,tCO2e/Normalised 100000,1.82,tCO2e/Normalised 100000,tCO2e,100000,Normalised Orders,UK
+OCADO,2022,,Scope 3,Intensity,2024,76,tCO2e/£m Revenue,76,tCO2e/£m Revenue,tCO2e,£m,Revenue,UK
+OCADO,2023,,Scope 3,Intensity,2024,51,tCO2e/£m Revenue,51,tCO2e/£m Revenue,tCO2e,£m,Revenue,UK
+OCADO,2019,,Energy,Measure,2020,424439,MWh,424.439,GWh,,,,UK
+OCADO,2021,,Energy,Measure,2022,457324,MWh,457.324,GWh,,,,UK
+OCADO,2021,,Energy,Measure,2023,419834,MWh,419.834,GWh,,,,UK
+OCADO,2022,,Energy,Measure,2023,496956,MWh,496.956,GWh,,,,UK
+OCADO,2023,,Energy,Measure,2024,529009,MWh,529.009,GWh,,,,UK
+OCADO,2021,,Energy,Intensity,2023,1916,MWh/100000 Orders,1.916,GWh/100000 Orders,GWh,100000,Orders,UK
+OCADO,2022,,Energy,Intensity,2023,1835,MWh/100000 Orders,1.835,GWh/100000 Orders,GWh,100000,Orders,UK
+OCADO,2022,,Energy,Intensity,2024,1839,MWh/100000 Orders,1.839,GWh/100000 Orders,GWh,100000,Orders,UK
+OCADO,2023,,Energy,Intensity,2024,1805,MWh/100000 Orders,1.805,GWh/100000 Orders,GWh,100000,Orders,UK
