@@ -52,12 +52,11 @@ The geographical/organisational scope for which values are reported.  If values 
 | Business Scope | Description |
 |------|-------------|
 | UK | UK supermarket operations only |
-| UK+ | All UK operations* |
+| UK+ | All UK operations [1] |
 ! UK and Ireland | UK and Ireland operationa |
 | UK and Europe | UK and European operations |
 | Global | Global operations |
 
-* J Sainsbury plc: Sainsburys, Homebase and Argos
-* 
+[1] J Sainsbury plc: Sainsburys, Homebase and Argos
 
 ## Cleaned Data: retailer_emissions_clean.csv
