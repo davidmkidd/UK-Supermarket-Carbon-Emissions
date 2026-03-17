@@ -1,5 +1,8 @@
 # UK Supermarket Emissions Comparison
 
+![UK Supermarket Logo](https://i0.wp.com/evoviz.uk/wp-content/uploads/2025/05/logos.png?resize=1200%2C500&ssl=1](https://i0.wp.com/evoviz.uk/wp-content/uploads/2025/05/logos.png?resize=1200%2C500&ssl=1)
+
+
 UKSmktComp is dataset of UK Supermarket Retailer Carbon Emissions and Energy Consumption data extracted from the UK Annual Financial Reports of the eleven largest UK Retailers and a copy of the [Geolytix Retial Points] (https://geolytix.com/blog/supermarket-retail-points/) data set. These data were collated for the UKSmktComp Google Colab R Workbooks tutorials that introduces EDA, data cleaning, standardisation, professional graphing, and regression analysis of secondary data to Environmental Managers. 
 
 | File | Description |
