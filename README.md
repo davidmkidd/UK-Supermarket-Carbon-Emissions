@@ -8,7 +8,7 @@ UKSmktComp is dataset of UK Supermarket Retailer Carbon Emissions and Energy Con
 | File | Description |
 |------|-------------|
 | geolytix_retailpoints_v34_202412.csv | Raw Geolytix Retail Points for UKSmktComp-1-Stores-Cleaning.ipynb, downloaded Septemeber 2024 |
-| geolytix_size_class.csv | Geolytix Retail Points store size classes for UKSmktComp-1-Stores-Cleaning.ipynb |
+| geolytix_size_class.csv | Geolytix Retail Points store size classes for UKSmktComp-1-Stores-Graphing.ipynb |
 | geolytix_retailpoints_v34_202412_clean.csv | Cleaned Geolytix Retail Points for UKSmktComp-2-Stores-Graphing.ipynb |
 | retailer_emissions.csv | Raw Retailer Emissions Data for UKSmktComp-3-Emissions-Cleaning.ipynb |
 | retailer_emissions_clear.csv | Cleaned Retailer Emissions Data for UKSmktComp-4-Emissions-Graphing.ipynb |
