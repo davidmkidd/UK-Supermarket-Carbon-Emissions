@@ -1,12 +1,15 @@
-# UK Supermarket Emissions 2013-2024
+# UK Supermarket Emissions Comparison
 
-From 1 October 2013, all UK-based companies listed on the Main Market of the London Stock Exchange were required to report greenhouse gas emissions, energy consumption, and energy efficiency in their annual reports. This was mandated under the Companies Act 2006 (Strategic Report and Directors’ Report) Regulations 2013, SI 2013/1970. Part 7 ‘Disclosures Concerning Greenhouse Gas Emissions’ is detailed in Schedule 7 of the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008, SI 2008/410. On 1 April 2019, the Streamlined Energy and Carbon Reporting (SECR) regulations (2019) extended reporting to a wider range of public and private companies.
+UKSmktComp is dataset of UK Supermarket Retailer Carbon Emissions and Energy Consumption data extracted from the UK Annual Financial Reports of the eleven largest UK Retailers and a copy of the [Geolytix Retial Points] (https://geolytix.com/blog/supermarket-retail-points/) data set. These data were collated for the UKSmktComp Google Colab R Workbooks tutorials that introduces EDA, data cleaning, standardisation, professional graphing, and regression analysis of secondary data to Environmental Managers. 
 
-UKSmktComp is a dataset of Emissions and Energy Consumption data extracted from UK Annual Financial Reports of the eleven largest UK Retailers collated for the UK Supermarket Comparison Tuturials that aim to introduce Environmental Mangager's to EDA and professional graphing in R delivered as Google Colab Workbooks.
+| File | Description |
+|------|-------------|
+| geolytix_retailpoints_v34_202412.csv | Raw Geolytix Retail Points for UKSmktComp-1-Stores-Cleaning.ipynb, downloaded Septemeber 2024 |
+| geolytix_size_class.csv | Geolytix Retail Points store size classes for UKSmktComp-1-Stores-Cleaning.ipynb |
+| geolytix_retailpoints_v34_202412_clean.csv | Cleaned Geolytix Retail Points for UKSmktComp-2-Stores-Graphing.ipynb |
+| retailer_emissions.csv | Raw Retailer Emissions Data for UKSmktComp-3-Emissions-Cleaning.ipynb |
+| retailer_emissions_clear.csv | Cleaned Retailer Emissions Data for UKSmktComp-4-Emissions-Graphing.ipynb |
 
-The data is supplied in two forms:
-1. Raw data extracted from annual reports for EDA and Data Cleaning tutorial.
-2. Cleaned data for comparative analysis tutorial.
 
 ## Raw Data: retailer_emissions.csv
 Carbon emmissions and energy consumption was extracted from the annual reports of the eleven largest UK supermarket retailers published 2013 to 2025.
@@ -44,6 +47,17 @@ Annual reports vary in how emissions and energy are measured including the metho
 Only unique year/value combinations are recorded for the earliest annual report in which the year/value is recorded.
 
 3. Business Scope
-Where values are reported for more than one ‘organizational scope’ only the scope that is closest to the 'UK Supermarket' is recorded. For example, only values for Waitrose supermarkets are recorded for John Lewis Partnership reports. 
+The geographical/organisational scope for which values are reported.  If values for more than one scope are reported only the scope closest to 'UK Supermarkets' is recorded, for example, only values for Waitrose supermarkets are recorded from John Lewis Partnership reports. Business scope may change between reporting periods.
+
+| Business Scope | Description |
+|------|-------------|
+| UK | UK supermarket operations only |
+| UK+ | All UK operations* |
+! UK and Ireland | UK and Ireland operationa |
+| UK and Europe | UK and European operations |
+| Global | Global operations |
+
+* J Sainsbury plc: Sainsburys, Homebase and Argos
+* 
 
 ## Cleaned Data: retailer_emissions_clean.csv
