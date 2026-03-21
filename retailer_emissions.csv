@@ -784,30 +784,30 @@ OCADO,2023,2022,Scope 3,,Measure,154962,tCO2e,154962,tCO2e,,,,UK
 OCADO,2024,2022,Scope 3,,Measure,209855,tCO2e,209855,tCO2e,,,,UK
 OCADO,2024,2023,Scope 3,,Measure,162057,tCO2e,162057,tCO2e,,,,UK
 SAINS,2014,2013,Scope 1 and 2,Location,Intensity,61.12,tCO2e/1000 sq ft,0.0057,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2015,2012,Scope 1 and 3,Location,Intensity,70.27,tCO2e/1000 sq ft,0.0065,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2015,2013,Scope 1 and 4,Location,Intensity,61.93,tCO2e/1000 sq ft,0.0058,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2015,2014,Scope 1 and 5,Location,Intensity,57.87,tCO2e/1000 sq ft,0.0054,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2016,2015,Scope 1 and 6,Location,Intensity,57.05,tCO2e/1000 sq ft,0.0053,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2017,2005,Scope 1 and 7,Location,Intensity,90.37,tCO2e/1000 sq ft,0.0084,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2018,2016,Scope 1 and 8,Location,Intensity,51.98,tCO2e/1000 sq ft,0.0048,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2018,2017,Scope 1 and 9,Location,Intensity,44.91,tCO2e/1000 sq ft,0.0042,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2020,2005,Scope 1 and 10,Location,Intensity,85.55,tCO2e/1000 sq ft,0.008,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2024,2022,Scope 1 and 11,Location,Intensity,25.23,tCO2e/1000 sq ft,0.0023,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2024,2023,Scope 1 and 12,Location,Intensity,25.09,tCO2e/1000 sq ft,0.0023,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2016,2015,Scope 1 and 13,Market,Intensity,48.74,tCO2e/1000 sq ft,0.0045,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2017,2016,Scope 1 and 14,Market,Intensity,45.74,tCO2e/1000 sq ft,0.0043,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2018,2016,Scope 1 and 15,Market,Intensity,47.01,tCO2e/1000 sq ft,0.0044,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2018,2017,Scope 1 and 16,Market,Intensity,39.71,tCO2e/1000 sq ft,0.0037,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2019,2017,Scope 1 and 17,Market,Intensity,39.77,tCO2e/1000 sq ft,0.0037,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2019,2018,Scope 1 and 18,Market,Intensity,35.84,tCO2e/1000 sq ft,0.0033,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2020,2018,Scope 1 and 19,Market,Intensity,35.92,tCO2e/1000 sq ft,0.0033,tCO2e/m2,tCO2e,m2,,UK
-SAINS,2021,2019,Scope 1 and 20,Market,Intensity,33.36,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
-SAINS,2021,2020,Scope 1 and 21,Market,Intensity,33.54,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
-SAINS,2022,2020,Scope 1 and 22,Market,Intensity,33.51,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
-SAINS,2022,2021,Scope 1 and 23,Market,Intensity,31.27,tCO2e/1000 sq ft,0.0029,tCO2e/m2,tCO2e,m2,,UK+
-SAINS,2023,2021,Scope 1 and 24,Market,Intensity,30.63,tCO2e/1000 sq ft,0.0029,tCO2e/m2,tCO2e,m2,,UK+
-SAINS,2023,2022,Scope 1 and 25,Market,Intensity,17.08,tCO2e/1000 sq ft,0.0016,tCO2e/m2,tCO2e,m2,,UK+
-SAINS,2024,2023,Scope 1 and 26,Market,Intensity,16.3,tCO2e/1000 sq ft,0.0015,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2015,2012,Scope 1 and 2,Location,Intensity,70.27,tCO2e/1000 sq ft,0.0065,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2015,2013,Scope 1 and 2,Location,Intensity,61.93,tCO2e/1000 sq ft,0.0058,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2015,2014,Scope 1 and 2,Location,Intensity,57.87,tCO2e/1000 sq ft,0.0054,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2016,2015,Scope 1 and 2,Location,Intensity,57.05,tCO2e/1000 sq ft,0.0053,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2017,2005,Scope 1 and 2,Location,Intensity,90.37,tCO2e/1000 sq ft,0.0084,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2018,2016,Scope 1 and 2,Location,Intensity,51.98,tCO2e/1000 sq ft,0.0048,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2018,2017,Scope 1 and 2,Location,Intensity,44.91,tCO2e/1000 sq ft,0.0042,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2020,2005,Scope 1 and 2,Location,Intensity,85.55,tCO2e/1000 sq ft,0.008,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2024,2022,Scope 1 and 2,Location,Intensity,25.23,tCO2e/1000 sq ft,0.0023,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2024,2023,Scope 1 and 2,Location,Intensity,25.09,tCO2e/1000 sq ft,0.0023,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2016,2015,Scope 1 and 2,Market,Intensity,48.74,tCO2e/1000 sq ft,0.0045,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2017,2016,Scope 1 and 2,Market,Intensity,45.74,tCO2e/1000 sq ft,0.0043,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2018,2016,Scope 1 and 2,Market,Intensity,47.01,tCO2e/1000 sq ft,0.0044,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2018,2017,Scope 1 and 2,Market,Intensity,39.71,tCO2e/1000 sq ft,0.0037,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2019,2017,Scope 1 and 2,Market,Intensity,39.77,tCO2e/1000 sq ft,0.0037,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2019,2018,Scope 1 and 2,Market,Intensity,35.84,tCO2e/1000 sq ft,0.0033,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2020,2018,Scope 1 and 2,Market,Intensity,35.92,tCO2e/1000 sq ft,0.0033,tCO2e/m2,tCO2e,m2,,UK
+SAINS,2021,2019,Scope 1 and 2,Market,Intensity,33.36,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2021,2020,Scope 1 and 2,Market,Intensity,33.54,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2022,2020,Scope 1 and 2,Market,Intensity,33.51,tCO2e/1000 sq ft,0.0031,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2022,2021,Scope 1 and 2,Market,Intensity,31.27,tCO2e/1000 sq ft,0.0029,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2023,2021,Scope 1 and 2,Market,Intensity,30.63,tCO2e/1000 sq ft,0.0029,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2023,2022,Scope 1 and 2,Market,Intensity,17.08,tCO2e/1000 sq ft,0.0016,tCO2e/m2,tCO2e,m2,,UK+
+SAINS,2024,2023,Scope 1 and 2,Market,Intensity,16.3,tCO2e/1000 sq ft,0.0015,tCO2e/m2,tCO2e,m2,,UK+
 SAINS,2021,2019,Energy,,Measure,"2,777,605,330",KWh,2777.6053,GWh,,,,UK+
 SAINS,2021,2020,Energy,,Measure,"2,876,589,480",KWh,2876.5895,GWh,,,,UK+
 SAINS,2022,2020,Energy,,Measure,"2,881,449,330.90",KWh,2881.4493,GWh,,,,UK+
