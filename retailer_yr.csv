@@ -107,7 +107,7 @@
 "COOP",2012,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales","tCO2e","£m","Sales","UK",62.21,NA,NA,NA,NA
 "COOP",2012,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",752532.333333333,NA,NA,NA,NA
 "COOP",2012,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",272559,NA,NA,NA,NA
-"COOP",2013,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",315911,NA,NA,NA,NA
+"COOP",2013,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",315911,NA,NA,NA,NA
 "COOP",2013,"Scope 1","Measure",NA,"tCO2e","","","","UK",308518,NA,NA,NA,NA
 "COOP",2013,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales","tCO2e","£m","Sales","UK",62.85,NA,NA,NA,NA
 "COOP",2013,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",705223.5,NA,NA,NA,NA
@@ -116,12 +116,12 @@
 "COOP",2014,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",734662,NA,622720,NA,1770
 "COOP",2014,"Scope 2","Measure","Location","tCO2e","","","","UK",403386,NA,622720,NA,1770
 "COOP",2014,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales","tCO2e","£m","Sales","UK",72.18,NA,622720,NA,1770
-"COOP",2014,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",341676,NA,622720,NA,1770
+"COOP",2014,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",341676,NA,622720,NA,1770
 "COOP",2014,"Scope 1","Measure",NA,"tCO2e","","","","UK",333877,NA,622720,NA,1770
 "COOP",2014,"Scope 2","Measure","Market","tCO2e","","","","UK",7799,NA,622720,NA,1770
 "COOP",2015,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",701126.5,280,623000,2,1772
 "COOP",2015,"Scope 2","Measure","Market","tCO2e","","","","UK",3575,280,623000,2,1772
-"COOP",2015,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",334273,280,623000,2,1772
+"COOP",2015,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",334273,280,623000,2,1772
 "COOP",2015,"Scope 2","Measure","Location","tCO2e","","","","UK",357520,280,623000,2,1772
 "COOP",2015,"Scope 1","Measure",NA,"tCO2e","","","","UK",330698,280,623000,2,1772
 "COOP",2015,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales","tCO2e","£m","Sales","UK",68.16,280,623000,2,1772
@@ -141,7 +141,7 @@
 "COOP",2018,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",435980,11340,671160,71,2061
 "COOP",2018,"Scope 2","Measure","Location","tCO2e","","","","UK",188563,11340,671160,71,2061
 "COOP",2018,"Scope 2","Measure","Market","tCO2e","","","","UK",0,11340,671160,71,2061
-"COOP",2018,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",247417,11340,671160,71,2061
+"COOP",2018,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",247417,11340,671160,71,2061
 "COOP",2018,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales","tCO2e","£m","Sales","UK",42.7,11340,671160,71,2061
 "COOP",2019,"Scope 2","Measure","Location","tCO2e","","","","UK",178455.5,26740,697900,171,2232
 "COOP",2019,"Scope 2","Measure","Market","tCO2e","","","","UK",13500,26740,697900,171,2232
@@ -518,7 +518,7 @@
 "OCADO",2016,"Scope 2","Measure","Location","tCO2e","","","","UK",28270,NA,NA,NA,NA
 "OCADO",2016,"Scope 1 and 2","Intensity","Location","tCO2e/100000 Orders","tCO2e","100000","Orders","UK",596.4,NA,NA,NA,NA
 "OCADO",2016,"Scope 1 and 2","Intensity","Market","tCO2e/100000 Orders","tCO2e","100000","Orders","UK",522.2,NA,NA,NA,NA
-"OCADO",2016,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",96815,NA,NA,NA,NA
+"OCADO",2016,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",96815,NA,NA,NA,NA
 "OCADO",2017,"Scope 1 and 2","Intensity","Market","tCO2e/100000 Orders","tCO2e","100000","Orders","UK",470.8,NA,NA,NA,NA
 "OCADO",2017,"Scope 2","Measure","Market","tCO2e","","","","UK",8872,NA,NA,NA,NA
 "OCADO",2017,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",112729,NA,NA,NA,NA
@@ -551,7 +551,7 @@
 "OCADO",2020,"Scope 2","Measure","Location","tCO2e","","","","UK",11382.085,NA,NA,NA,NA
 "OCADO",2020,"Scope 2","Measure","Market","tCO2e","","","","UK",1385,NA,NA,NA,NA
 "OCADO",2020,"Scope 1 and 2","Intensity","Location","tCO2e/Normalised 100000","tCO2e","100000","Normalised Orders","UK",489,NA,NA,NA,NA
-"OCADO",2020,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",48899.365,NA,NA,NA,NA
+"OCADO",2020,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",48899.365,NA,NA,NA,NA
 "OCADO",2020,"Scope","Intensity",NA,"tCO2e/Normalised 100000","tCO2e","100000","Normalised Orders","UK",1.82,NA,NA,NA,NA
 "OCADO",2020,"Scope 1","Measure",NA,"tCO2e","","","","UK",47514.365,NA,NA,NA,NA
 "OCADO",2020,"Scope 1 and 2","Intensity","Market","tCO2e/Normalised 100000","tCO2e","100000","Normalised Orders","UK",401,NA,NA,NA,NA
