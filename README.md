@@ -2,7 +2,7 @@
 
 ![UK Supermarket Logo](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/main/logos.png)
 
-UK-Supermarket-Carbon-Emissions is dataset of raw and processed UK Supermarket Carbon Emissions and Energy Consumption data extracted from the Annual Financial Reports of the eleven largest UK Retailers and a copy of the Geolytix Retial Points (https://geolytix.com/blog/supermarket-retail-points/) data for the **UKSmktComp Google Colab tutorial**(https://colab.research.google.com/drive/1f8a0pXfF9PqCujiwjf4TO4-k7ezt-6b3#scrollTo=SMDXbzxxDvQQ) that introduces EDA, data cleaning, standardisation, professional graphing, and regression analysis of secondary data to environmental managers.
+UK-Supermarket-Carbon-Emissions is dataset of raw and processed UK Supermarket Carbon Emissions and Energy Consumption data extracted from the Annual Financial Reports of the eleven largest UK Retailers and a copy of the Geolytix Retial Points (https://geolytix.com/blog/supermarket-retail-points/) data for the **UKSmktComp Google Colab tutorial** (https://colab.research.google.com/drive/1f8a0pXfF9PqCujiwjf4TO4-k7ezt-6b3#scrollTo=SMDXbzxxDvQQ) that introduces EDA, data cleaning, standardisation, professional graphing, and regression analysis of secondary data to environmental managers.
 
 | File | Description |
 |------|-------------|
