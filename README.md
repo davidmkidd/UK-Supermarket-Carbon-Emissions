@@ -36,10 +36,10 @@ UK-Supermarket-Carbon-Emissions is dataset of raw and processed UK Supermarket R
 
 ### Notes:
 1. Accounting Period
-Reports vary in accounting period with most covering either the previous year beginning January (calendar year), February, or April (financial year). Reports without an explicit accounting period are assumed to be the same as other reported years for that company. **Values are assigned to the year the reports cover the majority of.**
+Reports vary in accounting period with most covering either the previous year beginning January (calendar year), February, or April (financial year). Reports without an explicit accounting period are assumed to be the same as other reported years for that company. Values are assigned to the year the reports cover the majority of.
 
 2. Value Recalculation
-The accounting method may change and historic values recalculated to new estimated in later reports. *Only unique year/value combinations are recorded for the earliest annual report in which the year/value is recorded.*
+The accounting method may change and historic values recalculated to new estimated in later reports. Only unique year/value combinations are recorded for the earliest annual report in which the year/value is recorded.
 
 3. Value Standardization
 KPIs may be reported in different units, e.g. tCO2e or 1000's, tCO2eKWh or GWh. 'Raw reported' values and units are recorded in *Source_Value* and *Source_Unit*, with strandardised values in *Value* field and units in *Unit*, *Unit_Neum*, *Unit_Denom_1*, and *Unit_Denom_2*. Emissions are standardised to 'tCO2e' and energy to 'GWh'. Area-based intensity metrics are standardised to 'm2' and monetory intensity to million pounds '£m'.
