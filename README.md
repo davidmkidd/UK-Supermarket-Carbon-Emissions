@@ -2,20 +2,19 @@
 
 ![UK Supermarket Logo](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/main/logos.png)
 
-
-UKSmktComp is dataset of UK Supermarket Retailer Carbon Emissions and Energy Consumption data extracted from the UK Annual Financial Reports of the eleven largest UK Retailers and a copy of the [Geolytix Retial Points] (https://geolytix.com/blog/supermarket-retail-points/) data set. These data were collated for the UKSmktComp Google Colab R Workbooks tutorials that introduces EDA, data cleaning, standardisation, professional graphing, and regression analysis of secondary data to Environmental Managers. 
+UK-Supermarket-Carbon-Emissions is dataset of raw and processed UK Supermarket RUKSmktCompetailer Carbon Emissions and Energy Consumption data extracted from the Annual Financial Reports of the eleven largest UK Retailers and a copy of the [Geolytix Retial Points] (https://geolytix.com/blog/supermarket-retail-points/) data for the [UKSmktComp Google Colab tutorial] (https://colab.research.google.com/drive/1f8a0pXfF9PqCujiwjf4TO4-k7ezt-6b3#scrollTo=SMDXbzxxDvQQ) that introduces EDA, data cleaning, standardisation, professional graphing, and regression analysis of secondary data to environmental managers.
 
 | File | Description |
 |------|-------------|
-| geolytix_retailpoints_v34_202412.csv | Raw Geolytix Retail Points for UKSmktComp-1-Stores-Cleaning.ipynb, downloaded Septemeber 2024 |
+| geolytix_retailpoints_v34_202412.csv | Raw Geolytix Retail Points for UKSmktComp-1-Stores-Cleaning.ipynb |
 | geolytix_size_class.csv | Geolytix Retail Points store size classes for UKSmktComp-1-Stores-Graphing.ipynb |
-| geolytix_retailpoints_v34_202412_clean.csv | Cleaned Geolytix Retail Points for UKSmktComp-2-Stores-Graphing.ipynb |
+| geolytix_retailpoints_v34_202412_clean.csv | Geolytix Retail Points summarised by retailer and year for UKSmktComp-2-Stores-Graphing.ipynb |
 | retailer_emissions.csv | Raw Retailer Emissions Data for UKSmktComp-3-Emissions-Cleaning.ipynb |
-| retailer_emissions_clear.csv | Cleaned Retailer Emissions Data for UKSmktComp-4-Emissions-Graphing.ipynb |
+| retailer_yr.csv | Cleaned Retailer Emissions Data by retailer and year for UKSmktComp-4-Emissions-Graphing.ipynb |
 
 
 ## Raw Data: retailer_emissions.csv
-Carbon emmissions and energy consumption was extracted from the annual reports of the eleven largest UK supermarket retailers published 2013 to 2025.
+2013 - 2025 carbon emmissions and energy consumption of the UKs eleven largest supermarket retailers extracted from  annual reports.
 
 | Field | Type | Description |
 |----------|----------|----------|
@@ -28,29 +27,25 @@ Carbon emmissions and energy consumption was extracted from the annual reports o
 | Source | Text | Record source |
 | Source_Value |Numeric | Value in report |
 | Source_Unit | Text | Unit in report |
-| Value | Numeric | Source_Value standardized to tCO2e or GWh  |
+| Value | Numeric | Source_Value standardized to tCO2e or GWh |
 | Unit | Text | Standardized unit |
 | Unit_Neum | Unit numerator of standardisted intensity |
 | Unit_Denom_1 | Text | 1st part of standardized intensity unit denominator, ‘m2’ or ‘£m’ |
 | Unit_Denom_2 | Text | 2nd part of standardized intensity unit denominator, ‘Sales’, , ‘Sales Revenue’, ‘Turnover’, ‘Sales Floor’, ‘GIA’, ‘Stores and DC’. |
 | Business_Scope | Text | Business extent of the value which may be organisational or geographical |
 
-Notes: 
-
+### Notes:
 1. Accounting Period
-Annual reports vary in accounting period with covering the previous year periods year beginning January (Calendar Year), February, or April (Financial Year). 
-Reports without explicit accounting periods are assumed to be the same as other reported years for that company. 
-One retailer changed accounting month, and the accounting periods of successive reports of the same company do not always begin and end on the same day of the month. 
+Reports vary in accounting period with most covering either the previous year beginning January (calendar year), February, or April (financial year). Reports without an explicit accounting period are assumed to be the same as other reported years for that company. **Values are assigned to the year the reports cover the majority of.**
 
-Reporting year is assigned to the year the reports cover the majority of.
+2. Value Recalculation
+The accounting method may change and historic values recalculated to new estimated in later reports. *Only unique year/value combinations are recorded for the earliest annual report in which the year/value is recorded.*
 
-2. Emissions Reporting
-Annual reports vary in how emissions and energy are measured including the method (location or marked) and  reports emissions and energy for the accounting year and (often) one or more previous years, one of which will be the 'baseline' to which the value is compared. The accounting method may, however, change with later reports reporting recalculated values for previous years. 
+3. Value Standardization
+KPIs may be reported in different units, e.g. tCO2e or 1000's, tCO2eKWh or GWh. 'Raw reported' values and units are recorded in *Source_Value* and *Source_Unit*, with strandardised values in *Value* field and units in *Unit*, *Unit_Neum*, *Unit_Denom_1*, and *Unit_Denom_2*. Emissions are standardised to 'tCO2e' and energy to 'GWh'. Area-based intensity metrics are standardised to 'm2' and monetory intensity to million pounds '£m'.
 
-Only unique year/value combinations are recorded for the earliest annual report in which the year/value is recorded.
-
-3. Business Scope
-The geographical/organisational scope for which values are reported.  If values for more than one scope are reported only the scope closest to 'UK Supermarkets' is recorded, for example, only values for Waitrose supermarkets are recorded from John Lewis Partnership reports. Business scope may change between reporting periods.
+4. Business Scope
+Values are recorded for different business scopes, for example 'UK' or 'Global' operations, or the entire UK business or just the suprmarket component. Values for all business scopes are recorded. Business scope may change between reports.
 
 | Business Scope | Description |
 |------|-------------|
@@ -61,5 +56,3 @@ The geographical/organisational scope for which values are reported.  If values 
 | Global | Global operations |
 
 [1] J Sainsbury plc: Sainsburys, Homebase and Argos
-
-## Cleaned Data: retailer_emissions_clean.csv
