@@ -51,7 +51,7 @@ Values are recorded for different business scopes, for example 'UK' or 'Global' 
 |------|-------------|
 | UK | UK supermarket operations only |
 | UK+ | All UK operations [1] |
-! UK and Ireland | UK and Ireland operationa |
+| UK and Ireland | UK and Ireland operationa |
 | UK and Europe | UK and European operations |
 | Global | Global operations |
 
