@@ -1,0 +1,12 @@
+﻿retailer,retailer_code,hex
+ALDI,Aldi,#0000FFFF
+ASDA,Asda,#1F9698FF
+COOP,The Co-operative Group,#009FFFFF
+ICE,Iceland,#A10300FF
+LIDL,Lidl,#B1CC71FF
+M&S,Marks and Spencer,#808080
+MORR,Morrisons,#02AD24FF
+OCADO,Ocado,#783FC1FF
+SAINS,Sainsburys,#FE8F42FF
+TESC,Tesco,#FF0000FF
+JLP,Waitrose,#005300FF
