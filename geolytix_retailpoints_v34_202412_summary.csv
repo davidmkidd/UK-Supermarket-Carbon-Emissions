@@ -1,4 +1,4 @@
-"Retailer","Year","Code","New_Area","Total_Area","New_Store","Total_Store"
+"retailer","year","code","new_area","total_area","new_store","total_store"
 "Aldi",2014,"ALDI",NA,419580,NA,498
 "Aldi",2015,"ALDI",58800,478380,70,568
 "Aldi",2016,"ALDI",35280,513660,42,610
