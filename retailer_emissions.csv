@@ -1,4 +1,4 @@
-﻿retailer_code,source_year,Year,kpi,method,kpi_type,source_value,source_unit,value,unit,unit_neum,unit_denom_1,unit_denom_2,business_scope
+﻿retailer_code,source_year,year,kpi,method,kpi_type,source_value,source_unit,value,unit,unit_neum,unit_denom_1,unit_denom_2,business_scope
 ALDI,2020,2019,Energy,,Measure,750247,MWh,750.247,GWh,,,,UK
 ALDI,2020,2020,Energy,,Measure,795826,MWh,795.826,GWh,,,,UK
 ALDI,2021,2021,Energy,,Measure,798298,MWh,798.298,GWh,,,,UK
