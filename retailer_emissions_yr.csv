@@ -21,7 +21,7 @@
 "ALDI",2020,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",232957,"Aldi",42840,743820,51,881
 "ALDI",2020,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",131223,"Aldi",42840,743820,51,881
 "ALDI",2020,"Scope 1 and 2","Intensity","Location","tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.206,"Aldi",42840,743820,51,881
-"ALDI",2020,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales","tCO2e","mGBP","Sales","UK",8.4935,"Aldi",42840,743820,51,881
+"ALDI",2020,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales","tCO2e","mGBP","Sales","UK",16.985,"Aldi",42840,743820,51,881
 "ALDI",2020,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",208547,"Aldi",42840,743820,51,881
 "ALDI",2020,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",106812,"Aldi",42840,743820,51,881
 "ALDI",2020,"Scope 2","Measure","Location","tCO2e","","","","UK",101734,"Aldi",42840,743820,51,881
@@ -36,7 +36,7 @@
 "ALDI",2021,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",225573.5,"Aldi",47880,791700,57,938
 "ALDI",2021,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",134666,"Aldi",47880,791700,57,938
 "ALDI",2021,"Scope 1 and 2","Intensity","Location","tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.188,"Aldi",47880,791700,57,938
-"ALDI",2021,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales","tCO2e","mGBP","Sales","UK",0.0164,"Aldi",47880,791700,57,938
+"ALDI",2021,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales","tCO2e","mGBP","Sales","UK",16.4,"Aldi",47880,791700,57,938
 "ALDI",2021,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",201900,"Aldi",47880,791700,57,938
 "ALDI",2021,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",105542.5,"Aldi",47880,791700,57,938
 "ALDI",2021,"Scope 2","Measure","Location","tCO2e","","","","UK",96358,"Aldi",47880,791700,57,938
@@ -51,7 +51,7 @@
 "ALDI",2022,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",219856,"Aldi",36960,828660,44,982
 "ALDI",2022,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",131768.5,"Aldi",36960,828660,44,982
 "ALDI",2022,"Scope 1 and 2","Intensity","Location","tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.171,"Aldi",36960,828660,44,982
-"ALDI",2022,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales","tCO2e","mGBP","Sales","UK",6.69955,"Aldi",36960,828660,44,982
+"ALDI",2022,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales","tCO2e","mGBP","Sales","UK",13.39285,"Aldi",36960,828660,44,982
 "ALDI",2022,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",191790,"Aldi",36960,828660,44,982
 "ALDI",2022,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",103564,"Aldi",36960,828660,44,982
 "ALDI",2022,"Scope 2","Measure","Location","tCO2e","","","","UK",88226,"Aldi",36960,828660,44,982
@@ -373,11 +373,11 @@
 "M&S",2023,"Energy","Measure",NA,"GWh","","","","UK and Europe",1382,"Marks and Spencer",25760,686560,17,1029
 "MORR",2017,"Energy","Measure",NA,"GWh","","","","UK",2717.487,"Morrisons",0,1122800,0,480
 "MORR",2017,"Scope 1","Measure",NA,"tCO2e","","","","UK",471598.666666667,"Morrisons",0,1122800,0,480
-"MORR",2017,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.17935,"Morrisons",0,1122800,0,480
+"MORR",2017,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.3113158625,"Morrisons",0,1122800,0,480
 "MORR",2017,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",967461.5,"Morrisons",0,1122800,0,480
 "MORR",2017,"Scope 2","Measure","Location","tCO2e","","","","UK",479959.5,"Morrisons",0,1122800,0,480
 "MORR",2018,"Energy","Measure",NA,"GWh","","","","UK",2592.286,"Morrisons",5040,1122800,3,480
-"MORR",2018,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.1491,"Morrisons",5040,1122800,3,480
+"MORR",2018,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.257161072,"Morrisons",5040,1122800,3,480
 "MORR",2018,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",812381,"Morrisons",5040,1122800,3,480
 "MORR",2018,"Scope 2","Measure","Location","tCO2e","","","","UK",377755.5,"Morrisons",5040,1122800,3,480
 "MORR",2018,"Scope 1","Measure",NA,"tCO2e","","","","UK",429459,"Morrisons",5040,1122800,3,480
@@ -724,7 +724,7 @@
 "M&S",2013,"Scope 2","Measure","Market","tCO2e","","","","UK and Europe",265000,NA,NA,NA,NA,NA
 "M&S",2013,"Scope 3","Measure","Location","tCO2e","","","","UK and Europe",58500,NA,NA,NA,NA,NA
 "MORR",2005,"Scope 1","Measure",NA,"tCO2e","","","","UK",772550,NA,NA,NA,NA,NA
-"MORR",2005,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.005,NA,NA,NA,NA,NA
+"MORR",2005,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.500747386,NA,NA,NA,NA,NA
 "MORR",2005,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1259908,NA,NA,NA,NA,NA
 "MORR",2005,"Scope 2","Measure","Location","tCO2e","","","","UK",767748,NA,NA,NA,NA,NA
 "OCADO",2012,"Scope 1","Measure",NA,"tCO2e","","","","UK",39530,NA,NA,NA,NA,NA
