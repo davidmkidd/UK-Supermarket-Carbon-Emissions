@@ -47,6 +47,9 @@ KPIs may be reported in different units, e.g. tCO2e or 1000's, tCO2eKWh or GWh. 
 4. Business Scope
 Values are recorded for different business scopes, for example 'UK' or 'Global' operations, or the entire UK business or just the suprmarket component. Values for all business scopes are recorded. Business scope may change between reports.
 
+5. Intensity
+Reported intensity values vary in magnitude within and between retailer kpis. Values within retatiler kpi time series that are one or more orders of magnitude different from the majority of values in the time series are 'corrected' by multiplying so that values are equivalent. Similarly, Sainsburys reported Scope 1 Intensity by area are multipled by 100 to align with the values of other retailers. Value changes are recorded in the 'Note' field.
+
 | Business Scope | Description |
 |------|-------------|
 | UK | UK supermarket operations only |
