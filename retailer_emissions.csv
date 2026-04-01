@@ -12,25 +12,25 @@ ALDI,2022,2021,Scope 1,Location,Measure,105463,tCO2e,105463,tCO2e,,,,UK
 ALDI,2022,2022,Scope 1,Location,Measure,103564,tCO2e,103564,tCO2e,,,,UK
 ALDI,2023,2022,Scope 1,Location,Measure,103822,tCO2e,103822,tCO2e,,,,UK
 ALDI,2023,2023,Scope 1,Location,Measure,92734,tCO2e,92734,tCO2e,,,,UK
-ALDI,2020,2019,Scope 1 - 3,Location,Intensity,21.2,tCO2e/£m Sales,21.2,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2020,2020,Scope 1 - 3,Location,Intensity,18.96,tCO2e/£m Sales,18.96,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2021,2020,Scope 1 - 3,Location,Intensity,0.019,tCO2e/£m Sales,0.019,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2021,2021,Scope 1 - 3,Location,Intensity,0.0187,tCO2e/£m Sales,0.0187,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2022,2022,Scope 1 - 3,Location,Intensity,0.0153,tCO2e/£m Sales,0.0153,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2023,2022,Scope 1 - 3,Location,Intensity,15.3425,tCO2e/£m Sales,15.3425,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2023,2023,Scope 1 - 3,Location,Intensity,13.1117,tCO2e/£m Sales,13.1117,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+ALDI,2020,2019,Scope 1 - 3,Location,Intensity,21.2,tCO2e/mGBP Sales,21.2,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2020,2020,Scope 1 - 3,Location,Intensity,18.96,tCO2e/mGBP Sales,18.96,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2021,2020,Scope 1 - 3,Location,Intensity,0.019,tCO2e/mGBP Sales,0.019,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2021,2021,Scope 1 - 3,Location,Intensity,0.0187,tCO2e/mGBP Sales,0.0187,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2022,2022,Scope 1 - 3,Location,Intensity,0.0153,tCO2e/mGBP Sales,0.0153,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2023,2022,Scope 1 - 3,Location,Intensity,15.3425,tCO2e/mGBP Sales,15.3425,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2023,2023,Scope 1 - 3,Location,Intensity,13.1117,tCO2e/mGBP Sales,13.1117,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
 ALDI,2021,2020,Scope 1 - 3,Location,Intensity,0.23,tCO2e/m2 Sales Floor,0.23,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2021,2021,Scope 1 - 3,Location,Intensity,0.215,tCO2e/m2 Sales Floor,0.215,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2022,2022,Scope 1 - 3,Location,Intensity,0.196,tCO2e/m2 Sales Floor,0.196,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2023,2022,Scope 1 - 3,Location,Intensity,0.21,tCO2e/m2 Sales Floor,0.21,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2023,2023,Scope 1 - 3,Location,Intensity,0.203,tCO2e/m2 Sales Floor,0.203,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
-ALDI,2020,2019,Scope 1 - 3,Market,Intensity,12.27,tCO2e/£m Sales,12.27,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2020,2020,Scope 1 - 3,Market,Intensity,10.68,tCO2e/£m Sales,10.68,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2021,2020,Scope 1 - 3,Market,Intensity,0.0107,tCO2e/£m Sales,0.0107,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2021,2021,Scope 1 - 3,Market,Intensity,0.0109,tCO2e/£m Sales,0.0109,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2022,2022,Scope 1 - 3,Market,Intensity,0.0092,tCO2e/£m Sales,0.0092,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2023,2022,Scope 1 - 3,Market,Intensity,9.1932,tCO2e/£m Sales,9.1932,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2023,2023,Scope 1 - 3,Market,Intensity,7.4253,tCO2e/£m Sales,7.4253,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+ALDI,2020,2019,Scope 1 - 3,Market,Intensity,12.27,tCO2e/mGBP Sales,12.27,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2020,2020,Scope 1 - 3,Market,Intensity,10.68,tCO2e/mGBP Sales,10.68,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2021,2020,Scope 1 - 3,Market,Intensity,0.0107,tCO2e/mGBP Sales,0.0107,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2021,2021,Scope 1 - 3,Market,Intensity,0.0109,tCO2e/mGBP Sales,0.0109,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2022,2022,Scope 1 - 3,Market,Intensity,0.0092,tCO2e/mGBP Sales,0.0092,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2023,2022,Scope 1 - 3,Market,Intensity,9.1932,tCO2e/mGBP Sales,9.1932,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2023,2023,Scope 1 - 3,Market,Intensity,7.4253,tCO2e/mGBP Sales,7.4253,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
 ALDI,2021,2020,Scope 1 - 3,Market,Intensity,0.13,tCO2e/m2 Sales Floor,0.13,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2021,2021,Scope 1 - 3,Market,Intensity,0.125,tCO2e/m2 Sales Floor,0.125,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2022,2022,Scope 1 - 3,Market,Intensity,0.117,tCO2e/m2 Sales Floor,0.117,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
@@ -48,13 +48,13 @@ ALDI,2021,2021,Scope 1 - 3,Market,Measure,134666,tCO2e,134666,tCO2e,,,,UK
 ALDI,2022,2022,Scope 1 - 3,Market,Measure,131640,tCO2e,131640,tCO2e,,,,UK
 ALDI,2023,2022,Scope 1 - 3,Market,Measure,131897,tCO2e,131897,tCO2e,,,,UK
 ALDI,2023,2023,Scope 1 - 3,Market,Measure,125319,tCO2e,125319,tCO2e,,,,UK
-ALDI,2020,2019,Scope 1 and 2,Location,Intensity,18.99,tCO2e/£m Sales,18.99,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2020,2020,Scope 1 and 2,Location,Intensity,16.97,tCO2e/£m Sales,16.97,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2021,2020,Scope 1 and 2,Location,Intensity,0.017,tCO2e/£m Sales,0.017,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2021,2021,Scope 1 and 2,Location,Intensity,0.0164,tCO2e/£m Sales,0.0164,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2022,2022,Scope 1 and 2,Location,Intensity,0.0134,tCO2e/£m Sales,0.0134,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2023,2022,Scope 1 and 2,Location,Intensity,13.3857,tCO2e/£m Sales,13.3857,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ALDI,2023,2023,Scope 1 and 2,Location,Intensity,11.1809,tCO2e/£m Sales,11.1809,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+ALDI,2020,2019,Scope 1 and 2,Location,Intensity,18.99,tCO2e/mGBP Sales,18.99,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2020,2020,Scope 1 and 2,Location,Intensity,16.97,tCO2e/mGBP Sales,16.97,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2021,2020,Scope 1 and 2,Location,Intensity,0.017,tCO2e/mGBP Sales,0.017,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2021,2021,Scope 1 and 2,Location,Intensity,0.0164,tCO2e/mGBP Sales,0.0164,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2022,2022,Scope 1 and 2,Location,Intensity,0.0134,tCO2e/mGBP Sales,0.0134,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2023,2022,Scope 1 and 2,Location,Intensity,13.3857,tCO2e/mGBP Sales,13.3857,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ALDI,2023,2023,Scope 1 and 2,Location,Intensity,11.1809,tCO2e/mGBP Sales,11.1809,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
 ALDI,2020,2019,Scope 1 and 2,Location,Intensity,0.224,tCO2e/m2 Sales Floor,0.224,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2020,2020,Scope 1 and 2,Location,Intensity,0.206,tCO2e/m2 Sales Floor,0.206,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 ALDI,2021,2021,Scope 1 and 2,Location,Intensity,0.188,tCO2e/m2 Sales Floor,0.188,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
@@ -95,9 +95,9 @@ ASDA,2023,2023,Energy,,Measure,2264562056,KWh,226.4562,GWh,,,,UK
 ASDA,2022,2021,Scope 1,,Measure,309131,tCO2e,309131,tCO2e,,,,UK
 ASDA,2022,2022,Scope 1,,Measure,368060,tCO2e,368060,tCO2e,,,,UK
 ASDA,2023,2022,Scope 1,,Measure,245315,tCO2e,245315,tCO2e,,,,UK
-ASDA,2022,2021,Scope 1 - 3,Location,Intensity,26.61,tCO2e/£m Sales,26.61,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ASDA,2022,2022,Scope 1 - 3,Location,Intensity,23.51,tCO2e/£m Sales,23.51,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-ASDA,2023,2023,Scope 1 - 3,Location,Intensity,20.16,tCO2e/£m Sales,20.16,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+ASDA,2022,2021,Scope 1 - 3,Location,Intensity,26.61,tCO2e/mGBP Sales,26.61,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ASDA,2022,2022,Scope 1 - 3,Location,Intensity,23.51,tCO2e/mGBP Sales,23.51,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+ASDA,2023,2023,Scope 1 - 3,Location,Intensity,20.16,tCO2e/mGBP Sales,20.16,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
 ASDA,2022,2021,Scope 1 - 3,Location,Measure,624912,tCO2e,624912,tCO2e,,,,UK
 ASDA,2022,2022,Scope 1 - 3,Location,Measure,575505,tCO2e,575505,tCO2e,,,,UK
 ASDA,2023,2023,Scope 1 - 3,Location,Measure,563130,tCO2e,563130,tCO2e,,,,UK
@@ -119,19 +119,19 @@ COOP,2020,2019,Scope 1,,Measure,205000,tCO2e,205000,tCO2e,,,,UK
 COOP,2020,2020,Scope 1,,Measure,182000,tCO2e,182000,tCO2e,,,,UK
 COOP,2021,2021,Scope 1,,Measure,225000,tCO2e,225000,tCO2e,,,,UK
 COOP,2022,2022,Scope 1,,Measure,18000,tCO2e,180000,tCO2e,,,,UK
-COOP,2013,2010,Scope 1 and 2,Location,Intensity,76.84,tCO2e/£m Sales,76.84,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2013,2011,Scope 1 and 2,Location,Intensity,66.93,tCO2e/£m Sales,66.93,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2013,2012,Scope 1 and 2,Location,Intensity,62.21,tCO2e/£m Sales,62.21,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2013,2013,Scope 1 and 2,Location,Intensity,62.85,tCO2e/£m Sales,62.85,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2014,2014,Scope 1 and 2,Location,Intensity,72.18,tCO2e/£m Sales,72.18,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2015,2015,Scope 1 and 2,Location,Intensity,68.16,tCO2e/£m Sales,68.16,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2016,2016,Scope 1 and 2,Location,Intensity,63.5,tCO2e/£m Sales,63.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2017,2017,Scope 1 and 2,Location,Intensity,52.8,tCO2e/£m Sales,52.8,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2018,2018,Scope 1 and 2,Location,Intensity,42.7,tCO2e/£m Sales,42.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2019,2019,Scope 1 and 2,Location,Intensity,36.4,tCO2e/£m Sales,36.4,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2020,2020,Scope 1 and 2,Location,Intensity,30.5,tCO2e/£m Sales,30.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2021,2021,Scope 1 and 2,Location,Intensity,28.6,tCO2e/£m Sales,28.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-COOP,2022,2022,Scope 1 and 2,Location,Intensity,25.3,tCO2e/£m Sales,25.3,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+COOP,2013,2010,Scope 1 and 2,Location,Intensity,76.84,tCO2e/mGBP Sales,76.84,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2013,2011,Scope 1 and 2,Location,Intensity,66.93,tCO2e/mGBP Sales,66.93,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2013,2012,Scope 1 and 2,Location,Intensity,62.21,tCO2e/mGBP Sales,62.21,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2013,2013,Scope 1 and 2,Location,Intensity,62.85,tCO2e/mGBP Sales,62.85,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2014,2014,Scope 1 and 2,Location,Intensity,72.18,tCO2e/mGBP Sales,72.18,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2015,2015,Scope 1 and 2,Location,Intensity,68.16,tCO2e/mGBP Sales,68.16,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2016,2016,Scope 1 and 2,Location,Intensity,63.5,tCO2e/mGBP Sales,63.5,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2017,2017,Scope 1 and 2,Location,Intensity,52.8,tCO2e/mGBP Sales,52.8,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2018,2018,Scope 1 and 2,Location,Intensity,42.7,tCO2e/mGBP Sales,42.7,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2019,2019,Scope 1 and 2,Location,Intensity,36.4,tCO2e/mGBP Sales,36.4,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2020,2020,Scope 1 and 2,Location,Intensity,30.5,tCO2e/mGBP Sales,30.5,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2021,2021,Scope 1 and 2,Location,Intensity,28.6,tCO2e/mGBP Sales,28.6,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+COOP,2022,2022,Scope 1 and 2,Location,Intensity,25.3,tCO2e/mGBP Sales,25.3,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
 COOP,2012,2006,Scope 1 and 2,Location,Measure,1408419,tCO2e,1408419,tCO2e,,,,UK
 COOP,2012,2009,Scope 1 and 2,Location,Measure,1088730,tCO2e,1088730,tCO2e,,,,UK
 COOP,2012,2010,Scope 1 and 2,Location,Measure,932254,tCO2e,932254,tCO2e,,,,UK
@@ -207,16 +207,16 @@ ICE,2021,2020,Energy,,Measure,813202632,KWh,813.202632,GWh,,,,UK
 ICE,2022,2021,Energy,,Measure,777878608,KWh,777.878608,GWh,,,,UK
 ICE,2023,2022,Energy,,Measure,198737142,KWh,198.737142,GWh,,,,UK
 ICE,2024,2023,Energy,,Measure,743007191,KWh,743.007191,GWh,,,,UK
-ICE,2020,2019,Scope 1 and 2,Location,Intensity,0.0583,tCO2e/£m Sales Revenue,0.0583,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2021,2020,Scope 1 and 2,Location,Intensity,0.0509,tCO2e/£m Sales Revenue,0.0509,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2022,2021,Scope 1 and 2,Location,Intensity,0.0487,tCO2e/£m Sales Revenue,0.0487,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2023,2022,Scope 1 and 2,Location,Intensity,0.0442,tCO2e/£m Sales Revenue,0.0442,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2024,2023,Scope 1 and 2,Location,Intensity,0.0395,tCO2e/£m Sales Revenue,0.0395,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2021,2019,Scope 1 and 2,Market,Intensity,0.0211,tCO2e/£m Sales Revenue,0.0211,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2021,2020,Scope 1 and 2,Market,Intensity,0.021,tCO2e/£m Sales Revenue,0.021,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2022,2021,Scope 1 and 2,Market,Intensity,0.0205,tCO2e/£m Sales Revenue,0.0205,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2023,2022,Scope 1 and 2,Market,Intensity,0.0183,tCO2e/£m Sales Revenue,0.0183,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2024,2023,Scope 1 and 2,Market,Intensity,0.0163,tCO2e/£m Sales Revenue,0.0163,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2020,2019,Scope 1 and 2,Location,Intensity,0.0583,tCO2e/mGBP Sales Revenue,0.0583,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2021,2020,Scope 1 and 2,Location,Intensity,0.0509,tCO2e/mGBP Sales Revenue,0.0509,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2022,2021,Scope 1 and 2,Location,Intensity,0.0487,tCO2e/mGBP Sales Revenue,0.0487,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2023,2022,Scope 1 and 2,Location,Intensity,0.0442,tCO2e/mGBP Sales Revenue,0.0442,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2024,2023,Scope 1 and 2,Location,Intensity,0.0395,tCO2e/mGBP Sales Revenue,0.0395,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2021,2019,Scope 1 and 2,Market,Intensity,0.0211,tCO2e/mGBP Sales Revenue,0.0211,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2021,2020,Scope 1 and 2,Market,Intensity,0.021,tCO2e/mGBP Sales Revenue,0.021,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2022,2021,Scope 1 and 2,Market,Intensity,0.0205,tCO2e/mGBP Sales Revenue,0.0205,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2023,2022,Scope 1 and 2,Market,Intensity,0.0183,tCO2e/mGBP Sales Revenue,0.0183,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
+ICE,2024,2023,Scope 1 and 2,Market,Intensity,0.0163,tCO2e/mGBP Sales Revenue,0.0163,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK
 ICE,2020,2019,Scope 1,,Measure,68663,tCO2e,68663,tCO2e,,,,UK
 ICE,2021,2020,Scope 1,,Measure,79477,tCO2e,79477,tCO2e,,,,UK
 ICE,2022,2021,Scope 1,,Measure,73124,tCO2e,73124,tCO2e,,,,UK
@@ -290,36 +290,36 @@ JLP,2024,2023,Scope 1 and 2,Market,Measure,146701,tCO2e,146701,tCO2e,,,,UK
 JLP,2025,2024,Scope 1 and 2,Market,Measure,111039,tCO2e,111039,tCO2e,,,,UK
 JLP,2025,2023,Scope 1 and 2,Market,Measure,119286,tCO2e,119286,tCO2e,,,,UK
 JLP,2025,2024,Scope 1 and 2,Market,Measure,110600,tCO2e,110600,tCO2e,,,,UK
-JLP,2014,2013,Scope 2,Location,Intensity,53.7,tCO2e/£m Sales,53.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2015,2014,Scope 2,Location,Intensity,53.4,tCO2e/£m Sales,53.4,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2016,2014,Scope 2,Location,Intensity,54.5,tCO2e/£m Sales,54.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2016,2015,Scope 2,Location,Intensity,50.9,tCO2e/£m Sales,50.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2017,2015,Scope 2,Location,Intensity,49.6,tCO2e/£m Sales,49.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2017,2016,Scope 2,Location,Intensity,45.7,tCO2e/£m Sales,45.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2018,2017,Scope 2,Location,Intensity,39.3,tCO2e/£m Sales,39.3,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2019,2018,Scope 2,Location,Intensity,34.2,tCO2e/£m Sales,34.2,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2020,2019,Scope 2,Location,Intensity,30.9,tCO2e/£m Sales,30.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2021,2020,Scope 2,Location,Intensity,25.5,tCO2e/£m Sales,25.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2022,2021,Scope 2,Location,Intensity,22,tCO2e/£m Sales,22,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2023,2022,Scope 2,Location,Intensity,20,tCO2e/£m Sales,20,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2024,2022,Scope 2,Location,Intensity,19.5,tCO2e/£m Sales,19.5,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2024,2023,Scope 2,Location,Intensity,18.1,tCO2e/£m Sales,18.1,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2025,2024,Scope 2,Location,Intensity,16.7,tCO2e/£m Sales,16.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2016,2014,Scope 2,Market,Intensity,57,tCO2e/£m Sales,57,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2016,2015,Scope 2,Market,Intensity,28.1,tCO2e/£m Sales,28.1,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2017,2015,Scope 2,Market,Intensity,27.3,tCO2e/£m Sales,27.3,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2017,2016,Scope 2,Market,Intensity,22.6,tCO2e/£m Sales,22.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2018,2017,Scope 2,Market,Intensity,19.9,tCO2e/£m Sales,19.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2019,2018,Scope 2,Market,Intensity,19,tCO2e/£m Sales,19,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2020,2019,Scope 2,Market,Intensity,17.7,tCO2e/£m Sales,17.7,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2021,2020,Scope 2,Market,Intensity,15,tCO2e/£m Sales,15,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2022,2021,Scope 2,Market,Intensity,12.6,tCO2e/£m Sales,12.6,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2023,2022,Scope 2,Market,Intensity,11.4,tCO2e/£m Sales,11.4,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2024,2022,Scope 2,Market,Intensity,11.1,tCO2e/£m Sales,11.1,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2024,2023,Scope 2,Market,Intensity,10.8,tCO2e/£m Sales,10.8,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2024,2023,Scope 2,Market,Intensity,10.9,tCO2e/£m Sales,10.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2025,2024,Scope 2,Market,Intensity,9.8,tCO2e/£m Sales,9.8,tCO2e/£m Sales,tCO2e,£m,Sales,UK
-JLP,2025,2024,Scope 2,Market,Intensity,9.9,tCO2e/£m Sales,9.9,tCO2e/£m Sales,tCO2e,£m,Sales,UK
+JLP,2014,2013,Scope 2,Location,Intensity,53.7,tCO2e/mGBP Sales,53.7,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2015,2014,Scope 2,Location,Intensity,53.4,tCO2e/mGBP Sales,53.4,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2016,2014,Scope 2,Location,Intensity,54.5,tCO2e/mGBP Sales,54.5,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2016,2015,Scope 2,Location,Intensity,50.9,tCO2e/mGBP Sales,50.9,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2017,2015,Scope 2,Location,Intensity,49.6,tCO2e/mGBP Sales,49.6,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2017,2016,Scope 2,Location,Intensity,45.7,tCO2e/mGBP Sales,45.7,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2018,2017,Scope 2,Location,Intensity,39.3,tCO2e/mGBP Sales,39.3,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2019,2018,Scope 2,Location,Intensity,34.2,tCO2e/mGBP Sales,34.2,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2020,2019,Scope 2,Location,Intensity,30.9,tCO2e/mGBP Sales,30.9,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2021,2020,Scope 2,Location,Intensity,25.5,tCO2e/mGBP Sales,25.5,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2022,2021,Scope 2,Location,Intensity,22,tCO2e/mGBP Sales,22,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2023,2022,Scope 2,Location,Intensity,20,tCO2e/mGBP Sales,20,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2024,2022,Scope 2,Location,Intensity,19.5,tCO2e/mGBP Sales,19.5,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2024,2023,Scope 2,Location,Intensity,18.1,tCO2e/mGBP Sales,18.1,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2025,2024,Scope 2,Location,Intensity,16.7,tCO2e/mGBP Sales,16.7,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2016,2014,Scope 2,Market,Intensity,57,tCO2e/mGBP Sales,57,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2016,2015,Scope 2,Market,Intensity,28.1,tCO2e/mGBP Sales,28.1,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2017,2015,Scope 2,Market,Intensity,27.3,tCO2e/mGBP Sales,27.3,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2017,2016,Scope 2,Market,Intensity,22.6,tCO2e/mGBP Sales,22.6,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2018,2017,Scope 2,Market,Intensity,19.9,tCO2e/mGBP Sales,19.9,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2019,2018,Scope 2,Market,Intensity,19,tCO2e/mGBP Sales,19,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2020,2019,Scope 2,Market,Intensity,17.7,tCO2e/mGBP Sales,17.7,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2021,2020,Scope 2,Market,Intensity,15,tCO2e/mGBP Sales,15,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2022,2021,Scope 2,Market,Intensity,12.6,tCO2e/mGBP Sales,12.6,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2023,2022,Scope 2,Market,Intensity,11.4,tCO2e/mGBP Sales,11.4,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2024,2022,Scope 2,Market,Intensity,11.1,tCO2e/mGBP Sales,11.1,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2024,2023,Scope 2,Market,Intensity,10.8,tCO2e/mGBP Sales,10.8,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2024,2023,Scope 2,Market,Intensity,10.9,tCO2e/mGBP Sales,10.9,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2025,2024,Scope 2,Market,Intensity,9.8,tCO2e/mGBP Sales,9.8,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
+JLP,2025,2024,Scope 2,Market,Intensity,9.9,tCO2e/mGBP Sales,9.9,tCO2e/mGBP Sales,tCO2e,mGBP,Sales,UK
 JLP,2014,2013,Scope 2,Location,Measure,271112,tCO2e,271112,tCO2e,,,,UK
 JLP,2015,2014,Scope 2,Location,Measure,316343,tCO2e,316343,tCO2e,,,,UK
 JLP,2016,2015,Scope 2,Location,Measure,294927,tCO2e,294927,tCO2e,,,,UK
@@ -581,7 +581,7 @@ MORR,2022,2022,Energy,,Measure,2323759,MWh,2323.759,GWh,,,,UK
 MORR,2023,2019,Energy,,Measure,2114050531,KWh,2114.0505,GWh,,,,UK
 MORR,2023,2022,Energy,,Measure,1921732436,KWh,1921.7324,GWh,,,,UK
 MORR,2023,2023,Energy,,Measure,1849374070,KWh,1849.3741,GWh,,,,UK
-MORR,2023,2019,Scope 1 and 2,Location,Intensity,33,tCO2e/£m Turnover,33,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2023,2019,Scope 1 and 2,Location,Intensity,33,tCO2e/mGBP Turnover,33,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK
 MORR,2018,2005,Scope 1 and 2,Location,Intensity,53.9,kgCO2e/ft2 GIA,0.005,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
 MORR,2018,2017,Scope 1 and 2,Location,Intensity,28.7,kgCO2e/ft2 GIA,0.0027,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
 MORR,2018,2018,Scope 1 and 2,Location,Intensity,23.5,kgCO2e/ft2 GIA,0.0022,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
@@ -592,16 +592,16 @@ MORR,2020,2020,Scope 1 and 2,Location,Intensity,0.236,tCO2e/m2 GIA,0.236,tCO2e/m
 MORR,2021,2019,Scope 1 and 2,Location,Intensity,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
 MORR,2021,2020,Scope 1 and 2,Location,Intensity,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
 MORR,2021,2021,Scope 1 and 2,Location,Intensity,0.12,tCO2e/m2 GIA,0.12,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2022,2019,Scope 1 and 2,Market,Intensity,36.98,tCO2e/£m Turnover,36.98,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2022,2020,Scope 1 and 2,Market,Intensity,34.74,tCO2e/£m Turnover,34.74,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2022,2021,Scope 1 and 2,Market,Intensity,32.55,tCO2e/£m Turnover,32.55,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2022,2022,Scope 1 and 2,Market,Intensity,28.5,tCO2e/£m Turnover,28.5,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2022,2019,Scope 1 and 2,Market,Intensity,36.98,tCO2e/mGBP Turnover,36.98,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK
+MORR,2022,2020,Scope 1 and 2,Market,Intensity,34.74,tCO2e/mGBP Turnover,34.74,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK
+MORR,2022,2021,Scope 1 and 2,Market,Intensity,32.55,tCO2e/mGBP Turnover,32.55,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK
+MORR,2022,2022,Scope 1 and 2,Market,Intensity,28.5,tCO2e/mGBP Turnover,28.5,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK
 MORR,2022,2019,Scope 1 and 2,Market,Intensity,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
 MORR,2022,2020,Scope 1 and 2,Market,Intensity,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
 MORR,2022,2021,Scope 1 and 2,Market,Intensity,0.16,tCO2e/m2 GIA,0.16,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
 MORR,2022,2022,Scope 1 and 2,Market,Intensity,0.15,tCO2e/m2 GIA,0.15,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2023,2022,Scope 1 and 2,Location,Intensity,24,tCO2e/£m Turnover,24,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2023,2023,Scope 1 and 2,Location,Intensity,23,tCO2e/£m Turnover,23,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2023,2022,Scope 1 and 2,Location,Intensity,24,tCO2e/mGBP Turnover,24,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK
+MORR,2023,2023,Scope 1 and 2,Location,Intensity,23,tCO2e/mGBP Turnover,23,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK
 MORR,2018,2005,Scope 1,,Measure,757550,tCO2e,757550,tCO2e,,,,UK
 MORR,2018,2005,Scope 1,,Measure,787550,tCO2e,787550,tCO2e,,,,UK
 MORR,2018,2017,Scope 1,,Measure,488823,tCO2e,488823,tCO2e,,,,UK
@@ -775,8 +775,8 @@ OCADO,2022,2020,Scope 2,Market,Measure,1385,tCO2e,1385,tCO2e,,,,UK
 OCADO,2022,2021,Scope 2,Market,Measure,815,tCO2e,815,tCO2e,,,,UK
 OCADO,2023,2022,Scope 2,Market,Measure,887,tCO2e,887,tCO2e,,,,UK
 OCADO,2024,2023,Scope 2,Market,Measure,895,tCO2e,895,tCO2e,,,,UK
-OCADO,2024,2022,Scope 3,,Intensity,76,tCO2e/£m Revenue,76,tCO2e/£m Revenue,tCO2e,£m,Revenue,UK
-OCADO,2024,2023,Scope 3,,Intensity,51,tCO2e/£m Revenue,51,tCO2e/£m Revenue,tCO2e,£m,Revenue,UK
+OCADO,2024,2022,Scope 3,,Intensity,76,tCO2e/mGBP Revenue,76,tCO2e/mGBP Revenue,tCO2e,mGBP,Revenue,UK
+OCADO,2024,2023,Scope 3,,Intensity,51,tCO2e/mGBP Revenue,51,tCO2e/mGBP Revenue,tCO2e,mGBP,Revenue,UK
 OCADO,2021,2019,Scope 3,,Measure,7.7,tCO2e,7.7,tCO2e,,,,UK
 OCADO,2021,2020,Scope 3,,Measure,11.51,tCO2e,11.51,tCO2e,,,,UK
 OCADO,2022,2021,Scope 3,,Measure,457324,tCO2e,457324,tCO2e,,,,UK
