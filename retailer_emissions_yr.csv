@@ -516,13 +516,13 @@
 "OCADO",2023,"Scope 1","Measure",NA,"tCO2e","","","","UK",103957,"Ocado",NA,NA,NA,NA
 "OCADO",2023,"Scope 2","Measure","Market","tCO2e","","","","UK",895,"Ocado",NA,NA,NA,NA
 "OCADO",2023,"Scope 3","Intensity",NA,"tCO2e/mGBP Revenue","tCO2e","mGBP","Revenue","UK",51,"Ocado",NA,NA,NA,NA
-"SAINS",2014,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0054,"Sainsburys",NA,1353380,NA,1126
+"SAINS",2014,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.537629892,"Sainsburys",NA,1353380,NA,1126
 "SAINS",2014,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1366102,"Sainsburys",NA,1353380,NA,1126
 "SAINS",2014,"Scope 1","Measure",NA,"tCO2e","","","","UK",571673,"Sainsburys",NA,1353380,NA,1126
 "SAINS",2014,"Scope 2","Measure","Location","tCO2e","","","","UK",794429,"Sainsburys",NA,1353380,NA,1126
-"SAINS",2015,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.0045,"Sainsburys",79660,1433040,104,1230
+"SAINS",2015,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.452809417,"Sainsburys",79660,1433040,104,1230
 "SAINS",2015,"Scope 1","Measure",NA,"tCO2e","","","","UK",601091,"Sainsburys",79660,1433040,104,1230
-"SAINS",2015,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0053,"Sainsburys",79660,1433040,104,1230
+"SAINS",2015,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.530011843,"Sainsburys",79660,1433040,104,1230
 "SAINS",2015,"Scope 2","Measure","Location","tCO2e","","","","UK",722512,"Sainsburys",79660,1433040,104,1230
 "SAINS",2015,"Scope 2","Measure","Market","tCO2e","","","","UK",541102,"Sainsburys",79660,1433040,104,1230
 "SAINS",2015,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1323603,"Sainsburys",79660,1433040,104,1230
@@ -531,25 +531,25 @@
 "SAINS",2016,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",1082454.5,"Sainsburys",7280,1440320,18,1248
 "SAINS",2016,"Scope 2","Measure","Location","tCO2e","","","","UK",634960,"Sainsburys",7280,1440320,18,1248
 "SAINS",2016,"Scope 2","Measure","Market","tCO2e","","","","UK",518598,"Sainsburys",7280,1440320,18,1248
-"SAINS",2016,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.00435,"Sainsburys",7280,1440320,18,1248
+"SAINS",2016,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.430837848,"Sainsburys",7280,1440320,18,1248
 "SAINS",2016,"Scope 1","Measure",NA,"tCO2e","","","","UK",580200.5,"Sainsburys",7280,1440320,18,1248
-"SAINS",2016,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0048,"Sainsburys",7280,1440320,18,1248
-"SAINS",2017,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0042,"Sainsburys",22400,1462720,74,1322
+"SAINS",2016,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.482910002,"Sainsburys",7280,1440320,18,1248
+"SAINS",2017,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.417227553,"Sainsburys",22400,1462720,74,1322
 "SAINS",2017,"Scope 1","Measure",NA,"tCO2e","","","","UK",516333,"Sainsburys",22400,1462720,74,1322
 "SAINS",2017,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",922603,"Sainsburys",22400,1462720,74,1322
 "SAINS",2017,"Scope 2","Measure","Location","tCO2e","","","","UK",529897,"Sainsburys",22400,1462720,74,1322
-"SAINS",2017,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.0037,"Sainsburys",22400,1462720,74,1322
+"SAINS",2017,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.369196681,"Sainsburys",22400,1462720,74,1322
 "SAINS",2017,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1043231,"Sainsburys",22400,1462720,74,1322
 "SAINS",2017,"Scope 2","Measure","Market","tCO2e","","","","UK",418084,"Sainsburys",22400,1462720,74,1322
 "SAINS",2018,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",893619,"Sainsburys",8400,1471120,8,1330
 "SAINS",2018,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",830345,"Sainsburys",8400,1471120,8,1330
 "SAINS",2018,"Scope 2","Measure","Market","tCO2e","","","","UK",356434.5,"Sainsburys",8400,1471120,8,1330
-"SAINS",2018,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.0033,"Sainsburys",8400,1471120,8,1330
+"SAINS",2018,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK",0.3333361075,"Sainsburys",8400,1471120,8,1330
 "SAINS",2018,"Scope 2","Measure","Location","tCO2e","","","","UK",412403.5,"Sainsburys",8400,1471120,8,1330
 "SAINS",2018,"Scope 1","Measure",NA,"tCO2e","","","","UK",480710,"Sainsburys",8400,1471120,8,1330
 "SAINS",2019,"Scope 1","Measure",NA,"tCO2e","","","","UK",488189,"Sainsburys",7280,1478400,18,1348
 "SAINS",2019,"Energy","Measure",NA,"GWh","","","","UK+",2777.6053,"Sainsburys",7280,1478400,18,1348
-"SAINS",2019,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.0031,"Sainsburys",7280,1478400,18,1348
+"SAINS",2019,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.309924541,"Sainsburys",7280,1478400,18,1348
 "SAINS",2019,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",800833,"Sainsburys",7280,1478400,18,1348
 "SAINS",2019,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",739032,"Sainsburys",7280,1478400,18,1348
 "SAINS",2019,"Scope 2","Measure","Location","tCO2e","","","","UK",352644,"Sainsburys",7280,1478400,18,1348
@@ -557,30 +557,30 @@
 "SAINS",2020,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK+",752098.565,"Sainsburys",3920,1482320,14,1362
 "SAINS",2020,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK+",766225,"Sainsburys",3920,1482320,14,1362
 "SAINS",2020,"Scope 2","Measure","Location","tCO2e","","","","UK+",303758.56,"Sainsburys",3920,1482320,14,1362
-"SAINS",2020,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.0031,"Sainsburys",3920,1482320,14,1362
+"SAINS",2020,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.3114574415,"Sainsburys",3920,1482320,14,1362
 "SAINS",2020,"Energy","Measure",NA,"GWh","","","","UK+",2879.0194,"Sainsburys",3920,1482320,14,1362
 "SAINS",2020,"Scope 1","Measure",NA,"tCO2e","","","","UK+",448340.505,"Sainsburys",3920,1482320,14,1362
 "SAINS",2020,"Scope 2","Measure","Market","tCO2e","","","","UK+",266283.325,"Sainsburys",3920,1482320,14,1362
-"SAINS",2021,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.0029,"Sainsburys",11760,1494080,22,1384
+"SAINS",2021,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.287534909,"Sainsburys",11760,1494080,22,1384
 "SAINS",2021,"Energy","Measure",NA,"GWh","","","","UK+",2697.93135,"Sainsburys",11760,1494080,22,1384
 "SAINS",2021,"Scope 1","Measure",NA,"tCO2e","","","","UK+",448851.995,"Sainsburys",11760,1494080,22,1384
 "SAINS",2021,"Scope 2","Measure","Location","tCO2e","","","","UK+",237041.41,"Sainsburys",11760,1494080,22,1384
 "SAINS",2021,"Scope 2","Measure","Market","tCO2e","","","","UK+",218145.26,"Sainsburys",11760,1494080,22,1384
 "SAINS",2021,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK+",694173.28,"Sainsburys",11760,1494080,22,1384
 "SAINS",2021,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK+",706781.606666667,"Sainsburys",11760,1494080,22,1384
-"SAINS",2022,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.0016,"Sainsburys",1540,1495620,11,1395
+"SAINS",2022,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.158678392,"Sainsburys",1540,1495620,11,1395
 "SAINS",2022,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK+",613024.115,"Sainsburys",1540,1495620,11,1395
 "SAINS",2022,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK+",399009.45,"Sainsburys",1540,1495620,11,1395
 "SAINS",2022,"Scope 2","Measure","Location","tCO2e","","","","UK+",214014.665,"Sainsburys",1540,1495620,11,1395
 "SAINS",2022,"Scope 2","Measure","Market","tCO2e","","","","UK+",0,"Sainsburys",1540,1495620,11,1395
 "SAINS",2022,"Energy","Measure",NA,"GWh","","","","UK+",2550.89535,"Sainsburys",1540,1495620,11,1395
 "SAINS",2022,"Scope 1","Measure",NA,"tCO2e","","","","UK+",399009.45,"Sainsburys",1540,1495620,11,1395
-"SAINS",2022,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0023,"Sainsburys",1540,1495620,11,1395
+"SAINS",2022,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.23439437,"Sainsburys",1540,1495620,11,1395
 "SAINS",2023,"Energy","Measure",NA,"GWh","","","","UK+",2533.8137,"Sainsburys",8260,1503880,25,1420
-"SAINS",2023,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.0015,"Sainsburys",8260,1503880,25,1420
+"SAINS",2023,"Scope 1 and 2","Intensity","Market","tCO2e/m2","tCO2e","m2","","UK+",0.151431955,"Sainsburys",8260,1503880,25,1420
 "SAINS",2023,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK+",636926.65,"Sainsburys",8260,1503880,25,1420
 "SAINS",2023,"Scope 1","Measure",NA,"tCO2e","","","","UK+",403057.23,"Sainsburys",8260,1503880,25,1420
-"SAINS",2023,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0023,"Sainsburys",8260,1503880,25,1420
+"SAINS",2023,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.233093727,"Sainsburys",8260,1503880,25,1420
 "SAINS",2023,"Scope 2","Measure","Market","tCO2e","","","","UK+",0,"Sainsburys",8260,1503880,25,1420
 "SAINS",2023,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK+",403057.23,"Sainsburys",8260,1503880,25,1420
 "SAINS",2023,"Scope 2","Measure","Location","tCO2e","","","","UK+",233869.42,"Sainsburys",8260,1503880,25,1420
@@ -737,17 +737,17 @@
 "OCADO",2013,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",76691,NA,NA,NA,NA,NA
 "OCADO",2013,"Scope 2","Measure","Location","tCO2e","","","","UK",26493,NA,NA,NA,NA,NA
 "SAINS",2005,"Scope 1","Measure",NA,"tCO2e","","","","UK",536694,NA,NA,NA,NA,NA
-"SAINS",2005,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0082,NA,NA,NA,NA,NA
+"SAINS",2005,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.8171751395,NA,NA,NA,NA,NA
 "SAINS",2005,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1370465,NA,NA,NA,NA,NA
 "SAINS",2005,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",1370481,NA,NA,NA,NA,NA
 "SAINS",2005,"Scope 2","Measure","Location","tCO2e","","","","UK",833796,NA,NA,NA,NA,NA
 "SAINS",2005,"Scope 2","Measure","Market","tCO2e","","","","UK",833787,NA,NA,NA,NA,NA
 "SAINS",2012,"Scope 1","Measure",NA,"tCO2e","","","","UK",722835,NA,NA,NA,NA,NA
-"SAINS",2012,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.0065,NA,NA,NA,NA,NA
+"SAINS",2012,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.652829662,NA,NA,NA,NA,NA
 "SAINS",2012,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1494215,NA,NA,NA,NA,NA
 "SAINS",2012,"Scope 2","Measure","Location","tCO2e","","","","UK",771380,NA,NA,NA,NA,NA
 "SAINS",2013,"Scope 1","Measure",NA,"tCO2e","","","","UK",626809,NA,NA,NA,NA,NA
-"SAINS",2013,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.00575,NA,NA,NA,NA,NA
+"SAINS",2013,"Scope 1 and 2","Intensity","Location","tCO2e/m2","tCO2e","m2","","UK",0.5715859535,NA,NA,NA,NA,NA
 "SAINS",2013,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1363327,NA,NA,NA,NA,NA
 "SAINS",2013,"Scope 2","Measure","Location","tCO2e","","","","UK",736518,NA,NA,NA,NA,NA
 "TESC",2006,"Scope 1","Measure",NA,"tCO2e","","","","Global",1353168.6,NA,NA,NA,NA,NA
