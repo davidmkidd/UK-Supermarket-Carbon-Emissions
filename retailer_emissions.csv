@@ -207,16 +207,16 @@ ICE,2021,2020,Energy,,Measure,813202632,KWh,813.202632,GWh,,,,UK
 ICE,2022,2021,Energy,,Measure,777878608,KWh,777.878608,GWh,,,,UK
 ICE,2023,2022,Energy,,Measure,198737142,KWh,198.737142,GWh,,,,UK
 ICE,2024,2023,Energy,,Measure,743007191,KWh,743.007191,GWh,,,,UK
-ICE,2020,2019,Scope,Location,Intensity,0.0583,tCO2e/£m Sales Revenue,0.0583,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2021,2020,Scope,Location,Intensity,0.0509,tCO2e/£m Sales Revenue,0.0509,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2022,2021,Scope,Location,Intensity,0.0487,tCO2e/£m Sales Revenue,0.0487,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2023,2022,Scope,Location,Intensity,0.0442,tCO2e/£m Sales Revenue,0.0442,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2024,2023,Scope,Location,Intensity,0.0395,tCO2e/£m Sales Revenue,0.0395,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2021,2019,Scope,Market,Intensity,0.0211,tCO2e/£m Sales Revenue,0.0211,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2021,2020,Scope,Market,Intensity,0.021,tCO2e/£m Sales Revenue,0.021,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2022,2021,Scope,Market,Intensity,0.0205,tCO2e/£m Sales Revenue,0.0205,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2023,2022,Scope,Market,Intensity,0.0183,tCO2e/£m Sales Revenue,0.0183,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
-ICE,2024,2023,Scope,Market,Intensity,0.0163,tCO2e/£m Sales Revenue,0.0163,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2020,2019,Scope 1 and 2,Location,Intensity,0.0583,tCO2e/£m Sales Revenue,0.0583,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2021,2020,Scope 1 and 2,Location,Intensity,0.0509,tCO2e/£m Sales Revenue,0.0509,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2022,2021,Scope 1 and 2,Location,Intensity,0.0487,tCO2e/£m Sales Revenue,0.0487,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2023,2022,Scope 1 and 2,Location,Intensity,0.0442,tCO2e/£m Sales Revenue,0.0442,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2024,2023,Scope 1 and 2,Location,Intensity,0.0395,tCO2e/£m Sales Revenue,0.0395,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2021,2019,Scope 1 and 2,Market,Intensity,0.0211,tCO2e/£m Sales Revenue,0.0211,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2021,2020,Scope 1 and 2,Market,Intensity,0.021,tCO2e/£m Sales Revenue,0.021,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2022,2021,Scope 1 and 2,Market,Intensity,0.0205,tCO2e/£m Sales Revenue,0.0205,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2023,2022,Scope 1 and 2,Market,Intensity,0.0183,tCO2e/£m Sales Revenue,0.0183,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
+ICE,2024,2023,Scope 1 and 2,Market,Intensity,0.0163,tCO2e/£m Sales Revenue,0.0163,tCO2e/£m Sales Revenue,tCO2e,£m,Sales Revenue,UK
 ICE,2020,2019,Scope 1,,Measure,68663,tCO2e,68663,tCO2e,,,,UK
 ICE,2021,2020,Scope 1,,Measure,79477,tCO2e,79477,tCO2e,,,,UK
 ICE,2022,2021,Scope 1,,Measure,73124,tCO2e,73124,tCO2e,,,,UK
@@ -581,27 +581,27 @@ MORR,2022,2022,Energy,,Measure,2323759,MWh,2323.759,GWh,,,,UK
 MORR,2023,2019,Energy,,Measure,2114050531,KWh,2114.0505,GWh,,,,UK
 MORR,2023,2022,Energy,,Measure,1921732436,KWh,1921.7324,GWh,,,,UK
 MORR,2023,2023,Energy,,Measure,1849374070,KWh,1849.3741,GWh,,,,UK
-MORR,2023,2019,Scope,Location,Intensity,33,tCO2e/£m Turnover,33,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2018,2005,Scope,Location,Intensity,53.9,kgCO2e/ft2 GIA,0.005,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2018,2017,Scope,Location,Intensity,28.7,kgCO2e/ft2 GIA,0.0027,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2018,2018,Scope,Location,Intensity,23.5,kgCO2e/ft2 GIA,0.0022,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2019,2017,Scope,Location,Intensity,0.356,tCO2e/m2 GIA,0.356,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2019,2018,Scope,Location,Intensity,0.296,tCO2e/m2 GIA,0.296,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2019,2019,Scope,Location,Intensity,0.252,tCO2e/m2 GIA,0.252,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2020,2020,Scope,Location,Intensity,0.236,tCO2e/m2 GIA,0.236,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2021,2019,Scope,Location,Intensity,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2021,2020,Scope,Location,Intensity,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2021,2021,Scope,Location,Intensity,0.12,tCO2e/m2 GIA,0.12,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2022,2019,Scope,Market,Intensity,36.98,tCO2e/£m Turnover,36.98,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2022,2020,Scope,Market,Intensity,34.74,tCO2e/£m Turnover,34.74,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2022,2021,Scope,Market,Intensity,32.55,tCO2e/£m Turnover,32.55,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2022,2022,Scope,Market,Intensity,28.5,tCO2e/£m Turnover,28.5,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2022,2019,Scope,Market,Intensity,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2022,2020,Scope,Market,Intensity,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2022,2021,Scope,Market,Intensity,0.16,tCO2e/m2 GIA,0.16,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2022,2022,Scope,Market,Intensity,0.15,tCO2e/m2 GIA,0.15,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
-MORR,2023,2022,Scope,,Intensity,24,tCO2e/£m Turnover,24,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
-MORR,2023,2023,Scope,,Intensity,23,tCO2e/£m Turnover,23,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2023,2019,Scope 1 and 2,Location,Intensity,33,tCO2e/£m Turnover,33,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2018,2005,Scope 1 and 2,Location,Intensity,53.9,kgCO2e/ft2 GIA,0.005,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2018,2017,Scope 1 and 2,Location,Intensity,28.7,kgCO2e/ft2 GIA,0.0027,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2018,2018,Scope 1 and 2,Location,Intensity,23.5,kgCO2e/ft2 GIA,0.0022,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2019,2017,Scope 1 and 2,Location,Intensity,0.356,tCO2e/m2 GIA,0.356,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2019,2018,Scope 1 and 2,Location,Intensity,0.296,tCO2e/m2 GIA,0.296,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2019,2019,Scope 1 and 2,Location,Intensity,0.252,tCO2e/m2 GIA,0.252,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2020,2020,Scope 1 and 2,Location,Intensity,0.236,tCO2e/m2 GIA,0.236,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2021,2019,Scope 1 and 2,Location,Intensity,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2021,2020,Scope 1 and 2,Location,Intensity,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2021,2021,Scope 1 and 2,Location,Intensity,0.12,tCO2e/m2 GIA,0.12,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2022,2019,Scope 1 and 2,Market,Intensity,36.98,tCO2e/£m Turnover,36.98,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2022,2020,Scope 1 and 2,Market,Intensity,34.74,tCO2e/£m Turnover,34.74,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2022,2021,Scope 1 and 2,Market,Intensity,32.55,tCO2e/£m Turnover,32.55,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2022,2022,Scope 1 and 2,Market,Intensity,28.5,tCO2e/£m Turnover,28.5,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2022,2019,Scope 1 and 2,Market,Intensity,0.18,tCO2e/m2 GIA,0.18,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2022,2020,Scope 1 and 2,Market,Intensity,0.17,tCO2e/m2 GIA,0.17,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2022,2021,Scope 1 and 2,Market,Intensity,0.16,tCO2e/m2 GIA,0.16,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2022,2022,Scope 1 and 2,Market,Intensity,0.15,tCO2e/m2 GIA,0.15,tCO2e/m2 GIA,tCO2e,m2,GIA,UK
+MORR,2023,2022,Scope 1 and 2,Location,Intensity,24,tCO2e/£m Turnover,24,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
+MORR,2023,2023,Scope 1 and 2,Location,Intensity,23,tCO2e/£m Turnover,23,tCO2e/£m Turnover,tCO2e,£m,Turnover,UK
 MORR,2018,2005,Scope 1,,Measure,757550,tCO2e,757550,tCO2e,,,,UK
 MORR,2018,2005,Scope 1,,Measure,787550,tCO2e,787550,tCO2e,,,,UK
 MORR,2018,2017,Scope 1,,Measure,488823,tCO2e,488823,tCO2e,,,,UK
