@@ -362,11 +362,11 @@ LIDL,2023,2021,Energy,,Measure,505225,MWh,505.225,GWh,,,,UK
 LIDL,2023,2022,Energy,,Measure,530321,MWh,530.321,GWh,,,,UK
 LIDL,2024,2022,Energy,,Measure,551515,MWh,551.515,GWh,,,,UK
 LIDL,2024,2023,Energy,,Measure,551846,MWh,551.846,GWh,,,,UK
-LIDL,2021,2020,Scope,,Intensity,0.0963,tCO2e/m2 Sales Floor,0.0963,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
-LIDL,2022,2021,Scope,,Intensity,0.0741,tCO2e/m2 Sales Floor,0.0741,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
-LIDL,2023,2021,Scope,,Intensity,0.0645,tCO2e/m2 Sales Floor,0.0645,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
-LIDL,2024,2021,Scope,,Intensity,0.0694,tCO2e/m2 Sales Floor,0.0694,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
-LIDL,2024,2022,Scope,,Intensity,0.0679,tCO2e/m2 Sales Floor,0.0679,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2021,2020,Scope 1 and 2,Location,Intensity,96.3,kgCO2e/m2 Sales Floor,0.0963,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2022,2021,Scope 1 and 2,Location,Intensity,74.1,kgCO2e/m2 Sales Floor,0.0741,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2023,2021,Scope 1 and 2,Location,Intensity,64.5,kgCO2e/m2 Sales Floor,0.0645,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2024,2021,Scope 1 and 2,Location,Intensity,69.4,kgCO2e/m2 Sales Floor,0.0694,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
+LIDL,2024,2022,Scope 1 and 2,Location,Intensity,67.9,kgCO2e/m2 Sales Floor,0.0679,tCO2e/m2 Sales Floor,tCO2e,m2,Sales Floor,UK
 LIDL,2021,2020,Scope 1,,Measure,21757.971,tCO2e,21757.971,tCO2e,,,,UK
 LIDL,2022,2020,Scope 1,,Measure,21757.972,tCO2e,21757.972,tCO2e,,,,UK
 LIDL,2022,2021,Scope 1,,Measure,19548.551,tCO2e,19548.551,tCO2e,,,,UK
