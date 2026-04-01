@@ -149,41 +149,41 @@
 "COOP",2023,"Scope 3","Measure","Location","tCO2e","","","","UK",3849,"The Co-operative Group",7140,730800,26,2427
 "COOP",2024,"Scope 3","Measure","Location","tCO2e","","","","UK",4333,"The Co-operative Group",7700,738500,40,2467
 "COOP",2024,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",252000,"The Co-operative Group",7700,738500,40,2467
-"ICE",2019,"Scope","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0583,"Iceland",45360,716240,54,891
-"ICE",2019,"Scope","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0211,"Iceland",45360,716240,54,891
 "ICE",2019,"Scope 1","Measure",NA,"tCO2e","","","","UK",68663,"Iceland",45360,716240,54,891
+"ICE",2019,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0583,"Iceland",45360,716240,54,891
+"ICE",2019,"Scope 1 and 2","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0211,"Iceland",45360,716240,54,891
 "ICE",2019,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",189724,"Iceland",45360,716240,54,891
 "ICE",2019,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",68663,"Iceland",45360,716240,54,891
 "ICE",2019,"Scope 2","Measure","Location","tCO2e","","","","UK",121065,"Iceland",45360,716240,54,891
 "ICE",2019,"Energy","Measure",NA,"GWh","","","","UK",749.450721,"Iceland",45360,716240,54,891
 "ICE",2020,"Energy","Measure",NA,"GWh","","","","UK",813.202632,"Iceland",20160,736400,24,915
-"ICE",2020,"Scope","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0509,"Iceland",20160,736400,24,915
-"ICE",2020,"Scope","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.021,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 1","Measure",NA,"tCO2e","","","","UK",79477,"Iceland",20160,736400,24,915
+"ICE",2020,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0509,"Iceland",20160,736400,24,915
+"ICE",2020,"Scope 1 and 2","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.021,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",192245,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",79477,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 2","Measure","Location","tCO2e","","","","UK",112777,"Iceland",20160,736400,24,915
-"ICE",2021,"Scope","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0487,"Iceland",13440,749840,16,931
-"ICE",2021,"Scope","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0205,"Iceland",13440,749840,16,931
 "ICE",2021,"Scope 1","Measure",NA,"tCO2e","","","","UK",73124,"Iceland",13440,749840,16,931
+"ICE",2021,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0487,"Iceland",13440,749840,16,931
+"ICE",2021,"Scope 1 and 2","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0205,"Iceland",13440,749840,16,931
 "ICE",2021,"Energy","Measure",NA,"GWh","","","","UK",777.878608,"Iceland",13440,749840,16,931
 "ICE",2021,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",73124,"Iceland",13440,749840,16,931
 "ICE",2021,"Scope 2","Measure","Location","tCO2e","","","","UK",99871,"Iceland",13440,749840,16,931
 "ICE",2021,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",172995,"Iceland",13440,749840,16,931
 "ICE",2022,"Energy","Measure",NA,"GWh","","","","UK",198.737142,"Iceland",15960,765800,19,950
 "ICE",2022,"Scope 2","Measure","Location","tCO2e","","","","UK",98200,"Iceland",15960,765800,19,950
-"ICE",2022,"Scope","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0183,"Iceland",15960,765800,19,950
-"ICE",2022,"Scope 1","Measure",NA,"tCO2e","","","","UK",69572,"Iceland",15960,765800,19,950
+"ICE",2022,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0442,"Iceland",15960,765800,19,950
+"ICE",2022,"Scope 1 and 2","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0183,"Iceland",15960,765800,19,950
 "ICE",2022,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",167772,"Iceland",15960,765800,19,950
-"ICE",2022,"Scope","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0442,"Iceland",15960,765800,19,950
+"ICE",2022,"Scope 1","Measure",NA,"tCO2e","","","","UK",69572,"Iceland",15960,765800,19,950
 "ICE",2022,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",69572,"Iceland",15960,765800,19,950
 "ICE",2023,"Energy","Measure",NA,"GWh","","","","UK",743.007191,"Iceland",7560,773360,9,959
-"ICE",2023,"Scope","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0395,"Iceland",7560,773360,9,959
-"ICE",2023,"Scope","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0163,"Iceland",7560,773360,9,959
+"ICE",2023,"Scope 1","Measure",NA,"tCO2e","","","","UK",67117,"Iceland",7560,773360,9,959
+"ICE",2023,"Scope 1 and 2","Intensity","Location","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0395,"Iceland",7560,773360,9,959
 "ICE",2023,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",162520,"Iceland",7560,773360,9,959
 "ICE",2023,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",67118,"Iceland",7560,773360,9,959
 "ICE",2023,"Scope 2","Measure","Location","tCO2e","","","","UK",95403,"Iceland",7560,773360,9,959
-"ICE",2023,"Scope 1","Measure",NA,"tCO2e","","","","UK",67117,"Iceland",7560,773360,9,959
+"ICE",2023,"Scope 1 and 2","Intensity","Market","tCO2e/£m Sales Revenue","tCO2e","£m","Sales Revenue","UK",0.0163,"Iceland",7560,773360,9,959
 "JLP",2014,"Scope 2","Measure","Location","tCO2e","","","","UK",316343,"Waitrose",NA,481880,NA,389
 "JLP",2014,"Scope 3","Measure","Location","tCO2e","","","","UK",61866,"Waitrose",NA,481880,NA,389
 "JLP",2014,"Scope 1","Measure",NA,"tCO2e","","","","UK",211654,"Waitrose",NA,481880,NA,389
@@ -372,70 +372,70 @@
 "M&S",2023,"Scope 2","Measure","Market","tCO2e","","","","UK and Europe",233000,"Marks and Spencer",25760,686560,17,1029
 "M&S",2023,"Energy","Measure",NA,"GWh","","","","UK and Europe",1382,"Marks and Spencer",25760,686560,17,1029
 "MORR",2017,"Energy","Measure",NA,"GWh","","","","UK",2717.487,"Morrisons",0,1122800,0,480
-"MORR",2017,"Scope","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.17935,"Morrisons",0,1122800,0,480
 "MORR",2017,"Scope 1","Measure",NA,"tCO2e","","","","UK",471598.666666667,"Morrisons",0,1122800,0,480
+"MORR",2017,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.17935,"Morrisons",0,1122800,0,480
 "MORR",2017,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",967461.5,"Morrisons",0,1122800,0,480
 "MORR",2017,"Scope 2","Measure","Location","tCO2e","","","","UK",479959.5,"Morrisons",0,1122800,0,480
 "MORR",2018,"Energy","Measure",NA,"GWh","","","","UK",2592.286,"Morrisons",5040,1122800,3,480
-"MORR",2018,"Scope 1","Measure",NA,"tCO2e","","","","UK",429459,"Morrisons",5040,1122800,3,480
+"MORR",2018,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.1491,"Morrisons",5040,1122800,3,480
 "MORR",2018,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",812381,"Morrisons",5040,1122800,3,480
 "MORR",2018,"Scope 2","Measure","Location","tCO2e","","","","UK",377755.5,"Morrisons",5040,1122800,3,480
-"MORR",2018,"Scope","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.1491,"Morrisons",5040,1122800,3,480
+"MORR",2018,"Scope 1","Measure",NA,"tCO2e","","","","UK",429459,"Morrisons",5040,1122800,3,480
 "MORR",2019,"Energy","Measure",NA,"GWh","","","","UK",1804.466875,"Morrisons",7000,1129800,3,483
-"MORR",2019,"Scope","Intensity","Location","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",33,"Morrisons",7000,1129800,3,483
-"MORR",2019,"Scope","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.18,"Morrisons",7000,1129800,3,483
-"MORR",2019,"Scope","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",36.98,"Morrisons",7000,1129800,3,483
-"MORR",2019,"Scope","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.216,"Morrisons",7000,1129800,3,483
+"MORR",2019,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",636410,"Morrisons",7000,1129800,3,483
+"MORR",2019,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",747733,"Morrisons",7000,1129800,3,483
+"MORR",2019,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.216,"Morrisons",7000,1129800,3,483
+"MORR",2019,"Scope 1","Measure",NA,"tCO2e","","","","UK",323128.5,"Morrisons",7000,1129800,3,483
 "MORR",2019,"Scope 2","Measure","Location","tCO2e","","","","UK",323452.75,"Morrisons",7000,1129800,3,483
 "MORR",2019,"Scope 2","Measure","Market","tCO2e","","","","UK",404395,"Morrisons",7000,1129800,3,483
 "MORR",2019,"Scope 3","Measure","Location","tCO2e","","","","UK",912,"Morrisons",7000,1129800,3,483
-"MORR",2019,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",747733,"Morrisons",7000,1129800,3,483
+"MORR",2019,"Scope 1 and 2","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",36.98,"Morrisons",7000,1129800,3,483
 "MORR",2019,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",646583.25,"Morrisons",7000,1129800,3,483
-"MORR",2019,"Scope 1","Measure",NA,"tCO2e","","","","UK",323128.5,"Morrisons",7000,1129800,3,483
-"MORR",2019,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",636410,"Morrisons",7000,1129800,3,483
+"MORR",2019,"Scope 1 and 2","Intensity","Location","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",33,"Morrisons",7000,1129800,3,483
+"MORR",2019,"Scope 1 and 2","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.18,"Morrisons",7000,1129800,3,483
 "MORR",2019,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",746805,"Morrisons",7000,1129800,3,483
 "MORR",2020,"Energy","Measure",NA,"GWh","","","","UK",2473.3765,"Morrisons",26600,1156400,124,607
-"MORR",2020,"Scope","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.203,"Morrisons",26600,1156400,124,607
-"MORR",2020,"Scope","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",34.74,"Morrisons",26600,1156400,124,607
 "MORR",2020,"Scope 1","Measure",NA,"tCO2e","","","","UK",330151,"Morrisons",26600,1156400,124,607
+"MORR",2020,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",796254,"Morrisons",26600,1156400,124,607
+"MORR",2020,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.203,"Morrisons",26600,1156400,124,607
+"MORR",2020,"Scope 1 and 2","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.17,"Morrisons",26600,1156400,124,607
 "MORR",2020,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",622223.5,"Morrisons",26600,1156400,124,607
-"MORR",2020,"Scope","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.17,"Morrisons",26600,1156400,124,607
 "MORR",2020,"Scope 3","Measure","Location","tCO2e","","","","UK",827,"Morrisons",26600,1156400,124,607
 "MORR",2020,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",619936.333333333,"Morrisons",26600,1156400,124,607
 "MORR",2020,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",795427,"Morrisons",26600,1156400,124,607
 "MORR",2020,"Scope 2","Measure","Location","tCO2e","","","","UK",273099,"Morrisons",26600,1156400,124,607
-"MORR",2020,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",796254,"Morrisons",26600,1156400,124,607
+"MORR",2020,"Scope 1 and 2","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",34.74,"Morrisons",26600,1156400,124,607
 "MORR",2020,"Scope 2","Measure","Market","tCO2e","","","","UK",447591,"Morrisons",26600,1156400,124,607
 "MORR",2021,"Energy","Measure",NA,"GWh","","","","UK",2390.388,"Morrisons",21560,1177960,121,728
-"MORR",2021,"Scope","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.12,"Morrisons",21560,1177960,121,728
-"MORR",2021,"Scope","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.16,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 1","Measure",NA,"tCO2e","","","","UK",255567.666666667,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",482270,"Morrisons",21560,1177960,121,728
+"MORR",2021,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.12,"Morrisons",21560,1177960,121,728
+"MORR",2021,"Scope 1 and 2","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.16,"Morrisons",21560,1177960,121,728
+"MORR",2021,"Scope 1 and 2","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",32.55,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",793630,"Morrisons",21560,1177960,121,728
-"MORR",2021,"Scope","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",32.55,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",551655.666666667,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",792902,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 2","Measure","Location","tCO2e","","","","UK",225346.5,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 2","Measure","Market","tCO2e","","","","UK",434963,"Morrisons",21560,1177960,121,728
 "MORR",2021,"Scope 3","Measure","Location","tCO2e","","","","UK",741,"Morrisons",21560,1177960,121,728
-"MORR",2022,"Scope","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.15,"Morrisons",23520,1201480,163,891
-"MORR",2022,"Scope","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",28.5,"Morrisons",23520,1201480,163,891
-"MORR",2022,"Scope","Intensity",NA,"tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",24,"Morrisons",23520,1201480,163,891
-"MORR",2022,"Energy","Measure",NA,"GWh","","","","UK",2122.7457,"Morrisons",23520,1201480,163,891
+"MORR",2022,"Scope 1","Measure",NA,"tCO2e","","","","UK",277651,"Morrisons",23520,1201480,163,891
 "MORR",2022,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",274353.5,"Morrisons",23520,1201480,163,891
 "MORR",2022,"Scope 1 - 3","Measure","Market","tCO2e","","","","UK",794642,"Morrisons",23520,1201480,163,891
+"MORR",2022,"Energy","Measure",NA,"GWh","","","","UK",2122.7457,"Morrisons",23520,1201480,163,891
+"MORR",2022,"Scope 1 and 2","Intensity","Market","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.15,"Morrisons",23520,1201480,163,891
+"MORR",2022,"Scope 1 and 2","Intensity","Market","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",28.5,"Morrisons",23520,1201480,163,891
 "MORR",2022,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",448865,"Morrisons",23520,1201480,163,891
-"MORR",2022,"Scope 1","Measure",NA,"tCO2e","","","","UK",277651,"Morrisons",23520,1201480,163,891
+"MORR",2022,"Scope 1 and 2","Intensity","Location","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",24,"Morrisons",23520,1201480,163,891
 "MORR",2022,"Scope 3","Measure","Location","tCO2e","","","","UK",2493.5,"Morrisons",23520,1201480,163,891
 "MORR",2022,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",792311,"Morrisons",23520,1201480,163,891
 "MORR",2022,"Scope 2","Measure","Location","tCO2e","","","","UK",221209,"Morrisons",23520,1201480,163,891
 "MORR",2022,"Scope 2","Measure","Market","tCO2e","","","","UK",455505,"Morrisons",23520,1201480,163,891
-"MORR",2023,"Scope 1","Measure",NA,"tCO2e","","","","UK",195846,"Morrisons",54320,1255800,364,1255
-"MORR",2023,"Scope 3","Measure","Location","tCO2e","","","","UK",829,"Morrisons",54320,1255800,364,1255
 "MORR",2023,"Scope 1 - 3","Measure","Location","tCO2e","","","","UK",419791,"Morrisons",54320,1255800,364,1255
+"MORR",2023,"Scope 3","Measure","Location","tCO2e","","","","UK",829,"Morrisons",54320,1255800,364,1255
+"MORR",2023,"Scope 1 and 2","Intensity","Location","tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",23,"Morrisons",54320,1255800,364,1255
 "MORR",2023,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",418962,"Morrisons",54320,1255800,364,1255
 "MORR",2023,"Scope 2","Measure","Location","tCO2e","","","","UK",223116,"Morrisons",54320,1255800,364,1255
-"MORR",2023,"Scope","Intensity",NA,"tCO2e/£m Turnover","tCO2e","£m","Turnover","UK",23,"Morrisons",54320,1255800,364,1255
+"MORR",2023,"Scope 1","Measure",NA,"tCO2e","","","","UK",195846,"Morrisons",54320,1255800,364,1255
 "MORR",2023,"Energy","Measure",NA,"GWh","","","","UK",1849.3741,"Morrisons",54320,1255800,364,1255
 "OCADO",2014,"Scope 1 and 2","Intensity","Location","tCO2e/100000 Orders","tCO2e","100000","Orders","UK",725.4,"Ocado",NA,NA,NA,NA
 "OCADO",2014,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",91753,"Ocado",NA,NA,NA,NA
@@ -723,8 +723,8 @@
 "M&S",2013,"Scope 2","Measure","Location","tCO2e","","","","UK and Europe",339500,NA,NA,NA,NA,NA
 "M&S",2013,"Scope 2","Measure","Market","tCO2e","","","","UK and Europe",265000,NA,NA,NA,NA,NA
 "M&S",2013,"Scope 3","Measure","Location","tCO2e","","","","UK and Europe",58500,NA,NA,NA,NA,NA
-"MORR",2005,"Scope","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.005,NA,NA,NA,NA,NA
 "MORR",2005,"Scope 1","Measure",NA,"tCO2e","","","","UK",772550,NA,NA,NA,NA,NA
+"MORR",2005,"Scope 1 and 2","Intensity","Location","tCO2e/m2 GIA","tCO2e","m2","GIA","UK",0.005,NA,NA,NA,NA,NA
 "MORR",2005,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",1259908,NA,NA,NA,NA,NA
 "MORR",2005,"Scope 2","Measure","Location","tCO2e","","","","UK",767748,NA,NA,NA,NA,NA
 "OCADO",2012,"Scope 1","Measure",NA,"tCO2e","","","","UK",39530,NA,NA,NA,NA,NA
