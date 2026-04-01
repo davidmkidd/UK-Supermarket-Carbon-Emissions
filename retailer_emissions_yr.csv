@@ -275,10 +275,10 @@
 "JLP",2024,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",199147,"Waitrose",140,527240,1,424
 "JLP",2024,"Scope 2","Intensity","Location","tCO2e/£m Sales","tCO2e","£m","Sales","UK",16.7,"Waitrose",140,527240,1,424
 "LIDL",2020,"Energy","Measure",NA,"GWh","","","","UK",440.968,"Lidl",49560,717780,59,835
-"LIDL",2020,"Scope 1","Measure",NA,"tCO2e","","","","UK",21757.9715,"Lidl",49560,717780,59,835
+"LIDL",2020,"Scope 1 and 2","Intensity","Location","tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.0963,"Lidl",49560,717780,59,835
 "LIDL",2020,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",119455.1105,"Lidl",49560,717780,59,835
 "LIDL",2020,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",21757.971,"Lidl",49560,717780,59,835
-"LIDL",2020,"Scope","Intensity",NA,"tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.0963,"Lidl",49560,717780,59,835
+"LIDL",2020,"Scope 1","Measure",NA,"tCO2e","","","","UK",21757.9715,"Lidl",49560,717780,59,835
 "LIDL",2020,"Scope 2","Measure","Location","tCO2e","","","","UK",97697.139,"Lidl",49560,717780,59,835
 "LIDL",2020,"Scope 2","Measure","Market","tCO2e","","","","UK",0,"Lidl",49560,717780,59,835
 "LIDL",2021,"Scope 2","Measure","Location","tCO2e","","","","UK",96878.96,"Lidl",54600,772380,65,900
@@ -286,10 +286,10 @@
 "LIDL",2021,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",112691.864,"Lidl",54600,772380,65,900
 "LIDL",2021,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",19548.551,"Lidl",54600,772380,65,900
 "LIDL",2021,"Energy","Measure",NA,"GWh","","","","UK",497.3995,"Lidl",54600,772380,65,900
-"LIDL",2021,"Scope","Intensity",NA,"tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.0693333333333333,"Lidl",54600,772380,65,900
 "LIDL",2021,"Scope 1","Measure",NA,"tCO2e","","","","UK",19548.551,"Lidl",54600,772380,65,900
-"LIDL",2022,"Scope","Intensity",NA,"tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.0679,"Lidl",52080,824460,62,962
+"LIDL",2021,"Scope 1 and 2","Intensity","Location","tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.0693333333333333,"Lidl",54600,772380,65,900
 "LIDL",2022,"Scope 1","Measure",NA,"tCO2e","","","","UK",14855.9905,"Lidl",52080,824460,62,962
+"LIDL",2022,"Scope 1 and 2","Intensity","Location","tCO2e/m2 Sales Floor","tCO2e","m2","Sales Floor","UK",0.0679,"Lidl",52080,824460,62,962
 "LIDL",2022,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",113054,"Lidl",52080,824460,62,962
 "LIDL",2022,"Energy","Measure",NA,"GWh","","","","UK",540.918,"Lidl",52080,824460,62,962
 "LIDL",2022,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",14855.9905,"Lidl",52080,824460,62,962
