@@ -202,16 +202,16 @@ COOP,2022,2022,Scope 2,Market,Measure,1,tCO2e,1,tCO2e,,,,UK,
 COOP,2023,2016,Scope 3,Location,Measure,4886,tCO2e,4886,tCO2e,,,,UK,
 COOP,2023,2023,Scope 3,Location,Measure,3849,tCO2e,3849,tCO2e,,,,UK,
 COOP,2024,2024,Scope 3,Location,Measure,4333,tCO2e,4333,tCO2e,,,,UK,
-ICE,2020,2019,Scope 1 and 2,Location,Intensity,0.0583,tCO2e/mGBP Sales Revenue,0.0583,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2021,2020,Scope 1 and 2,Location,Intensity,0.0509,tCO2e/mGBP Sales Revenue,0.0509,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2022,2021,Scope 1 and 2,Location,Intensity,0.0487,tCO2e/mGBP Sales Revenue,0.0487,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2023,2022,Scope 1 and 2,Location,Intensity,0.0442,tCO2e/mGBP Sales Revenue,0.0442,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2024,2023,Scope 1 and 2,Location,Intensity,0.0395,tCO2e/mGBP Sales Revenue,0.0395,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2021,2019,Scope 1 and 2,Market,Intensity,0.0211,tCO2e/mGBP Sales Revenue,0.0211,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2021,2020,Scope 1 and 2,Market,Intensity,0.021,tCO2e/mGBP Sales Revenue,0.021,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2022,2021,Scope 1 and 2,Market,Intensity,0.0205,tCO2e/mGBP Sales Revenue,0.0205,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2023,2022,Scope 1 and 2,Market,Intensity,0.0183,tCO2e/mGBP Sales Revenue,0.0183,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
-ICE,2024,2023,Scope 1 and 2,Market,Intensity,0.0163,tCO2e/mGBP Sales Revenue,0.0163,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,
+ICE,2020,2019,Scope 1 and 2,Location,Intensity,0.0583,tCO2e/mGBP Sales Revenue,5.83,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2021,2020,Scope 1 and 2,Location,Intensity,0.0509,tCO2e/mGBP Sales Revenue,5.09,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2022,2021,Scope 1 and 2,Location,Intensity,0.0487,tCO2e/mGBP Sales Revenue,4.87,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2023,2022,Scope 1 and 2,Location,Intensity,0.0442,tCO2e/mGBP Sales Revenue,4.42,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2024,2023,Scope 1 and 2,Location,Intensity,0.0395,tCO2e/mGBP Sales Revenue,3.95,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2021,2019,Scope 1 and 2,Market,Intensity,0.0211,tCO2e/mGBP Sales Revenue,2.11,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2021,2020,Scope 1 and 2,Market,Intensity,0.021,tCO2e/mGBP Sales Revenue,2.1,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2022,2021,Scope 1 and 2,Market,Intensity,0.0205,tCO2e/mGBP Sales Revenue,2.05,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2023,2022,Scope 1 and 2,Market,Intensity,0.0183,tCO2e/mGBP Sales Revenue,1.83,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
+ICE,2024,2023,Scope 1 and 2,Market,Intensity,0.0163,tCO2e/mGBP Sales Revenue,1.63,tCO2e/mGBP Sales Revenue,tCO2e,mGBP,Sales Revenue,UK,Source value * 100 to align with other values
 ICE,2020,2019,Energy,,Measure,749450721,KWh,749.450721,GWh,,,,UK,
 ICE,2021,2020,Energy,,Measure,813202632,KWh,813.202632,GWh,,,,UK,
 ICE,2022,2021,Energy,,Measure,777878608,KWh,777.878608,GWh,,,,UK,
