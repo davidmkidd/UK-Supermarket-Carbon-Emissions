@@ -150,40 +150,40 @@
 "COOP",2024,"Scope 3","Measure","Location","tCO2e","","","","UK",4333,"The Co-operative Group",7700,738500,40,2467
 "COOP",2024,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",252000,"The Co-operative Group",7700,738500,40,2467
 "ICE",2019,"Scope 1","Measure",NA,"tCO2e","","","","UK",68663,"Iceland",45360,716240,54,891
-"ICE",2019,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0583,"Iceland",45360,716240,54,891
-"ICE",2019,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0211,"Iceland",45360,716240,54,891
+"ICE",2019,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",5.83,"Iceland",45360,716240,54,891
+"ICE",2019,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",2.11,"Iceland",45360,716240,54,891
 "ICE",2019,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",189724,"Iceland",45360,716240,54,891
 "ICE",2019,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",68663,"Iceland",45360,716240,54,891
 "ICE",2019,"Scope 2","Measure","Location","tCO2e","","","","UK",121065,"Iceland",45360,716240,54,891
 "ICE",2019,"Energy","Measure",NA,"GWh","","","","UK",749.450721,"Iceland",45360,716240,54,891
 "ICE",2020,"Energy","Measure",NA,"GWh","","","","UK",813.202632,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 1","Measure",NA,"tCO2e","","","","UK",79477,"Iceland",20160,736400,24,915
-"ICE",2020,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0509,"Iceland",20160,736400,24,915
-"ICE",2020,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.021,"Iceland",20160,736400,24,915
+"ICE",2020,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",5.09,"Iceland",20160,736400,24,915
+"ICE",2020,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",2.1,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",192245,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",79477,"Iceland",20160,736400,24,915
 "ICE",2020,"Scope 2","Measure","Location","tCO2e","","","","UK",112777,"Iceland",20160,736400,24,915
 "ICE",2021,"Scope 1","Measure",NA,"tCO2e","","","","UK",73124,"Iceland",13440,749840,16,931
-"ICE",2021,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0487,"Iceland",13440,749840,16,931
-"ICE",2021,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0205,"Iceland",13440,749840,16,931
+"ICE",2021,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",4.87,"Iceland",13440,749840,16,931
+"ICE",2021,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",2.05,"Iceland",13440,749840,16,931
 "ICE",2021,"Energy","Measure",NA,"GWh","","","","UK",777.878608,"Iceland",13440,749840,16,931
 "ICE",2021,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",73124,"Iceland",13440,749840,16,931
 "ICE",2021,"Scope 2","Measure","Location","tCO2e","","","","UK",99871,"Iceland",13440,749840,16,931
 "ICE",2021,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",172995,"Iceland",13440,749840,16,931
 "ICE",2022,"Energy","Measure",NA,"GWh","","","","UK",198.737142,"Iceland",15960,765800,19,950
 "ICE",2022,"Scope 2","Measure","Location","tCO2e","","","","UK",98200,"Iceland",15960,765800,19,950
-"ICE",2022,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0442,"Iceland",15960,765800,19,950
-"ICE",2022,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0183,"Iceland",15960,765800,19,950
+"ICE",2022,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",4.42,"Iceland",15960,765800,19,950
+"ICE",2022,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",1.83,"Iceland",15960,765800,19,950
 "ICE",2022,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",167772,"Iceland",15960,765800,19,950
 "ICE",2022,"Scope 1","Measure",NA,"tCO2e","","","","UK",69572,"Iceland",15960,765800,19,950
 "ICE",2022,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",69572,"Iceland",15960,765800,19,950
 "ICE",2023,"Energy","Measure",NA,"GWh","","","","UK",743.007191,"Iceland",7560,773360,9,959
 "ICE",2023,"Scope 1","Measure",NA,"tCO2e","","","","UK",67117,"Iceland",7560,773360,9,959
-"ICE",2023,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0395,"Iceland",7560,773360,9,959
+"ICE",2023,"Scope 1 and 2","Intensity","Location","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",3.95,"Iceland",7560,773360,9,959
 "ICE",2023,"Scope 1 and 2","Measure","Location","tCO2e","","","","UK",162520,"Iceland",7560,773360,9,959
 "ICE",2023,"Scope 1 and 2","Measure","Market","tCO2e","","","","UK",67118,"Iceland",7560,773360,9,959
 "ICE",2023,"Scope 2","Measure","Location","tCO2e","","","","UK",95403,"Iceland",7560,773360,9,959
-"ICE",2023,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",0.0163,"Iceland",7560,773360,9,959
+"ICE",2023,"Scope 1 and 2","Intensity","Market","tCO2e/mGBP Sales Revenue","tCO2e","mGBP","Sales Revenue","UK",1.63,"Iceland",7560,773360,9,959
 "JLP",2014,"Scope 2","Measure","Location","tCO2e","","","","UK",316343,"Waitrose",NA,481880,NA,389
 "JLP",2014,"Scope 3","Measure","Location","tCO2e","","","","UK",61866,"Waitrose",NA,481880,NA,389
 "JLP",2014,"Scope 1","Measure",NA,"tCO2e","","","","UK",211654,"Waitrose",NA,481880,NA,389
