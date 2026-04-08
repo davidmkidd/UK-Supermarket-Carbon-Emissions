@@ -1,122 +1,408 @@
-"retailer","year","code","new_area","total_area","new_store","total_store"
-"Aldi",2014,"ALDI",NA,419580,NA,498
-"Aldi",2015,"ALDI",58800,478380,70,568
-"Aldi",2016,"ALDI",35280,513660,42,610
-"Aldi",2017,"ALDI",81480,595140,94,704
-"Aldi",2018,"ALDI",55440,650580,66,770
-"Aldi",2019,"ALDI",50400,700980,60,830
-"Aldi",2020,"ALDI",42840,743820,51,881
-"Aldi",2021,"ALDI",47880,791700,57,938
-"Aldi",2022,"ALDI",36960,828660,44,982
-"Aldi",2023,"ALDI",27720,856380,33,1015
-"Aldi",2024,"ALDI",25340,881720,28,1043
-"Asda",2014,"ASDA",NA,1256780,NA,577
-"Asda",2015,"ASDA",34300,1291080,31,608
-"Asda",2016,"ASDA",14000,1305080,9,617
-"Asda",2017,"ASDA",11900,1316980,8,625
-"Asda",2018,"ASDA",140,1317120,1,626
-"Asda",2019,"ASDA",0,1319920,0,627
-"Asda",2020,"ASDA",2800,1319920,1,627
-"Asda",2021,"ASDA",0,1320200,0,629
-"Asda",2022,"ASDA",280,1320200,2,629
-"Asda",2023,"ASDA",29960,1350160,214,843
-"Asda",2024,"ASDA",37520,1387680,263,1106
-"The Co-operative Group",2014,"COOP",NA,622720,NA,1770
-"The Co-operative Group",2015,"COOP",280,623000,2,1772
-"The Co-operative Group",2016,"COOP",13020,636020,68,1840
-"The Co-operative Group",2017,"COOP",23800,659820,150,1990
-"The Co-operative Group",2018,"COOP",11340,671160,71,2061
-"The Co-operative Group",2019,"COOP",26740,697900,171,2232
-"The Co-operative Group",2020,"COOP",7700,705600,50,2282
-"The Co-operative Group",2021,"COOP",6440,712040,36,2318
-"The Co-operative Group",2022,"COOP",11620,723660,83,2401
-"The Co-operative Group",2023,"COOP",7140,730800,26,2427
-"The Co-operative Group",2024,"COOP",7700,738500,40,2467
-"Iceland",2014,"ICE",NA,623840,NA,781
-"Iceland",2015,"ICE",840,624680,1,782
-"Iceland",2016,"ICE",5880,630560,7,789
-"Iceland",2017,"ICE",9240,639800,11,800
-"Iceland",2018,"ICE",31080,670880,37,837
-"Iceland",2019,"ICE",45360,716240,54,891
-"Iceland",2020,"ICE",20160,736400,24,915
-"Iceland",2021,"ICE",13440,749840,16,931
-"Iceland",2022,"ICE",15960,765800,19,950
-"Iceland",2023,"ICE",7560,773360,9,959
-"Iceland",2024,"ICE",10920,784280,13,972
-"Lidl",2014,"LIDL",NA,468300,NA,556
-"Lidl",2015,"LIDL",20160,488460,24,580
-"Lidl",2016,"LIDL",26880,515340,29,609
-"Lidl",2017,"LIDL",52920,568260,51,660
-"Lidl",2018,"LIDL",47460,615720,55,715
-"Lidl",2019,"LIDL",52500,668220,61,776
-"Lidl",2020,"LIDL",49560,717780,59,835
-"Lidl",2021,"LIDL",54600,772380,65,900
-"Lidl",2022,"LIDL",52080,824460,62,962
-"Lidl",2023,"LIDL",21420,845880,24,986
-"Lidl",2024,"LIDL",20160,866040,24,1010
-"Marks and Spencer",2014,"M&S",NA,462980,NA,651
-"Marks and Spencer",2015,"M&S",24220,487200,32,683
-"Marks and Spencer",2016,"M&S",51800,539000,125,808
-"Marks and Spencer",2017,"M&S",40740,579740,75,883
-"Marks and Spencer",2018,"M&S",22400,602140,41,924
-"Marks and Spencer",2019,"M&S",18900,621040,31,955
-"Marks and Spencer",2020,"M&S",14700,635740,17,972
-"Marks and Spencer",2021,"M&S",6580,642320,23,995
-"Marks and Spencer",2022,"M&S",18480,660800,17,1012
-"Marks and Spencer",2023,"M&S",25760,686560,17,1029
-"Marks and Spencer",2024,"M&S",20160,706720,27,1056
-"Morrisons",2014,"MORR",NA,1101380,NA,469
-"Morrisons",2015,"MORR",13580,1114960,7,476
-"Morrisons",2016,"MORR",2800,1117760,1,477
-"Morrisons",2017,"MORR",0,1122800,0,480
-"Morrisons",2018,"MORR",5040,1122800,3,480
-"Morrisons",2019,"MORR",7000,1129800,3,483
-"Morrisons",2020,"MORR",26600,1156400,124,607
-"Morrisons",2021,"MORR",21560,1177960,121,728
-"Morrisons",2022,"MORR",23520,1201480,163,891
-"Morrisons",2023,"MORR",54320,1255800,364,1255
-"Morrisons",2024,"MORR",72520,1328320,490,1745
-"Ocado",2014,"OCADO",NA,NA,NA,NA
-"Ocado",2015,"OCADO",NA,NA,NA,NA
-"Ocado",2016,"OCADO",NA,NA,NA,NA
-"Ocado",2017,"OCADO",NA,NA,NA,NA
-"Ocado",2018,"OCADO",NA,NA,NA,NA
-"Ocado",2019,"OCADO",NA,NA,NA,NA
-"Ocado",2020,"OCADO",NA,NA,NA,NA
-"Ocado",2021,"OCADO",NA,NA,NA,NA
-"Ocado",2022,"OCADO",NA,NA,NA,NA
-"Ocado",2023,"OCADO",NA,NA,NA,NA
-"Ocado",2024,"OCADO",NA,NA,NA,NA
-"Sainsburys",2014,"SAINS",NA,1353380,NA,1126
-"Sainsburys",2015,"SAINS",79660,1433040,104,1230
-"Sainsburys",2016,"SAINS",7280,1440320,18,1248
-"Sainsburys",2017,"SAINS",22400,1462720,74,1322
-"Sainsburys",2018,"SAINS",8400,1471120,8,1330
-"Sainsburys",2019,"SAINS",7280,1478400,18,1348
-"Sainsburys",2020,"SAINS",3920,1482320,14,1362
-"Sainsburys",2021,"SAINS",11760,1494080,22,1384
-"Sainsburys",2022,"SAINS",1540,1495620,11,1395
-"Sainsburys",2023,"SAINS",8260,1503880,25,1420
-"Sainsburys",2024,"SAINS",14840,1518720,24,1444
-"Tesco",2014,"TESC",NA,2107280,NA,2485
-"Tesco",2015,"TESC",26740,2134020,68,2553
-"Tesco",2016,"TESC",10640,2144660,33,2586
-"Tesco",2017,"TESC",5600,2150260,21,2607
-"Tesco",2018,"TESC",1260,2151520,9,2616
-"Tesco",2019,"TESC",3080,2154600,3,2619
-"Tesco",2020,"TESC",10360,2164960,74,2693
-"Tesco",2021,"TESC",11760,2176720,32,2725
-"Tesco",2022,"TESC",16520,2193240,65,2790
-"Tesco",2023,"TESC",10640,2203880,47,2837
-"Tesco",2024,"TESC",31400,2235280,72,2909
-"Waitrose",2014,"JLP",NA,481880,NA,389
-"Waitrose",2015,"JLP",19600,501480,13,402
-"Waitrose",2016,"JLP",14840,516320,11,413
-"Waitrose",2017,"JLP",6440,522760,7,420
-"Waitrose",2018,"JLP",4340,527100,3,423
-"Waitrose",2019,"JLP",0,527240,0,424
-"Waitrose",2020,"JLP",0,527240,0,424
-"Waitrose",2021,"JLP",0,527240,0,424
-"Waitrose",2022,"JLP",0,527240,0,424
-"Waitrose",2023,"JLP",0,527240,0,424
-"Waitrose",2024,"JLP",140,527240,1,424
+"retailer","year","new_area","total_area","new_store","total_store"
+"Spar",2014,NA,267120,NA,1908
+"Spar",2015,0,275520,0,1968
+"Spar",2016,0,275520,0,1968
+"Spar",2017,0,275520,0,1968
+"Spar",2018,0,275520,0,1968
+"Spar",2019,0,275520,0,1968
+"Spar",2020,0,275520,0,1968
+"Spar",2021,0,275520,0,1968
+"Spar",2022,8400,275520,60,1968
+"Spar",2023,6720,282240,48,2016
+"Spar",2024,14280,296520,102,2118
+"Tesco",2014,NA,2107280,NA,2485
+"Tesco",2015,26740,2134020,68,2553
+"Tesco",2016,10640,2144660,33,2586
+"Tesco",2017,5600,2150260,21,2607
+"Tesco",2018,1260,2151520,9,2616
+"Tesco",2019,3080,2154600,3,2619
+"Tesco",2020,10360,2164960,74,2693
+"Tesco",2021,11760,2176720,32,2725
+"Tesco",2022,16520,2193240,65,2790
+"Tesco",2023,10640,2203880,47,2837
+"Tesco",2024,31400,2235280,72,2909
+"The Co-operative Group",2014,NA,622720,NA,1770
+"The Co-operative Group",2015,280,623000,2,1772
+"The Co-operative Group",2016,13020,636020,68,1840
+"The Co-operative Group",2017,23800,659820,150,1990
+"The Co-operative Group",2018,11340,671160,71,2061
+"The Co-operative Group",2019,26740,697900,171,2232
+"The Co-operative Group",2020,7700,705600,50,2282
+"The Co-operative Group",2021,6440,712040,36,2318
+"The Co-operative Group",2022,11620,723660,83,2401
+"The Co-operative Group",2023,7140,730800,26,2427
+"The Co-operative Group",2024,7700,738500,40,2467
+"Asda",2014,NA,1256780,NA,577
+"Asda",2015,34300,1291080,31,608
+"Asda",2016,14000,1305080,9,617
+"Asda",2017,11900,1316980,8,625
+"Asda",2018,140,1317120,1,626
+"Asda",2019,0,1319920,0,627
+"Asda",2020,2800,1319920,1,627
+"Asda",2021,0,1320200,0,629
+"Asda",2022,280,1320200,2,629
+"Asda",2023,29960,1350160,214,843
+"Asda",2024,37520,1387680,263,1106
+"Sainsburys",2014,NA,1353380,NA,1126
+"Sainsburys",2015,79660,1433040,104,1230
+"Sainsburys",2016,7280,1440320,18,1248
+"Sainsburys",2017,22400,1462720,74,1322
+"Sainsburys",2018,8400,1471120,8,1330
+"Sainsburys",2019,7280,1478400,18,1348
+"Sainsburys",2020,3920,1482320,14,1362
+"Sainsburys",2021,11760,1494080,22,1384
+"Sainsburys",2022,1540,1495620,11,1395
+"Sainsburys",2023,8260,1503880,25,1420
+"Sainsburys",2024,14840,1518720,24,1444
+"Heart of England Co-operative",2014,NA,12180,NA,27
+"Heart of England Co-operative",2015,0,12460,0,29
+"Heart of England Co-operative",2016,0,12460,0,29
+"Heart of England Co-operative",2017,280,12460,2,29
+"Heart of England Co-operative",2018,0,12600,0,30
+"Heart of England Co-operative",2019,140,12600,1,30
+"Heart of England Co-operative",2020,140,12740,1,31
+"Heart of England Co-operative",2021,0,12880,0,32
+"Heart of England Co-operative",2022,0,12880,0,32
+"Heart of England Co-operative",2023,140,12880,1,32
+"Heart of England Co-operative",2024,0,45080,0,158
+"Midcounties Co-operative",2014,NA,45080,NA,158
+"Midcounties Co-operative",2015,0,49560,0,175
+"Midcounties Co-operative",2016,0,49560,0,175
+"Midcounties Co-operative",2017,4480,49560,17,175
+"Midcounties Co-operative",2018,700,50260,5,180
+"Midcounties Co-operative",2019,1260,51520,4,184
+"Midcounties Co-operative",2020,140,51660,1,185
+"Midcounties Co-operative",2021,980,52640,7,192
+"Midcounties Co-operative",2022,2100,54740,15,207
+"Midcounties Co-operative",2023,2800,57540,10,217
+"Midcounties Co-operative",2024,140,57680,1,218
+"Morrisons",2014,NA,1101380,NA,469
+"Morrisons",2015,13580,1114960,7,476
+"Morrisons",2016,2800,1117760,1,477
+"Morrisons",2017,0,1122800,0,480
+"Morrisons",2018,5040,1122800,3,480
+"Morrisons",2019,7000,1129800,3,483
+"Morrisons",2020,26600,1156400,124,607
+"Morrisons",2021,21560,1177960,121,728
+"Morrisons",2022,23520,1201480,163,891
+"Morrisons",2023,54320,1255800,364,1255
+"Morrisons",2024,72520,1328320,490,1745
+"Farmfoods",2014,NA,38360,NA,274
+"Farmfoods",2015,140,38500,1,275
+"Farmfoods",2016,560,39060,4,279
+"Farmfoods",2017,1260,40320,9,288
+"Farmfoods",2018,140,40460,1,289
+"Farmfoods",2019,0,41720,0,298
+"Farmfoods",2020,1260,41720,9,298
+"Farmfoods",2021,1540,43260,11,309
+"Farmfoods",2022,1540,44800,11,320
+"Farmfoods",2023,2940,47740,16,336
+"Farmfoods",2024,2800,50540,15,351
+"Heron",2014,NA,34020,NA,243
+"Heron",2015,0,34580,0,247
+"Heron",2016,0,34580,0,247
+"Heron",2017,560,34580,4,247
+"Heron",2018,560,35140,4,251
+"Heron",2019,840,35980,6,257
+"Heron",2020,700,36680,5,262
+"Heron",2021,1960,38640,14,276
+"Heron",2022,1820,40460,13,289
+"Heron",2023,3360,43820,14,303
+"Heron",2024,1400,45220,10,313
+"Channel Islands Co-operative Society",2014,NA,2800,NA,20
+"Channel Islands Co-operative Society",2015,0,2940,0,21
+"Channel Islands Co-operative Society",2016,140,2940,1,21
+"Channel Islands Co-operative Society",2017,280,3220,2,23
+"Channel Islands Co-operative Society",2018,140,3360,1,24
+"Channel Islands Co-operative Society",2019,0,3640,0,26
+"Channel Islands Co-operative Society",2020,0,3640,0,26
+"Channel Islands Co-operative Society",2021,0,3640,0,26
+"Channel Islands Co-operative Society",2022,0,3640,0,26
+"Channel Islands Co-operative Society",2023,280,3640,2,26
+"Channel Islands Co-operative Society",2024,0,462980,0,651
+"Marks and Spencer",2014,NA,462980,NA,651
+"Marks and Spencer",2015,24220,487200,32,683
+"Marks and Spencer",2016,51800,539000,125,808
+"Marks and Spencer",2017,40740,579740,75,883
+"Marks and Spencer",2018,22400,602140,41,924
+"Marks and Spencer",2019,18900,621040,31,955
+"Marks and Spencer",2020,14700,635740,17,972
+"Marks and Spencer",2021,6580,642320,23,995
+"Marks and Spencer",2022,18480,660800,17,1012
+"Marks and Spencer",2023,25760,686560,17,1029
+"Marks and Spencer",2024,20160,706720,27,1056
+"Lincolnshire Co-operative",2014,NA,17780,NA,72
+"Lincolnshire Co-operative",2015,140,17920,1,73
+"Lincolnshire Co-operative",2016,140,18060,1,74
+"Lincolnshire Co-operative",2017,1540,19600,6,80
+"Lincolnshire Co-operative",2018,0,21140,0,91
+"Lincolnshire Co-operative",2019,0,21140,0,91
+"Lincolnshire Co-operative",2020,0,21140,0,91
+"Lincolnshire Co-operative",2021,0,21140,0,91
+"Lincolnshire Co-operative",2022,1540,21140,11,91
+"Lincolnshire Co-operative",2023,560,21700,4,95
+"Lincolnshire Co-operative",2024,140,21840,1,96
+"The Radstock Co-operative Society",2014,NA,2380,NA,12
+"The Radstock Co-operative Society",2015,140,2520,1,13
+"The Radstock Co-operative Society",2016,0,2800,0,15
+"The Radstock Co-operative Society",2017,280,2800,2,15
+"The Radstock Co-operative Society",2018,420,3220,3,18
+"The Radstock Co-operative Society",2019,0,3360,0,19
+"The Radstock Co-operative Society",2020,140,3360,1,19
+"The Radstock Co-operative Society",2021,0,3500,0,20
+"The Radstock Co-operative Society",2022,140,3500,1,20
+"The Radstock Co-operative Society",2023,0,1540,0,11
+"The Radstock Co-operative Society",2024,0,1540,0,11
+"Amazon",2014,NA,1540,NA,11
+"Amazon",2015,0,1540,0,11
+"Amazon",2016,0,1540,0,11
+"Amazon",2017,0,1540,0,11
+"Amazon",2018,0,1540,0,11
+"Amazon",2019,0,1540,0,11
+"Amazon",2020,0,1540,0,11
+"Amazon",2021,1540,1540,11,11
+"Amazon",2022,700,2240,5,16
+"Amazon",2023,560,2800,4,20
+"Amazon",2024,140,2940,1,21
+"Central England Co-operative",2014,NA,75460,NA,174
+"Central England Co-operative",2015,0,80500,0,205
+"Central England Co-operative",2016,0,80500,0,205
+"Central England Co-operative",2017,5040,80500,31,205
+"Central England Co-operative",2018,1820,82320,8,213
+"Central England Co-operative",2019,420,82740,3,216
+"Central England Co-operative",2020,0,83860,0,219
+"Central England Co-operative",2021,1120,83860,3,219
+"Central England Co-operative",2022,1120,84980,8,227
+"Central England Co-operative",2023,840,85820,6,233
+"Central England Co-operative",2024,420,86240,3,236
+"The Southern Co-operative",2014,NA,25060,NA,129
+"The Southern Co-operative",2015,140,25200,1,130
+"The Southern Co-operative",2016,140,25340,1,131
+"The Southern Co-operative",2017,8400,33740,55,186
+"The Southern Co-operative",2018,840,34580,6,192
+"The Southern Co-operative",2019,1820,36400,8,200
+"The Southern Co-operative",2020,420,36820,3,203
+"The Southern Co-operative",2021,140,36960,1,204
+"The Southern Co-operative",2022,2100,39060,10,214
+"The Southern Co-operative",2023,6020,45080,38,252
+"The Southern Co-operative",2024,700,45780,5,257
+"Waitrose",2014,NA,481880,NA,389
+"Waitrose",2015,19600,501480,13,402
+"Waitrose",2016,14840,516320,11,413
+"Waitrose",2017,6440,522760,7,420
+"Waitrose",2018,4340,527100,3,423
+"Waitrose",2019,0,527240,0,424
+"Waitrose",2020,0,527240,0,424
+"Waitrose",2021,0,527240,0,424
+"Waitrose",2022,0,527240,0,424
+"Waitrose",2023,0,527240,0,424
+"Waitrose",2024,140,527240,1,424
+"Cook",2014,NA,13580,NA,97
+"Cook",2015,0,13860,0,99
+"Cook",2016,0,13860,0,99
+"Cook",2017,0,13860,0,99
+"Cook",2018,0,13860,0,99
+"Cook",2019,0,13860,0,99
+"Cook",2020,0,13860,0,99
+"Cook",2021,0,13860,0,99
+"Cook",2022,0,13860,0,99
+"Cook",2023,280,13860,2,99
+"Cook",2024,840,14700,6,105
+"Scottish Midland Co-operative",2014,NA,40320,NA,119
+"Scottish Midland Co-operative",2015,0,48860,0,180
+"Scottish Midland Co-operative",2016,0,48860,0,180
+"Scottish Midland Co-operative",2017,8540,48860,61,180
+"Scottish Midland Co-operative",2018,280,49140,2,182
+"Scottish Midland Co-operative",2019,140,49280,1,183
+"Scottish Midland Co-operative",2020,0,49420,0,184
+"Scottish Midland Co-operative",2021,0,49420,0,184
+"Scottish Midland Co-operative",2022,140,49420,1,184
+"Scottish Midland Co-operative",2023,140,49560,1,185
+"Scottish Midland Co-operative",2024,0,21840,0,56
+"Budgens",2014,NA,21840,NA,56
+"Budgens",2015,140,21980,1,57
+"Budgens",2016,1400,23380,10,67
+"Budgens",2017,5600,28980,40,107
+"Budgens",2018,560,29540,4,111
+"Budgens",2019,10500,40040,75,186
+"Budgens",2020,3360,43400,24,210
+"Budgens",2021,980,44380,7,217
+"Budgens",2022,9100,53480,65,282
+"Budgens",2023,3640,57120,26,308
+"Budgens",2024,10780,67900,77,385
+"East of England Co-operative",2014,NA,50680,NA,110
+"East of England Co-operative",2015,0,51520,0,111
+"East of England Co-operative",2016,840,51520,1,111
+"East of England Co-operative",2017,3500,55020,10,121
+"East of England Co-operative",2018,420,55440,3,124
+"East of England Co-operative",2019,0,56000,0,128
+"East of England Co-operative",2020,0,56000,0,128
+"East of England Co-operative",2021,0,56000,0,128
+"East of England Co-operative",2022,560,56000,4,128
+"East of England Co-operative",2023,420,56420,3,131
+"East of England Co-operative",2024,140,56560,1,132
+"Clydebank Co-operative",2014,NA,700,NA,5
+"Clydebank Co-operative",2015,0,840,0,6
+"Clydebank Co-operative",2016,0,840,0,6
+"Clydebank Co-operative",2017,140,840,1,6
+"Clydebank Co-operative",2018,0,140,0,1
+"Clydebank Co-operative",2019,0,140,0,1
+"Clydebank Co-operative",2020,0,140,0,1
+"Clydebank Co-operative",2021,0,140,0,1
+"Clydebank Co-operative",2022,0,140,0,1
+"Clydebank Co-operative",2023,0,140,0,1
+"Clydebank Co-operative",2024,0,140,0,1
+"Coniston Co-operative Society",2014,NA,140,NA,1
+"Coniston Co-operative Society",2015,0,623840,0,781
+"Coniston Co-operative Society",2016,0,623840,0,781
+"Coniston Co-operative Society",2017,0,623840,0,781
+"Coniston Co-operative Society",2018,0,623840,0,781
+"Coniston Co-operative Society",2019,0,623840,0,781
+"Coniston Co-operative Society",2020,0,623840,0,781
+"Coniston Co-operative Society",2021,0,623840,0,781
+"Coniston Co-operative Society",2022,0,623840,0,781
+"Coniston Co-operative Society",2023,0,623840,0,781
+"Coniston Co-operative Society",2024,0,623840,0,781
+"Iceland",2014,NA,623840,NA,781
+"Iceland",2015,840,624680,1,782
+"Iceland",2016,5880,630560,7,789
+"Iceland",2017,9240,639800,11,800
+"Iceland",2018,31080,670880,37,837
+"Iceland",2019,45360,716240,54,891
+"Iceland",2020,20160,736400,24,915
+"Iceland",2021,13440,749840,16,931
+"Iceland",2022,15960,765800,19,950
+"Iceland",2023,7560,773360,9,959
+"Iceland",2024,10920,784280,13,972
+"Chelmsford Star Co-operative Society",2014,NA,7980,NA,32
+"Chelmsford Star Co-operative Society",2015,0,8540,0,36
+"Chelmsford Star Co-operative Society",2016,0,8540,0,36
+"Chelmsford Star Co-operative Society",2017,560,8540,4,36
+"Chelmsford Star Co-operative Society",2018,420,8960,3,39
+"Chelmsford Star Co-operative Society",2019,0,1820,0,3
+"Chelmsford Star Co-operative Society",2020,0,1820,0,3
+"Chelmsford Star Co-operative Society",2021,0,1820,0,3
+"Chelmsford Star Co-operative Society",2022,0,1820,0,3
+"Chelmsford Star Co-operative Society",2023,0,1820,0,3
+"Chelmsford Star Co-operative Society",2024,0,1820,0,3
+"Planet Organic",2014,NA,1820,NA,3
+"Planet Organic",2015,0,1960,0,4
+"Planet Organic",2016,0,1960,0,4
+"Planet Organic",2017,0,1960,0,4
+"Planet Organic",2018,0,1960,0,4
+"Planet Organic",2019,140,1960,1,4
+"Planet Organic",2020,420,2380,3,7
+"Planet Organic",2021,280,2660,2,9
+"Planet Organic",2022,0,140,0,1
+"Planet Organic",2023,0,140,0,1
+"Planet Organic",2024,0,140,0,1
+"Allendale Co-operative Society",2014,NA,140,NA,1
+"Allendale Co-operative Society",2015,0,5600,0,10
+"Allendale Co-operative Society",2016,0,5600,0,10
+"Allendale Co-operative Society",2017,0,5600,0,10
+"Allendale Co-operative Society",2018,0,5600,0,10
+"Allendale Co-operative Society",2019,0,5600,0,10
+"Allendale Co-operative Society",2020,0,5600,0,10
+"Allendale Co-operative Society",2021,0,5600,0,10
+"Allendale Co-operative Society",2022,0,5600,0,10
+"Allendale Co-operative Society",2023,0,5600,0,10
+"Allendale Co-operative Society",2024,0,5600,0,10
+"Tamworth Co-operative Society",2014,NA,5600,NA,10
+"Tamworth Co-operative Society",2015,0,5740,0,11
+"Tamworth Co-operative Society",2016,0,5740,0,11
+"Tamworth Co-operative Society",2017,0,5740,0,11
+"Tamworth Co-operative Society",2018,0,5740,0,11
+"Tamworth Co-operative Society",2019,140,5740,1,11
+"Tamworth Co-operative Society",2020,0,419580,0,498
+"Tamworth Co-operative Society",2021,0,419580,0,498
+"Tamworth Co-operative Society",2022,0,419580,0,498
+"Tamworth Co-operative Society",2023,0,419580,0,498
+"Tamworth Co-operative Society",2024,0,419580,0,498
+"Aldi",2014,NA,419580,NA,498
+"Aldi",2015,58800,478380,70,568
+"Aldi",2016,35280,513660,42,610
+"Aldi",2017,81480,595140,94,704
+"Aldi",2018,55440,650580,66,770
+"Aldi",2019,50400,700980,60,830
+"Aldi",2020,42840,743820,51,881
+"Aldi",2021,47880,791700,57,938
+"Aldi",2022,36960,828660,44,982
+"Aldi",2023,27720,856380,33,1015
+"Aldi",2024,25340,881720,28,1043
+"Whole Foods Market",2014,NA,4760,NA,5
+"Whole Foods Market",2015,0,140,0,1
+"Whole Foods Market",2016,0,140,0,1
+"Whole Foods Market",2017,0,140,0,1
+"Whole Foods Market",2018,0,140,0,1
+"Whole Foods Market",2019,0,140,0,1
+"Whole Foods Market",2020,0,140,0,1
+"Whole Foods Market",2021,0,140,0,1
+"Whole Foods Market",2022,0,140,0,1
+"Whole Foods Market",2023,0,140,0,1
+"Whole Foods Market",2024,0,140,0,1
+"Langdale Co-operative Society",2014,NA,140,NA,1
+"Langdale Co-operative Society",2015,0,26040,0,22
+"Langdale Co-operative Society",2016,0,26040,0,22
+"Langdale Co-operative Society",2017,0,26040,0,22
+"Langdale Co-operative Society",2018,0,26040,0,22
+"Langdale Co-operative Society",2019,0,26040,0,22
+"Langdale Co-operative Society",2020,0,26040,0,22
+"Langdale Co-operative Society",2021,0,26040,0,22
+"Langdale Co-operative Society",2022,0,26040,0,22
+"Langdale Co-operative Society",2023,0,26040,0,22
+"Langdale Co-operative Society",2024,0,26040,0,22
+"Booths",2014,NA,26040,NA,22
+"Booths",2015,7140,33180,4,26
+"Booths",2016,0,468300,0,556
+"Booths",2017,0,468300,0,556
+"Booths",2018,0,468300,0,556
+"Booths",2019,0,468300,0,556
+"Booths",2020,0,468300,0,556
+"Booths",2021,0,468300,0,556
+"Booths",2022,0,468300,0,556
+"Booths",2023,0,468300,0,556
+"Booths",2024,0,468300,0,556
+"Lidl",2014,NA,468300,NA,556
+"Lidl",2015,20160,488460,24,580
+"Lidl",2016,26880,515340,29,609
+"Lidl",2017,52920,568260,51,660
+"Lidl",2018,47460,615720,55,715
+"Lidl",2019,52500,668220,61,776
+"Lidl",2020,49560,717780,59,835
+"Lidl",2021,54600,772380,65,900
+"Lidl",2022,52080,824460,62,962
+"Lidl",2023,21420,845880,24,986
+"Lidl",2024,20160,866040,24,1010
+"Dunnes Stores",2014,NA,28980,NA,15
+"Dunnes Stores",2015,0,72800,0,26
+"Dunnes Stores",2016,0,72800,0,26
+"Dunnes Stores",2017,0,72800,0,26
+"Dunnes Stores",2018,0,72800,0,26
+"Dunnes Stores",2019,0,72800,0,26
+"Dunnes Stores",2020,0,72800,0,26
+"Dunnes Stores",2021,0,72800,0,26
+"Dunnes Stores",2022,0,72800,0,26
+"Dunnes Stores",2023,0,72800,0,26
+"Dunnes Stores",2024,0,72800,0,26
+"Costco",2014,NA,72800,NA,26
+"Costco",2015,2800,75600,1,27
+"Costco",2016,2800,78400,1,28
+"Costco",2017,0,81200,0,29
+"Costco",2018,0,81200,0,29
+"Costco",2019,2800,81200,1,29
+"Costco",2020,0,70000,0,25
+"Costco",2021,0,70000,0,25
+"Costco",2022,0,70000,0,25
+"Costco",2023,0,70000,0,25
+"Costco",2024,0,70000,0,25
+"Makro",2014,NA,70000,NA,25
+"Makro",2015,0,72800,0,26
+"Makro",2016,0,72800,0,26
+"Makro",2017,2800,72800,1,26
+"Makro",2018,0,NA,0,NA
+"Makro",2019,0,NA,0,NA
+"Makro",2020,0,NA,0,NA
+"Makro",2021,0,NA,0,NA
+"Makro",2022,0,NA,0,NA
+"Makro",2023,0,NA,0,NA
+"Makro",2024,0,NA,0,NA
