@@ -588,20 +588,20 @@ MORR,2022,2019,Scope 1 and 2,Market,Intensity,36.98,tCO2e/mGBP Turnover,36.98,tC
 MORR,2022,2020,Scope 1 and 2,Market,Intensity,34.74,tCO2e/mGBP Turnover,34.74,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK,
 MORR,2022,2021,Scope 1 and 2,Market,Intensity,32.55,tCO2e/mGBP Turnover,32.55,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK,
 MORR,2022,2022,Scope 1 and 2,Market,Intensity,28.5,tCO2e/mGBP Turnover,28.5,tCO2e/mGBP Turnover,tCO2e,mGBP,Turnover,UK,
-MORR,2019,2017,Energy,,Measure,2717487,MWh,2717.487,GWh,,,,UK,
-MORR,2019,2018,Energy,,Measure,2592286,MWh,2592.286,GWh,,,,UK,
-MORR,2020,2018,Energy,,Measure,2592286,MWh,2592.286,GWh,,,,UK,
-MORR,2020,2019,Energy,,Measure,2449301,MWh,2449.301,GWh,,,,UK,
+MORR,2019,2017,Energy,,Measure,2717487,MWh,2717.487,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2019,2018,Energy,,Measure,2592286,MWh,2592.286,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2020,2018,Energy,,Measure,2592286,MWh,2592.286,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2020,2019,Energy,,Measure,2449301,MWh,2449.301,GWh,,,,UK,Divided by 1000 for consistency
 MORR,2021,2019,Energy,,Measure,245219,MWh,245.219,GWh,,,,UK,
 MORR,2022,2019,Energy,,Measure,2409297,MWh,2409.297,GWh,,,,UK,
-MORR,2023,2019,Energy,,Measure,2114050531,KWh,2114.0505,GWh,,,,UK,
-MORR,2021,2020,Energy,,Measure,2459064,MWh,2459.064,GWh,,,,UK,
-MORR,2022,2020,Energy,,Measure,2487689,MWh,2487.689,GWh,,,,UK,
-MORR,2021,2021,Energy,,Measure,2043248,MWh,2043.248,GWh,,,,UK,
-MORR,2022,2021,Energy,,Measure,2737528,MWh,2737.528,GWh,,,,UK,
-MORR,2022,2022,Energy,,Measure,2323759,MWh,2323.759,GWh,,,,UK,
-MORR,2023,2022,Energy,,Measure,1921732436,KWh,1921.7324,GWh,,,,UK,
-MORR,2023,2023,Energy,,Measure,1849374070,KWh,1849.3741,GWh,,,,UK,
+MORR,2023,2019,Energy,,Measure,2114050531,KWh,2114.050531,GWh,,,,UK,Divided by 1000000 for consistency
+MORR,2021,2020,Energy,,Measure,2459064,MWh,2459.064,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2022,2020,Energy,,Measure,2487689,MWh,2487.689,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2021,2021,Energy,,Measure,2043248,MWh,2043.248,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2022,2021,Energy,,Measure,2737528,MWh,2737.528,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2022,2022,Energy,,Measure,2323759,MWh,2323.759,GWh,,,,UK,Divided by 1000 for consistency
+MORR,2023,2022,Energy,,Measure,1921732436,KWh,1921.732436,GWh,,,,UK,Divided by 1000000 for consistency
+MORR,2023,2023,Energy,,Measure,1849374070,KWh,1849.37407,GWh,,,,UK,Divided by 1000000 for consistency
 MORR,2018,2005,Scope 1,,Measure,757550,tCO2e,757550,tCO2e,,,,UK,
 MORR,2018,2005,Scope 1,,Measure,787550,tCO2e,787550,tCO2e,,,,UK,
 MORR,2018,2017,Scope 1,,Measure,488823,tCO2e,488823,tCO2e,,,,UK,
@@ -808,14 +808,14 @@ SAINS,2022,2021,Scope 1 and 2,Market,Intensity,31.27,tCO2e/1000 sq ft,0.29050780
 SAINS,2023,2021,Scope 1 and 2,Market,Intensity,30.63,tCO2e/1000 sq ft,0.284562012,tCO2e/m2,tCO2e,m2,,UK+,Multiplied by 100 for consistency
 SAINS,2023,2022,Scope 1 and 2,Market,Intensity,17.08,tCO2e/1000 sq ft,0.158678392,tCO2e/m2,tCO2e,m2,,UK+,Multiplied by 100 for consistency
 SAINS,2024,2023,Scope 1 and 2,Market,Intensity,16.3,tCO2e/1000 sq ft,0.151431955,tCO2e/m2,tCO2e,m2,,UK+,Multiplied by 100 for consistency
-SAINS,2021,2019,Energy,,Measure,"2,777,605,330",KWh,2777.6053,GWh,,,,UK+,
-SAINS,2021,2020,Energy,,Measure,"2,876,589,480",KWh,2876.5895,GWh,,,,UK+,
-SAINS,2022,2020,Energy,,Measure,"2,881,449,330.90",KWh,2881.4493,GWh,,,,UK+,
-SAINS,2022,2021,Energy,,Measure,"2,706,249,436.71",KWh,2706.2494,GWh,,,,UK+,
-SAINS,2023,2021,Energy,,Measure,"2,689,613,295.50",KWh,2689.6133,GWh,,,,UK+,
-SAINS,2023,2022,Energy,,Measure,"2,514,249,849.02",KWh,2514.2498,GWh,,,,UK+,
-SAINS,2024,2022,Energy,,Measure,"2,587,540,850.53",KWh,2587.5409,GWh,,,,UK+,
-SAINS,2024,2023,Energy,,Measure,"2,533,813,657.71",KWh,2533.8137,GWh,,,,UK+,
+SAINS,2021,2019,Energy,,Measure,"2,777,605,330",KWh,2777.60533,GWh,,,,UK+,Divided by 1000000 for consistency
+SAINS,2021,2020,Energy,,Measure,"2,876,589,480",KWh,2876.58948,GWh,,,,UK+,Divided by 1000000 for consistency
+SAINS,2022,2020,Energy,,Measure,"2,881,449,330.90",KWh,2881.449331,GWh,,,,UK+,Divided by 1000000 for consistency
+SAINS,2022,2021,Energy,,Measure,"2,706,249,436.71",KWh,2706.249437,GWh,,,,UK+,Divided by 1000000 for consistency
+SAINS,2023,2021,Energy,,Measure,"2,689,613,295.50",KWh,2689.613296,GWh,,,,UK+,Divided by 1000000 for consistency
+SAINS,2023,2022,Energy,,Measure,"2,514,249,849.02",KWh,2514.249849,GWh,,,,UK+,Divided by 1000000 for consistency
+SAINS,2024,2022,Energy,,Measure,"2,587,540,850.53",KWh,2587.540851,GWh,,,,UK+,Divided by 1000000 for consistency
+SAINS,2024,2023,Energy,,Measure,"2,533,813,657.71",KWh,2533.813658,GWh,,,,UK+,Divided by 1000000 for consistency
 SAINS,2016,2005,Scope 1,,Measure,536694,tCO2e,536694,tCO2e,,,,UK,
 SAINS,2015,2012,Scope 1,,Measure,722835,tCO2e,722835,tCO2e,,,,UK,
 SAINS,2014,2013,Scope 1,,Measure,618427,tCO2e,618427,tCO2e,,,,UK,
