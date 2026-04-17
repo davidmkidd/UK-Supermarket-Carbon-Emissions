@@ -1,4 +1,3 @@
-# UK Supermarket Comparison
 
 ![UK Supermarket Logo](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/main/logos.png)
 
