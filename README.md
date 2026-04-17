@@ -19,6 +19,28 @@ This requires:
 
 Data are processed and visualised using the [R language](https://www.r-project.org/) within a set of [Google Colab](https://colab.research.google.com/) Workbooks for which no prior knowledge is required. Workbooks are designed to be compleated sequentially but may also be run independently.
 
+# Why?
+
+Students often struggle to understand and effectively employ archival and secondary data to answer research problems.
+
+To effectively undertake such research students need well-developed data literacy skills, including the ability to:
+
+* Find data, as secondary data is collected and distributed by many different organisations for many purposes.
+* Understand data, including, how it was collected or created from other data products, compleateness, uncertainty, and use restrictions.
+* Adapt research methodolgy based on available data.
+* Understand how well the data captures the saliant aspects of the real-world system under investigation.
+* Define, implement, and record workflows that clean, transform, and sumarise data for analysis.
+* Apply exploratory data analysis techniques to discover pattern.
+* Critically evaluate the cause and meaning of pattern.
+* Identify and implement analytical approaches to test pattern.
+* Critically evaluate results considering the data quality and workflow.
+* Locate data and analysis in its enviromental and societal context, e.g. how might the infromation is interpreted.
+
+Tasks that are further be complicated by:
+
+* Data volume as the larger datasets become impossible to curate manually.
+* Data complexity - how data is structured in a dataset and relationships between data items and data sets.
+
 # Workbooks
 
 ## System and Data
