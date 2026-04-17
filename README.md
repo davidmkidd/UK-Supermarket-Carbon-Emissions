@@ -45,6 +45,8 @@ Tasks that are further be complicated by:
 
 ### System and Data
 
+[Workbook 1](/UKSmktComp_UK_Supermarket_Retailer.ipynb) Introduction to carbon reporting and supermarket emissions.
+
 [Workbook 1](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/f78133709d5a909b64282db917e478c263c2f7d6/UKSmktComp_UK_Supermarket_Retailer.ipynb) Introduction to carbon reporting and supermarket emissions.
 
 [Workbook 2](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/f78133709d5a909b64282db917e478c263c2f7d6/UKSmktComp_Stores_Cleaning.ipynb) Clean and summarise the Geolytix Retail Points dataset of UK supermarket outlets
