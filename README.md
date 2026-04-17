@@ -42,13 +42,13 @@ For each Scope:
 
 [Workbook 5](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/5dd074b8f408c64c6b50608476a41af7e6bbd622/UKSmktComp_Emissions_Scope1.ipynb) Scope 1
 
-[Workbook 6](https://colab.research.google.com/drive/1fo6NJ-2t7_VVn99Js8fanx3dGDiVdZud?usp=sharing) Scope 2 Location-based
+[Workbook 6](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope2_Location.ipynb) Scope 2 Location-based
 
-[Workbook 7](https://colab.research.google.com/drive/1_NcLYci-JUDkaC-Rsi6FOJ8CA38BahGW) Scope 2 Market-based
+[Workbook 7](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope2_Market.ipynb) Scope 2 Market-based
 
-[Workbook 8](https://colab.research.google.com/drive/1oSahn6j_O1kPpGFbavaFJFIFtFoa8ngS?usp=sharing) Scope 1 and 2 Location-based
+[Workbook 8](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope1and2_Location.ipynb) Scope 1 and 2 Location-based
 
-[Workbook 9](https://colab.research.google.com/drive/1oSahn6j_O1kPpGFbavaFJFIFtFoa8ngS?usp=sharing) Scope 2 and 2 Market-based
+[Workbook 9](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope1and2_Market.ipynb) Scope 2 and 2 Market-based
 
 ## Results
 
