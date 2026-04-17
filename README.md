@@ -47,13 +47,11 @@ Tasks that are further be complicated by:
 
 [Workbook 1](/UKSmktComp_UK_Supermarket_Retailer.ipynb) Introduction to carbon reporting and supermarket emissions.
 
-[Workbook 1](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/f78133709d5a909b64282db917e478c263c2f7d6/UKSmktComp_UK_Supermarket_Retailer.ipynb) Introduction to carbon reporting and supermarket emissions.
+[Workbook 2](/UKSmktComp_Stores_Cleaning.ipynb) Clean and summarise the Geolytix Retail Points dataset of UK supermarket outlets
 
-[Workbook 2](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/f78133709d5a909b64282db917e478c263c2f7d6/UKSmktComp_Stores_Cleaning.ipynb) Clean and summarise the Geolytix Retail Points dataset of UK supermarket outlets
+[Workbook 3](/UKSmktComp_Stores_Graphing.ipynb) Explore retailer store estate portfolios
 
-[Workbook 3](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/f78133709d5a909b64282db917e478c263c2f7d6/UKSmktComp_Stores_Graphing.ipynb) Explore retailer store estate portfolios
-
-[Workbook 4](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/5dd074b8f408c64c6b50608476a41af7e6bbd622/UKSmktComp_Emissions_Cleaning.ipynb) Clean, summarise, and scale emissions and energy data
+[Workbook 4](/UKSmktComp_Emissions_Cleaning.ipynb) Clean, summarise, and scale emissions and energy data
 
 ### Absolute and Intensity by Scope
 
@@ -64,21 +62,21 @@ For each Scope:
 3. Emissions are scaled to intensity using the best scaling model.
 
 
-[Workbook 5](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/5dd074b8f408c64c6b50608476a41af7e6bbd622/UKSmktComp_Emissions_Scope1.ipynb) Scope 1
+[Workbook 5](/UKSmktComp_Emissions_Scope1.ipynb) Scope 1
 
-[Workbook 6](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope2_Location.ipynb) Scope 2 Location-based
+[Workbook 6](/UKSmktComp_Emissions_Scope2_Location.ipynb) Scope 2 Location-based
 
-[Workbook 7](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope2_Market.ipynb) Scope 2 Market-based
+[Workbook 7](/UKSmktComp_Emissions_Scope2_Market.ipynb) Scope 2 Market-based
 
-[Workbook 8](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope1and2_Location.ipynb) Scope 1 and 2 Location-based
+[Workbook 8](/UKSmktComp_Emissions_Scope1and2_Location.ipynb) Scope 1 and 2 Location-based
 
-[Workbook 9](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope1and2_Market.ipynb) Scope 2 and 2 Market-based
+[Workbook 9](/UKSmktComp_Emissions_Scope1and2_Market.ipynb) Scope 2 and 2 Market-based
 
 ### Results
 
-[Workbook 10](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/1b7534ed6b4adeff83b0be18e91d4745ebde4fde/UKSmktComp_Intensity_Metrics.ipynb) Estimated and Reported Intensity
+[Workbook 10](/UKSmktComp_Intensity_Metrics.ipynb) Estimated and Reported Intensity
 
-[Workbook 11](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/01f64ccc4e291482270340595935cfe4f2f1390c/UKSmktComp_Retailer_Comparison.ipynb) Retailer Emission Intensity Comparison
+[Workbook 11](/UKSmktComp_Retailer_Comparison.ipynb) Retailer Emission Intensity Comparison
 
 ## Files
 
