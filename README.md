@@ -19,7 +19,7 @@ This requires:
 
 Data are processed and visualised using the [R language](https://www.r-project.org/) within a set of [Google Colab](https://colab.research.google.com/) Workbooks for which no prior knowledge is required. Workbooks are designed to be compleated sequentially but may also be run independently.
 
-# Why?
+## Why?
 
 Students often struggle to understand and effectively employ archival and secondary data to answer research problems.
 
@@ -41,9 +41,9 @@ Tasks that are further be complicated by:
 * Data volume as the larger datasets become impossible to curate manually.
 * Data complexity - how data is structured in a dataset and relationships between data items and data sets.
 
-# Workbooks
+## Workbooks
 
-## System and Data
+### System and Data
 
 [Workbook 1](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/f78133709d5a909b64282db917e478c263c2f7d6/UKSmktComp_UK_Supermarket_Retailer.ipynb) Introduction to carbon reporting and supermarket emissions.
 
@@ -53,7 +53,7 @@ Tasks that are further be complicated by:
 
 [Workbook 4](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/5dd074b8f408c64c6b50608476a41af7e6bbd622/UKSmktComp_Emissions_Cleaning.ipynb) Clean, summarise, and scale emissions and energy data
 
-## Absolute and Intensity by Scope
+### Absolute and Intensity by Scope
 
 For each Scope:
 
@@ -72,13 +72,13 @@ For each Scope:
 
 [Workbook 9](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/23986cf646a57f01adff993cbe1af4b47ab40ce8/UKSmktComp_Emissions_Scope1and2_Market.ipynb) Scope 2 and 2 Market-based
 
-## Results
+### Results
 
 [Workbook 10](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/1b7534ed6b4adeff83b0be18e91d4745ebde4fde/UKSmktComp_Intensity_Metrics.ipynb) Estimated and Reported Intensity
 
 [Workbook 11](https://github.com/davidmkidd/UK-Supermarket-Carbon-Emissions/blob/01f64ccc4e291482270340595935cfe4f2f1390c/UKSmktComp_Retailer_Comparison.ipynb) Retailer Emission Intensity Comparison
 
-# Files
+## Files
 
 | File | Description |
 |------|-------------|
