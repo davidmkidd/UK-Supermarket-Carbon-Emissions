@@ -7,7 +7,6 @@
 
 > ***A practical tutorial for analysing real‑world environmental data***
 
----
 
 ## Overview
 
@@ -28,7 +27,7 @@ they raise important questions about responsibility, scale, and intensity rather
 
 The focus of this tutorial is not ranking supermarkets as “good” or “bad”, but learning how environmental data can — and cannot — support decision‑making.
 
----
+
 
 ## Learning outcomes
 
@@ -43,7 +42,6 @@ By completing this tutorial, you will be able to:
 
 These skills are central to professional roles in environmental management, sustainability reporting, consultancy, and policy.
 
----
 
 ## What you will work with
 
@@ -56,7 +54,6 @@ The tutorial uses:
 
 All data used are secondary, publicly available, and representative of what environmental practitioners typically encounter.
 
----
 
 ## What this tutorial is (and is not)
 
@@ -74,8 +71,6 @@ This tutorial is not:
 * a definitive assessment of supermarket sustainability performance
 
 Uncertainty and imperfection are intentionally part of the learning process.
-
----
 
 ## Structure of the tutorial
 
@@ -98,8 +93,6 @@ The materials are structured to guide you step by step:
 
 Each step builds on the previous one and includes explanation alongside code.
 
----
-
 ## Workbooks
 
 ### System and Data
@@ -120,7 +113,6 @@ For each Scope:
 2. Scaling of emissions with store number and area are tested with linear regression.
 3. Emissions are scaled to intensity using the best scaling model.
 
-
 [Workbook 5](/UKSmktComp_Emissions_Scope1.ipynb) Scope 1
 
 [Workbook 6](/UKSmktComp_Emissions_Scope2_Location.ipynb) Scope 2 Location-based
@@ -136,8 +128,6 @@ For each Scope:
 [Workbook 10](/UKSmktComp_Intensity_Metrics.ipynb) Estimated and Reported Intensity
 
 [Workbook 11](/UKSmktComp_Retailer_Comparison.ipynb) Retailer Emission Intensity Comparison
-
----
 
 ## Important assumptions and limitations
 This tutorial makes several important assumptions that reflect real‑world practice:
@@ -158,8 +148,6 @@ The tutorial uses R for data analysis and visualisation.
 
 Students are encouraged to focus on interpretation rather than technical perfection.
 
----
-
 ## How to use this repository
 
 * Read this README first for context
@@ -168,7 +156,6 @@ Students are encouraged to focus on interpretation rather than technical perfect
 * Focus on *why* each step is taken, not just how
 
 This repository is suitable for use in taught sessions, workshops, or independent study.
----
 
 ## How this supports your MSc and future work
 The skills developed here are directly transferable to:
@@ -180,12 +167,9 @@ The skills developed here are directly transferable to:
 
 You will practise working with the same kinds of data, constraints, and trade‑offs faced by professionals in the field.
 
----
-
 ## Acknowledgements
 Store location and size information are derived from the GEOLYTIX Supermarket Retail Points dataset. Emissions data are taken from publicly available company reports.
 All analysis is for teaching purposes only.
----
 
 ## Author
 David M. Kidd
