@@ -1,4 +1,4 @@
-﻿retailer_code,retailer,hex,revenue_2023,cost_index,store_2023,area_2023,Range_SKUs
+﻿retailer_code,retailer,hex,revenue_2023,cost_index,store_2023,area_2023,range_sku
 TESC,Tesco,#FF0000FF,61300000000,0.8082887,2837,2203880,"22,200"
 SAINS,Sainsburys,#FE8F42FF,31491000000,0.822455584,1420,1503880,"25,120"
 ASDA,Asda,#1F9698FF,25617000000,0.780267263,843,1350160,"22,279"
